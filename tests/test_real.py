@@ -132,3 +132,15 @@ def test_published_dataset_rows_have_source_and_date():
             assert r["retrieved_at"] and (r.get("source_ref") or "").startswith("http"), (key, r)
             assert r["verified"] is True
     assert ds["meta"]["unavailable"]
+
+
+def test_preliminary_year_uses_dac1_totals_when_country_split_missing():
+    d = dac()
+    d["dac1_nok"][2025] = {"1010": 1500.0, "1015": 1000.0, "2000": 500.0, "1820": 200.0}
+    d["dac1_usd"][2025] = {"1010": 150.0, "1015": 100.0, "2000": 50.0, "1820": 20.0}
+    d["rates"] = oecd_dac.implied_rates(d["dac1_nok"], d["dac1_usd"])
+    flows, _, problems, notes = real_data.build_flows(d, "x")
+    p = {(f["recipient_id"], f["category_id"]): f for f in flows if f["year"] == 2025}
+    assert problems == [] and all(f["preliminary"] for f in p.values())
+    assert p[("unallocated", "oda_bilat")]["amount_mnok"] == 800 and p[("multilateral", "oda_multi")]["amount_mnok"] == 500 and p[("norway_refugees", "oda_refugee")]["amount_mnok"] == 200
+    assert any("2025" in n for n in notes)
