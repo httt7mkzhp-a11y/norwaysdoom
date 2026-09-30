@@ -47,10 +47,14 @@ def run_live(ds: dict, now: str) -> dict:
         mark("ssb", "failed", repr(e))
         traceback.print_exc()
 
-    # 2) Stortinget: kun referanse/ping
+    # 2) Stortinget: budsjettsaker som kildereferanser (ingen beløp)
     try:
-        cases = stortinget.budget_cases(f"{ds['meta']['currentYear'] - 1}-{ds['meta']['currentYear']}")
-        mark("stortinget", "live", f"{len(cases)} budsjettsaker funnet")
+        cases = stortinget.budget_cases(stortinget.session_id(ds["meta"]["currentYear"]))
+        if not cases:
+            raise ValueError("ingen budsjettsaker i sesjonen")
+        ds["meta"]["stortingetCases"] = cases
+        n_for = len(stortinget.foreign_budget_cases(cases))
+        mark("stortinget", "live", f"{len(cases)} budsjettsaker, {n_for} fra utenriks- og forsvarskomiteen (beløp: manuell)")
     except Exception as e:  # noqa: BLE001
         mark("stortinget", "failed", repr(e))
 

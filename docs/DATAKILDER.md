@@ -6,7 +6,7 @@
 |---|---|---|---|
 | Befolkning, BNP, KPI | SSB StatBank (PxWebApi, JSON-stat2) | API | Skrevet (`pipeline/sources/ssb.py`), **utestet**, tabell-id/koder må verifiseres |
 | Antall skattytere | SSB (skattestatistikk) | API/nedlasting | **Ikke koblet**; mock |
-| Budsjettsaker/vedtak | data.stortinget.no (XML) | API | Skrevet (`stortinget.py`), **utestet**; gir kun saksreferanser |
+| Budsjettsaker/vedtak | data.stortinget.no (XML) | API | **Testet live 2026-09-30** (`stortinget.py`): saksreferanser, komité, status, dato -> `meta.stortingetCases`; ingen beløp |
 | Beløp per post/mottaker, vedtatt | Gul bok / Prop. 1 S (regjeringen.no, statsbudsjettet.no) | PDF/HTML | **Manuell import** |
 | Faktiske tall | Statsregnskapet (DFØ) | Nedlasting | **Manuell import** |
 | Bistand per land/sektor | Norad bistandsstatistikk/resultatportal | Nedlasting | **Manuell import** |
