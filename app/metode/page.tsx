@@ -1,5 +1,6 @@
 "use client";
 import { Loading } from "@/components/Shell";
+import { withBase } from "@/lib/base";
 import { useData } from "@/lib/data";
 import { fmtDate } from "@/lib/format";
 import { useLang } from "@/lib/i18n";
@@ -71,7 +72,7 @@ export default function Method() {
         <h2 id="dl-h" className="font-serif text-xl">{t("method.dl.h")}</h2>
         <p className="mt-1 text-sm text-muted">{t("method.dl.p")}</p>
         <ul className="mt-3 flex flex-wrap gap-2">
-          {FILES.map((f) => <li key={f}><a className="btn" href={`/data/${f}`} download>{f}</a></li>)}
+          {FILES.map((f) => <li key={f}><a className="btn" href={withBase(`/data/${f}`)} download>{f}</a></li>)}
         </ul>
       </section>
     </>

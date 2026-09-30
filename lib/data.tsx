@@ -1,4 +1,5 @@
 "use client";
+import { withBase } from "./base";
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 import type { Category, Dataset, Recipient } from "./types";
 
@@ -9,7 +10,7 @@ export function DataProvider({ children }: { children: ReactNode }) {
   const [ds, setDs] = useState<Dataset | null>(null);
   const [error, setError] = useState<string | null>(null);
   useEffect(() => {
-    fetch("/data/dataset.json")
+    fetch(withBase("/data/dataset.json"))
       .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
       .then(setDs)
       .catch((e) => setError(String(e)));

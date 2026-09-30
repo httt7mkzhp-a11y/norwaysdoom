@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import { withBase } from "./base";
 
 export interface StArea { id: string; name_nb: string; name_en: string }
 export interface StCase {
@@ -54,6 +55,6 @@ function useJson<T>(url: string | null) {
   }, [url]);
   return { data, error };
 }
-export const useStIndex = () => useJson<StIndex>("/data/storting/index.json");
-export const useStReps = (enabled: boolean) => useJson<Record<string, Rep>>(enabled ? "/data/storting/reps.json" : null);
-export const useStRepVotes = (session: string | null) => useJson<RepVotes>(session ? `/data/storting/votes-${session}.json` : null);
+export const useStIndex = () => useJson<StIndex>(withBase("/data/storting/index.json"));
+export const useStReps = (enabled: boolean) => useJson<Record<string, Rep>>(enabled ? withBase("/data/storting/reps.json") : null);
+export const useStRepVotes = (session: string | null) => useJson<RepVotes>(session ? withBase(`/data/storting/votes-${session}.json`) : null);

@@ -1,4 +1,5 @@
 "use client";
+import { withBase } from "./base";
 import { useEffect, useState } from "react";
 import type { Dataset } from "./types";
 
@@ -19,7 +20,7 @@ export function useProjects() {
   const [data, setData] = useState<ProjectsFile | null>(null);
   const [error, setError] = useState<string | null>(null);
   useEffect(() => {
-    fetch("/data/projects.json").then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }).then(setData).catch((e) => setError(String(e)));
+    fetch(withBase("/data/projects.json")).then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }).then(setData).catch((e) => setError(String(e)));
   }, []);
   return { data, error };
 }
