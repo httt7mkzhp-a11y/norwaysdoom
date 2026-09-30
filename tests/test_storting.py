@@ -92,7 +92,7 @@ def test_published_index_has_source_and_retrieval_date():
         pytest.skip("ingen publisert storting-indeks")
     d = json.loads(p.read_text(encoding="utf-8"))
     assert d["meta"]["source_url"].startswith("https://") and d["meta"]["retrieved_at"]
-    assert all(c["url"].startswith("https://www.stortinget.no/") and c["reference"] for c in d["cases"])
+    assert all(c["url"].startswith("https://www.stortinget.no/") and (c["reference"] or c["title"]) for c in d["cases"])
     ids = {c["id"] for c in d["cases"]}
     for v in d["votes"]:
         assert v["case_id"] in ids

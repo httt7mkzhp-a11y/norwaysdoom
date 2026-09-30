@@ -1,0 +1,2483 @@
+{
+ "project_id": "follobanen",
+ "generated_at": "2026-09-30T11:38:08+00:00",
+ "note": "Automatisk uttrekk. Ikke publisert. Godkjenn manuelt i data/review/approved/.",
+ "cases": [
+  {
+   "id": "53925",
+   "session": "2012-2013",
+   "reference": "Dokument 3:13 (2011-2012), Innst. 166 S (2012-2013)",
+   "title": "Riksrevisjonens undersøkelse av utbygging og fornyelse av jernbaneinfrastrukturen Riksrevisjonens undersøkelse av utbygging og fornyelse av jernbaneinfrastruktu",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "53432",
+   "session": "2011-2012",
+   "reference": "Dokument 8:100 S (2011-2012), Innst. 291 S (2011-2012)",
+   "title": "Representantforslag fra stortingsrepresentantene Knut Arild Hareide, Kjell Ingolf Ropstad, Rigmor Andersen Eide og Dagrun Eriksen om å gjøre \"Barnas transportpl",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "52086",
+   "session": "2011-2012",
+   "reference": "Prop. 41 L (2011-2012), Innst. 139 L (2011-2012), Lovvedtak 33 (2011-2012)",
+   "title": "Endringer i jernbaneloven Endringer i jernbaneloven",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "51390",
+   "session": "2011-2012",
+   "reference": "Prop. 1 S (2011-2012), Innst. 13 S (2011-2012)",
+   "title": "Statsbudsjettet for 2012 Statsbudsjettet for 2012 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "57079",
+   "session": "2012-2013",
+   "reference": "Meld. St. 26 (2012-2013), Innst. 450 S (2012-2013)",
+   "title": "Nasjonal transportplan 2014-2023 Nasjonal transportplan 2014-2023",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "55522",
+   "session": "2012-2013",
+   "reference": "Prop. 1 S Tillegg 3 (2012-2013), romertall VI, Innst. 13 S (2012-2013)",
+   "title": "Endring av Prop. 1 S (2012-2013) om statsbudsjettet 2013 (Fullmakt til å ta opp statslån o.a., og saldering av statsbudsjettet 2013) Endring av Prop. 1 S (2012-",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "55108",
+   "session": "2012-2013",
+   "reference": "Prop. 1 S (2012-2013), Innst. 13 S (2012-2013)",
+   "title": "Statsbudsjettet 2013 Statsbudsjettet 2013 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "55061",
+   "session": "2012-2013",
+   "reference": "Dokument 8:5 S (2012-2013), Innst. 97 S (2012-2013)",
+   "title": "Representantforslag fra stortingsrepresentantene Øyvind Halleraker, Ingjerd Schou, Lars Myraune, Bjørn Lødemel og Elisabeth Røbekk Nørve om bruk av mer moderne ",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "59875",
+   "session": "2013-2014",
+   "reference": "Prop. 97 S (2013-2014), Innst. 255 S (2013-2014)",
+   "title": "Ein del saker om luftfart, veg og jernbane Ein del saker om luftfart, veg og jernbane",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "59548",
+   "session": "2013-2014",
+   "reference": "Dokument 8:49 S (2013-2014), Innst. 210 S (2013-2014)",
+   "title": "Representantforslag fra stortingsrepresentantene Janne Sjelmo Nordås og Geir Pollestad om en oppdatering av investeringsplanene i Nasjonal transportplan Represe",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "59294",
+   "session": "2013-2014",
+   "reference": "Prop. 47 S (2013-2014), Innst. 171 S (2013-2014)",
+   "title": "Samtykke til godkjenning av EØS-komiteens beslutning nr. 19/2014 av 14. februar 2014 om innlemmelse i EØS-avtalen av kommisjonens gjennomføringsbeslutning 2011/",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "58197",
+   "session": "2013-2014",
+   "reference": "Prop. 1 S (2013-2014), Innst. 13 S (2013-2014)",
+   "title": "Statsbudsjettet 2014 Statsbudsjettet 2014 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "58347",
+   "session": "2013-2014",
+   "reference": "Prop. 1 S Tillegg 1 (2013-2014), Innst. 13 S (2013-2014)",
+   "title": "Endring av Prop. 1 S (2013-2014) Statsbudsjettet 2014 Endring av Prop. 1 S (2013-2014) Statsbudsjettet 2014 (transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "62702",
+   "session": "2014-2015",
+   "reference": "Meld. St. 27 (2014-2015), Innst. 386 S (2014-2015)",
+   "title": "På rett spor - Reform av jernbanesektoren På rett spor - Reform av jernbanesektoren",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "62592",
+   "session": "2014-2015",
+   "reference": "Dokument 8:106 S (2014-2015), Innst. 364 S (2014-2015)",
+   "title": "Representantforslag fra stortingsrepresentant Heikki Eidsvoll Holmås om å sikre at det settes et klimamål for samferdselssektoren ved planlegging av ny Nasjonal",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "62700",
+   "session": "2014-2015",
+   "reference": "Prop. 117 S (2014-2015), Innst. 313 S (2014-2015)",
+   "title": "Nokre saker om luftfart, veg og jernbane Nokre saker om luftfart, veg og jernbane",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "62521",
+   "session": "2014-2015",
+   "reference": "Prop. 107 L (2014-2015), Innst. 311 L (2014-2015), Lovvedtak 84 (2014-2015)",
+   "title": "Endringer i jernbaneloven (sikring mot tilsiktede uønskede handlinger) Endringer i jernbaneloven (sikring mot tilsiktede uønskede handlinger)",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "60848",
+   "session": "2014-2015",
+   "reference": "Prop. 1 S (2014-2015), Innst. 13 S (2014-2015)",
+   "title": "Statsbudsjettet 2015 Statsbudsjettet 2015 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "65007",
+   "session": "2016-2017",
+   "reference": "Dokument 3:10 (2015-2016), Innst. 47 S (2016-2017)",
+   "title": "Riksrevisjonens undersøkelse om effektivitet i vedlikehold av jernbanenettet Riksrevisjonens undersøkelse om effektivitet i vedlikehold av jernbanenettet",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "65903",
+   "session": "2016-2017",
+   "reference": "Prop. 143 L (2015-2016), Innst. 94 L (2016-2017), Lovvedtak 13 (2016-2017)",
+   "title": "Endringar i jernbanelova og einskilde andre lover (reform av jernbanesektoren) Endringar i jernbanelova og einskilde andre lover (reform av jernbanesektoren)",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "65618",
+   "session": "2015-2016",
+   "reference": "Prop. 126 S (2015-2016), Innst. 406 S (2015-2016)",
+   "title": "Nokre saker om luftfart, veg, særskilde transporttiltak og jernbane Nokre saker om luftfart, veg, særskilde transporttiltak og jernbane",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "63588",
+   "session": "2015-2016",
+   "reference": "Dokument 8:4 S (2015-2016), Innst. 134 S (2015-2016)",
+   "title": "Representantforslag fra stortingsrepresentantene Hans Fredrik Grøvan, Line Henriette Hjemdal, Anders Tyvand og Hanne Thürmer om å utarbeide en egen Barnas trans",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "63926",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S Tillegg 2 (2015-2016), Innst. 5 S (2015-2016)",
+   "title": "Endring av Prop. 1 S (2015-2016) Statsbudsjettet 2016 under Samferdselsdepartementet mv. (noen saker om veg og jernbane og saldering) Endring av Prop. 1 S (2015",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "63846",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S Tillegg 1 (2015-2016), Innst. 13 S (2015-2016)",
+   "title": "Endring av Prop. 1 S (2015-2016) Statsbudsjettet 2016 og Prop. 1 LS (2015-2016) Skatter, avgifter og toll 2016 (økt antall asylankomster) Endring av Prop. 1 S (",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "63913",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S Tillegg 2 (2015-2016), Innst. 13 S (2015-2016)",
+   "title": "Endring av Prop. 1 S (2015-2016) Statsbudsjettet 2016 under Samferdselsdepartementet mv. (noen saker om veg og jernbane og saldering) Endring av Prop. 1 S (2015",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "63624",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S (2015-2016), Innst. 13 S (2015-2016)",
+   "title": "Statsbudsjettet 2016 Statsbudsjettet 2016 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "64057",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S Tillegg 2 (2015-2016), Innst. 2 S (2015-2016)",
+   "title": "Endring av Prop. 1 S (2015-2016) Statsbudsjettet 2016 under Samferdselsdepartementet mv. (noen saker om veg og jernbane og saldering) Endring av Prop. 1 S (2015",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "69086",
+   "session": "2017-2018",
+   "reference": "Dokument 3:11 (2016-2017), Innst. 39 S (2017-2018)",
+   "title": "Riksrevisjonens undersøkelse av effekten store investeringer i jernbanen har på togtilbudet Riksrevisjonens undersøkelse av effekten store investeringer i jernb",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "68843",
+   "session": "2016-2017",
+   "reference": "Prop. 131 S (2016-2017), Innst. 472 S (2016-2017)",
+   "title": "Nokre saker om administrasjon, veg, jernbane og post og telekommunikasjonar Nokre saker om administrasjon, veg, jernbane og post og telekommunikasjonar",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "67773",
+   "session": "2016-2017",
+   "reference": "Meld. St. 33 (2016-2017), Innst. 460 S (2016-2017)",
+   "title": "Nasjonal transportplan 2018-2029 Nasjonal transportplan 2018-2029",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "68592",
+   "session": "2016-2017",
+   "reference": "Prop. 107 L (2016-2017), Innst. 292 L (2016-2017), Lovvedtak 84 (2016-2017)",
+   "title": "Endringer i jernbaneloven og yrkestransportloven (billetteringsløsninger mv.) Endringer i jernbaneloven og yrkestransportloven (billetteringsløsninger mv.)",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "67110",
+   "session": "2016-2017",
+   "reference": "Dokument 8:15 S (2016-2017), Innst. 220 S (2016-2017)",
+   "title": "Representantforslag fra stortingsrepresentantene Per Olaf Lundteigen, Janne Sjelmo Nordås, Heikki Eidsvoll Holmås og Kirsti Bergstø om endring av førerforskrift",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "67099",
+   "session": "2016-2017",
+   "reference": "Prop. 1 S Tillegg 2 (2016-2017), Innst. 5 S (2016-2017)",
+   "title": "Endring av Prop. 1 S (2016-2017) Statsbudsjettet 2017 under Samferdselsdepartementet (tingsinnskudd i Bane NOR SF og andre saker i forbindelse med jernbanerefor",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "67098",
+   "session": "2016-2017",
+   "reference": "Prop. 1 S Tillegg 2 (2016-2017), Innst. 13 S (2016-2017)",
+   "title": "Endring av Prop. 1 S (2016-2017) Statsbudsjettet 2017 under Samferdselsdepartementet (tingsinnskudd i Bane NOR SF og andre saker i forbindelse med jernbanerefor",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "66724",
+   "session": "2016-2017",
+   "reference": "Prop. 1 S (2016-2017), Innst. 13 S (2016-2017)",
+   "title": "Statsbudsjettet 2017 Statsbudsjettet 2017 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "66698",
+   "session": "2016-2017",
+   "reference": "Prop. 1 S Tillegg 2 (2016-2017), Innst. 2 S (2016-2017)",
+   "title": "Endring av Prop. 1 S (2016-2017) Statsbudsjettet 2017 under Samferdselsdepartementet (tingsinnskudd i Bane NOR SF og andre saker i forbindelse med jernbanerefor",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "66700",
+   "session": "2016-2017",
+   "reference": "Prop. 8 L (2016-2017), Innst. 93 L (2016-2017), Lovvedtak 12 (2016-2017)",
+   "title": "Endringer i jernbaneloven og jernbaneundersøkelsesloven (gjennomføring av direktiv 2012/34/EU mv.) Endringer i jernbaneloven og jernbaneundersøkelsesloven (gjen",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "72508",
+   "session": "2017-2018",
+   "reference": "Dokument 8:232 S (2017-2018), Innst. 382 S (2017-2018)",
+   "title": "Representantforslag fra stortingsrepresentantene Arne Nævra, Audun Lysbakken og Karin Andersen om å sikre virksomhetsoverdragelse for de ansatte i jernbanen Rep",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "71698",
+   "session": "2017-2018",
+   "reference": "Dokument 8:181 S (2017-2018), Innst. 296 S (2017-2018)",
+   "title": "Representantforslag fra stortingsrepresentantene Arne Nævra, Kari Elisabeth Kaski, Freddy André Øvstegård, Karin Andersen, Sverre Myrli, Siv Henriette Jacobsen ",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "71089",
+   "session": "2017-2018",
+   "reference": "Dokument 8:125 S (2017-2018), Innst. 224 S (2017-2018)",
+   "title": "Representantforslag fra stortingsrepresentantene Åslaug Sem-Jacobsen, Per Olaf Lundteigen og Siv Mossleth om å utrede de samfunnsøkonomiske gevinstene og kostna",
+   "committee": "FAMKULT",
+   "kind": "tittel"
+  },
+  {
+   "id": "71664",
+   "session": "2017-2018",
+   "reference": "",
+   "title": "Redegjørelse av samferdselsministeren om handlingsprogrammet for jernbanesektoren Redegjørelse av samferdselsministeren om handlingsprogrammet for jernbanesekto",
+   "committee": "",
+   "kind": "tittel"
+  },
+  {
+   "id": "69749",
+   "session": "2017-2018",
+   "reference": "Prop. 1 S (2017-2018), Innst. 13 S (2017-2018)",
+   "title": "Statsbudsjettet 2018 Statsbudsjettet 2018 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "76187",
+   "session": "2018-2019",
+   "reference": "Prop. 110 S (2018-2019), Innst. 416 S (2018-2019)",
+   "title": "Nokre saker om veg, jernbane og post Nokre saker om veg, jernbane og post",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "73586",
+   "session": "2018-2019",
+   "reference": "Prop. 1 S (2018-2019), Innst. 13 S (2018-2019)",
+   "title": "Statsbudsjettet 2019 Statsbudsjettet 2019 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "74093",
+   "session": "2018-2019",
+   "reference": "Prop. 1 S Tillegg 1 (2018-2019), Innst. 13 S (2018-2019)",
+   "title": "Endring av Prop. 1 S (2018-2019) Statsbudsjettet 2019 under Samferdselsdepartementet (omdisponering av bevilgninger til jernbaneformål knyttet til infrastruktur",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "74059",
+   "session": "2018-2019",
+   "reference": "Prop. 1 S Tillegg 1 (2018-2019), Innst. 2 S (2018-2019)",
+   "title": "Endring av Prop. 1 S (2018-2019) Statsbudsjettet 2019 under Samferdselsdepartementet (omdisponering av bevilgninger til jernbaneformål knyttet til infrastruktur",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "84178",
+   "session": "2020-2021",
+   "reference": "Prop. 101 LS (2019-2012), Innst. 526 S (2020-2021), S-delen",
+   "title": "Endringer i jernbaneloven mv. (fjerde jernbanepakke) og samtykke til deltakelse i to beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av direktiv 2012/3",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "79687",
+   "session": "2020-2021",
+   "reference": "Prop. 101 LS (2019-2020), Innst. 525 L (2020-2021), L-delen, Lovvedtak 137 (2020-2021)",
+   "title": "Endringer i jernbaneloven mv. (fjerde jernbanepakke) og samtykke til deltakelse i to beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av direktiv 2012/3",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "79686",
+   "session": "2020-2021",
+   "reference": "Prop. 101 LS (2019-2020), Innst. 182 S (2020-2021)",
+   "title": "Endringer i jernbaneloven mv. (fjerde jernbanepakke) og samtykke til deltakelse i to beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av direktiv 2012/3",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "79278",
+   "session": "2019-2020",
+   "reference": "Meld. St. 17 (2019-2020), Innst. 340 S (2019-2020)",
+   "title": "Noen saker om jernbane Noen saker om jernbane",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "77368",
+   "session": "2019-2020",
+   "reference": "Prop. 1 S (2019-2020), Innst. 13 S (2019-2020)",
+   "title": "Statsbudsjettet 2020 Statsbudsjettet 2020 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "77784",
+   "session": "2019-2020",
+   "reference": "Prop. 1 S Tillegg 1 (2019-2020), Innst. 13 S (2019-2020)",
+   "title": "Endring av Prop. 1 S (2019-2020) Statsbudsjettet 2020 under Samferdselsdepartementet og Kommunal- og moderniseringsdepartementet (overføring av administrasjon a",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "83145",
+   "session": "2020-2021",
+   "reference": "Meld. St. 20 (2020-2021), Innst. 653 S (2020-2021)",
+   "title": "Nasjonal transportplan 2022-2033 Nasjonal transportplan 2022-2033",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "84936",
+   "session": "2020-2021",
+   "reference": "Prop. 193 S (2020-2021), Innst. 648 S (2020-2021)",
+   "title": "Nokre saker om luftfart, veg, særskilde transporttiltak og jernbane Nokre saker om luftfart, veg, særskilde transporttiltak og jernbane",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "84246",
+   "session": "2020-2021",
+   "reference": "Dokument 23 (2020-2021), Innst. 526 S (2020-2021)",
+   "title": "Høyesteretts betenkning om hvorvidt Stortinget med hjemmel i Grunnloven § 26 annet ledd kan samtykke til deltakelse i to beslutninger i EØS-komiteen om innlemme",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "83258",
+   "session": "2020-2021",
+   "reference": "Dokument 8:99 S (2020-2021), Innst. 305 S (2020-2021)",
+   "title": "Representantforslag fra stortingsrepresentantene Nicholas Wilkinson, Freddy André Øvstegård, Karin Andersen, Lars Haltbrekken og Arne Nævra om å utarbeide en KV",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "82152",
+   "session": "2020-2021",
+   "reference": "Prop. 1 S Tillegg 1 (2020-2021), Innst. 13 S (2020-2021)",
+   "title": "Endring av Prop. 1 S (2020-2021) Statsbudsjettet 2021 (saldering) Endring av Prop. 1 S (2020-2021) Statsbudsjettet 2021 (saldering)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "81535",
+   "session": "2020-2021",
+   "reference": "Prop. 1 S (2020-2021), Innst. 13 S (2020-2021)",
+   "title": "Statsbudsjettet 2021 Statsbudsjettet 2021 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "88890",
+   "session": "2021-2022",
+   "reference": "Dokument 8:182 S (2021-2022), Innst. 327 S (2021-2022)",
+   "title": "Representantforslag fra stortingsrepresentantene Mona Fagerås, Ingrid Fiskaa, Grete Wold, Andreas Sjalg Unneland og Freddy André Øvstegård om å evaluere jernban",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "88895",
+   "session": "2021-2022",
+   "reference": "Dokument 8:181 S (2021-2022), Innst. 320 S (2021-2022)",
+   "title": "Representantforslag fra stortingsrepresentantene Mona Fagerås, Ingrid Fiskaa, Andreas Sjalg Unneland og Grete Wold om en punktlig og pålitelig jernbane Represen",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "86457",
+   "session": "2021-2022",
+   "reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 13 S (2021-2022)",
+   "title": "Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 (kapitler fordelt til transport- og kommunikasjonsko",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "86104",
+   "session": "2021-2022",
+   "reference": "Dokument 8:13 S (2021-2022), Innst. 85 S (2021-2022)",
+   "title": "Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir Jørgensen og Sofie Marhaug om å oppheve vedtaket om innlemmelse av rettsaktene som inngår ",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "86053",
+   "session": "2021-2022",
+   "reference": "Prop. 1 S (2021-2022), Innst. 13 S (2021-2022)",
+   "title": "Statsbudsjettet 2022 Statsbudsjettet 2022 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "93726",
+   "session": "2022-2023",
+   "reference": "Prop. 70 LS (2022-2023), Innst. 415 S (2022-2023)",
+   "title": "Endringar i lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-lova) og samtykke til godkjenning av endringar av 30. september 2015 og 26. september 20",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "93727",
+   "session": "2022-2023",
+   "reference": "Prop. 70 LS (2022-2023), Innst. 414 L (2022-2023), Lovvedtak 99 (2022-2023)",
+   "title": "Endringar i lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-lova) og samtykke til godkjenning av endringar av 30. september 2015 og 26. september 20",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "92663",
+   "session": "2022-2023",
+   "reference": "Dokument 8:119 S (2022-2023), Innst. 263 S (2022-2023)",
+   "title": "Representantforslag fra stortingsrepresentantene Mona Fagerås, Freddy André Øvstegård, Lars Haltbrekken, Kathy Lie, Ingrid Fiskaa og Kirsti Bergstø om å stoppe ",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "90794",
+   "session": "2022-2023",
+   "reference": "Prop. 1 S (2022-2023), Innst. 13 S (2022-2023)",
+   "title": "Statsbudsjettet 2023 Statsbudsjettet 2023 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "91385",
+   "session": "2022-2023",
+   "reference": "Prop. 1 S Tillegg 2 (2022-2023), kap. 3543, Innst. 13 S (2022-2023)",
+   "title": "Endring av Prop. 1 S (2022-2023) Statsbudsjettet 2023 og Prop. 1 LS (2022-2023) Skatter, avgifter og toll 2023 (saldering) Endring av Prop. 1 S (2022-2023) Stat",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "91322",
+   "session": "2022-2023",
+   "reference": "Prop. 1 S Tillegg 1 (2022-2023), Innst. 13 S (2022-2023)",
+   "title": "Endring av Prop. 1 S (2022-2023) Statsbudsjettet 2023 under Samferdselsdepartementet og Kommunal- og distriktsdepartementet (orientering om prisjustering av kos",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "90835",
+   "session": "2022-2023",
+   "reference": "Dokument 8:11 S (2022-2023), Innst. 72 S (2022-2023)",
+   "title": "Representantforslag fra stortingsrepresentantene Mona Fagerås og Kirsti Bergstø om å stoppe oppsplitting av jernbanen og slå sammen Vy og Flytoget Representantf",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "99092",
+   "session": "2024-2025",
+   "reference": "Dokument 3:14 (2023-2024), Innst. 108 S (2024-2025)",
+   "title": "Riksrevisjonens undersøking av styresmaktene sitt arbeid med å redusere forseinkingar og innstillingar på jernbanen Riksrevisjonens undersøking av styresmaktene",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "98233",
+   "session": "2023-2024",
+   "reference": "Meld. St. 14 (2023-2024), Innst. 439 S (2023-2024)",
+   "title": "Nasjonal transportplan 2025-2036 Nasjonal transportplan 2025-2036",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "97474",
+   "session": "2023-2024",
+   "reference": "Dokument 8:79 S (2023-2024), Innst. 240 S (2023-2024)",
+   "title": "Representantforslag fra stortingsrepresentantene Frank Edvard Sve og Morten Stordalen om endringer i jernbanereformen Representantforslag om endringer i jernban",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "96126",
+   "session": "2023-2024",
+   "reference": "Dokument 8:28 S (2023-2024), Innst. 166 S (2023-2024)",
+   "title": "Representantforslag fra stortingsrepresentantene Freddy André Øvstegård, Andreas Sjalg Unneland og Mona Fagerås om å sikre beredskap og driftsstabilitet på nors",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "96452",
+   "session": "2023-2024",
+   "reference": "Prop. 1 S Tillegg 2 (2023-2024), Innst. 13 S (2023-2024)",
+   "title": "Endring av Prop. 1 S (2023-2024) Statsbudsjettet 2024 og Prop. 1 LS (2023-2024) Skatter og avgifter 2024 (endringer i departementsstrukturen og saldering) Endri",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "95768",
+   "session": "2023-2024",
+   "reference": "Prop. 1 S (2023-2024), Innst. 13 S (2023-2024)",
+   "title": "Statsbudsjettet 2024 Statsbudsjettet 2024 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "102337",
+   "session": "2024-2025",
+   "reference": "Dokument 8:111 S (2024-2025), Innst. 306 S (2024-2025)",
+   "title": "Representantforslag fra stortingsrepresentantene Erna Solberg, Erlend Larsen, Liv Kari Eskeland, Ingjerd Schie Schou, Anne Kristine Linnestad, Mahmoud Farahmand",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "101553",
+   "session": "2024-2025",
+   "reference": "Dokument 8:48 S (2024-2025), Innst. 212 S (2024-2025)",
+   "title": "Representantforslag fra stortingsrepresentantene Kathy Lie, Freddy André Øvstegård, Grete Wold og Mona Fagerås om en uavhengig evaluering av jernbanereformen Re",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "100218",
+   "session": "2024-2025",
+   "reference": "Prop. 1 S (2024-2025), Innst. 13 S (2024-2025)",
+   "title": "Statsbudsjettet 2025 Statsbudsjettet 2025 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  },
+  {
+   "id": "200386",
+   "session": "2025-2026",
+   "reference": "Dokument 3:19 (2025–2026)",
+   "title": "Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet",
+   "committee": "",
+   "kind": "tittel"
+  },
+  {
+   "id": "200347",
+   "session": "2025-2026",
+   "reference": "Dokument 8:302 S (2025–2026)",
+   "title": "Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren Representantforslag fr",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "200348",
+   "session": "2025-2026",
+   "reference": "Dokument 8:303 S (2025–2026)",
+   "title": "Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet Representantforslag f",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "104906",
+   "session": "2025-2026",
+   "reference": "Prop. 1 S (2025-2026), Innst. 13 S (2025-2026)",
+   "title": "Statsbudsjettet 2026 Statsbudsjettet 2026 (kapitler fordelt til transport- og kommunikasjonskomiteen)",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
+  }
+ ],
+ "documents": [
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-166.pdf",
+   "title": "Innst. 166 S (2012-2013)",
+   "case_id": "53925",
+   "case_reference": "Dokument 3:13 (2011-2012), Innst. 166 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 16,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-291.pdf",
+   "title": "Innst. 291 S (2011-2012)",
+   "case_id": "53432",
+   "case_reference": "Dokument 8:100 S (2011-2012), Innst. 291 S (2011-2012)",
+   "session": "2011-2012",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-450.pdf",
+   "title": "Innst. 450 S (2012-2013)",
+   "case_id": "57079",
+   "case_reference": "Meld. St. 26 (2012-2013), Innst. 450 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 250,
+   "n_candidates": 3
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "case_reference": "Prop. 1 S Tillegg 3 (2012-2013), romertall VI, Innst. 13 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 128,
+   "n_candidates": 6
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-097.pdf",
+   "title": "Innst. 97 S (2012-2013)",
+   "case_id": "55061",
+   "case_reference": "Dokument 8:5 S (2012-2013), Innst. 97 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-255.pdf",
+   "title": "Innst. 255 S (2013-2014)",
+   "case_id": "59875",
+   "case_reference": "Prop. 97 S (2013-2014), Innst. 255 S (2013-2014)",
+   "session": "2013-2014",
+   "n_pages": 12,
+   "n_candidates": 3
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-210.pdf",
+   "title": "Innst. 210 S (2013-2014)",
+   "case_id": "59548",
+   "case_reference": "Dokument 8:49 S (2013-2014), Innst. 210 S (2013-2014)",
+   "session": "2013-2014",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-171.pdf",
+   "title": "Innst. 171 S (2013-2014)",
+   "case_id": "59294",
+   "case_reference": "Prop. 47 S (2013-2014), Innst. 171 S (2013-2014)",
+   "session": "2013-2014",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-013.pdf",
+   "title": "Innst. 13 S (2013-2014)",
+   "case_id": "58197",
+   "case_reference": "Prop. 1 S (2013-2014), Innst. 13 S (2013-2014)",
+   "session": "2013-2014",
+   "n_pages": 69,
+   "n_candidates": 3
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-386.pdf",
+   "title": "Innst. 386 S (2014-2015)",
+   "case_id": "62702",
+   "case_reference": "Meld. St. 27 (2014-2015), Innst. 386 S (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 20,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-364.pdf",
+   "title": "Innst. 364 S (2014-2015)",
+   "case_id": "62592",
+   "case_reference": "Dokument 8:106 S (2014-2015), Innst. 364 S (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-313.pdf",
+   "title": "Innst. 313 S (2014-2015)",
+   "case_id": "62700",
+   "case_reference": "Prop. 117 S (2014-2015), Innst. 313 S (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-311.pdf",
+   "title": "Innst. 311 L (2014-2015)",
+   "case_id": "62521",
+   "case_reference": "Prop. 107 L (2014-2015), Innst. 311 L (2014-2015), Lovvedtak 84 (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-013.pdf",
+   "title": "Innst. 13 S (2014-2015)",
+   "case_id": "60848",
+   "case_reference": "Prop. 1 S (2014-2015), Innst. 13 S (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 81,
+   "n_candidates": 3
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-047s.pdf",
+   "title": "Innst. 47 S (2016-2017)",
+   "case_id": "65007",
+   "case_reference": "Dokument 3:10 (2015-2016), Innst. 47 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-094l.pdf",
+   "title": "Innst. 94 L (2016-2017)",
+   "case_id": "65903",
+   "case_reference": "Prop. 143 L (2015-2016), Innst. 94 L (2016-2017), Lovvedtak 13 (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-406.pdf",
+   "title": "Innst. 406 S (2015-2016)",
+   "case_id": "65618",
+   "case_reference": "Prop. 126 S (2015-2016), Innst. 406 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-134.pdf",
+   "title": "Innst. 134 S (2015-2016)",
+   "case_id": "63588",
+   "case_reference": "Dokument 8:4 S (2015-2016), Innst. 134 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-005.pdf",
+   "title": "Innst. 5 S (2015-2016)",
+   "case_id": "63926",
+   "case_reference": "Prop. 1 S Tillegg 2 (2015-2016), Innst. 5 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 48,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-013.pdf",
+   "title": "Innst. 13 S (2015-2016)",
+   "case_id": "63846",
+   "case_reference": "Prop. 1 S Tillegg 1 (2015-2016), Innst. 13 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 84,
+   "n_candidates": 2
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-002.pdf",
+   "title": "Innst. 2 S (2015-2016)",
+   "case_id": "64057",
+   "case_reference": "Prop. 1 S Tillegg 2 (2015-2016), Innst. 2 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 329,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-039s.pdf",
+   "title": "Innst. 39 S (2017-2018)",
+   "case_id": "69086",
+   "case_reference": "Dokument 3:11 (2016-2017), Innst. 39 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 8,
+   "n_candidates": 2
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-472s.pdf",
+   "title": "Innst. 472 S (2016-2017)",
+   "case_id": "68843",
+   "case_reference": "Prop. 131 S (2016-2017), Innst. 472 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-460s.pdf",
+   "title": "Innst. 460 S (2016-2017)",
+   "case_id": "67773",
+   "case_reference": "Meld. St. 33 (2016-2017), Innst. 460 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 160,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-292l.pdf",
+   "title": "Innst. 292 L (2016-2017)",
+   "case_id": "68592",
+   "case_reference": "Prop. 107 L (2016-2017), Innst. 292 L (2016-2017), Lovvedtak 84 (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-220s.pdf",
+   "title": "Innst. 220 S (2016-2017)",
+   "case_id": "67110",
+   "case_reference": "Dokument 8:15 S (2016-2017), Innst. 220 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-005s.pdf",
+   "title": "Innst. 5 S (2016-2017)",
+   "case_id": "67099",
+   "case_reference": "Prop. 1 S Tillegg 2 (2016-2017), Innst. 5 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 48,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-013s.pdf",
+   "title": "Innst. 13 S (2016-2017)",
+   "case_id": "67098",
+   "case_reference": "Prop. 1 S Tillegg 2 (2016-2017), Innst. 13 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 108,
+   "n_candidates": 1
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-002s.pdf",
+   "title": "Innst. 2 S (2016-2017)",
+   "case_id": "66698",
+   "case_reference": "Prop. 1 S Tillegg 2 (2016-2017), Innst. 2 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 320,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-093l.pdf",
+   "title": "Innst. 93 L (2016-2017)",
+   "case_id": "66700",
+   "case_reference": "Prop. 8 L (2016-2017), Innst. 93 L (2016-2017), Lovvedtak 12 (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-382s.pdf",
+   "title": "Innst. 382 S (2017-2018)",
+   "case_id": "72508",
+   "case_reference": "Dokument 8:232 S (2017-2018), Innst. 382 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-296s.pdf",
+   "title": "Innst. 296 S (2017-2018)",
+   "case_id": "71698",
+   "case_reference": "Dokument 8:181 S (2017-2018), Innst. 296 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-224s.pdf",
+   "title": "Innst. 224 S (2017-2018)",
+   "case_id": "71089",
+   "case_reference": "Dokument 8:125 S (2017-2018), Innst. 224 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-013s.pdf",
+   "title": "Innst. 13 S (2017-2018)",
+   "case_id": "69749",
+   "case_reference": "Prop. 1 S (2017-2018), Innst. 13 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 68,
+   "n_candidates": 2
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-416s.pdf",
+   "title": "Innst. 416 S (2018-2019)",
+   "case_id": "76187",
+   "case_reference": "Prop. 110 S (2018-2019), Innst. 416 S (2018-2019)",
+   "session": "2018-2019",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-013s.pdf",
+   "title": "Innst. 13 S (2018-2019)",
+   "case_id": "73586",
+   "case_reference": "Prop. 1 S (2018-2019), Innst. 13 S (2018-2019)",
+   "session": "2018-2019",
+   "n_pages": 78,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-526s.pdf",
+   "title": "Innst. 526 S (2020-2021)",
+   "case_id": "84178",
+   "case_reference": "Prop. 101 LS (2019-2012), Innst. 526 S (2020-2021), S-delen",
+   "session": "2020-2021",
+   "n_pages": 40,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-525l.pdf",
+   "title": "Innst. 525 L (2020-2021)",
+   "case_id": "79687",
+   "case_reference": "Prop. 101 LS (2019-2020), Innst. 525 L (2020-2021), L-delen, Lovvedtak 137 (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-182s.pdf",
+   "title": "Innst. 182 S (2020-2021)",
+   "case_id": "79686",
+   "case_reference": "Prop. 101 LS (2019-2020), Innst. 182 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 36,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-340s.pdf",
+   "title": "Innst. 340 S (2019-2020)",
+   "case_id": "79278",
+   "case_reference": "Meld. St. 17 (2019-2020), Innst. 340 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 12,
+   "n_candidates": 2
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-013s.pdf",
+   "title": "Innst. 13 S (2019-2020)",
+   "case_id": "77368",
+   "case_reference": "Prop. 1 S (2019-2020), Innst. 13 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 92,
+   "n_candidates": 3
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-653s.pdf",
+   "title": "Innst. 653 S (2020-2021)",
+   "case_id": "83145",
+   "case_reference": "Meld. St. 20 (2020-2021), Innst. 653 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 308,
+   "n_candidates": 5
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-648s.pdf",
+   "title": "Innst. 648 S (2020-2021)",
+   "case_id": "84936",
+   "case_reference": "Prop. 193 S (2020-2021), Innst. 648 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 13,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-305s.pdf",
+   "title": "Innst. 305 S (2020-2021)",
+   "case_id": "83258",
+   "case_reference": "Dokument 8:99 S (2020-2021), Innst. 305 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-013s.pdf",
+   "title": "Innst. 13 S (2020-2021)",
+   "case_id": "82152",
+   "case_reference": "Prop. 1 S Tillegg 1 (2020-2021), Innst. 13 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 88,
+   "n_candidates": 3
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-327s.pdf",
+   "title": "Innst. 327 S (2021-2022)",
+   "case_id": "88890",
+   "case_reference": "Dokument 8:182 S (2021-2022), Innst. 327 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-320s.pdf",
+   "title": "Innst. 320 S (2021-2022)",
+   "case_id": "88895",
+   "case_reference": "Dokument 8:181 S (2021-2022), Innst. 320 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-013s.pdf",
+   "title": "Innst. 13 S (2021-2022)",
+   "case_id": "86457",
+   "case_reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 13 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 60,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-085s.pdf",
+   "title": "Innst. 85 S (2021-2022)",
+   "case_id": "86104",
+   "case_reference": "Dokument 8:13 S (2021-2022), Innst. 85 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-415s.pdf",
+   "title": "Innst. 415 S (2022-2023)",
+   "case_id": "93726",
+   "case_reference": "Prop. 70 LS (2022-2023), Innst. 415 S (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-414l.pdf",
+   "title": "Innst. 414 L (2022-2023)",
+   "case_id": "93727",
+   "case_reference": "Prop. 70 LS (2022-2023), Innst. 414 L (2022-2023), Lovvedtak 99 (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-263s.pdf",
+   "title": "Innst. 263 S (2022-2023)",
+   "case_id": "92663",
+   "case_reference": "Dokument 8:119 S (2022-2023), Innst. 263 S (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-013s.pdf",
+   "title": "Innst. 13 S (2022-2023)",
+   "case_id": "90794",
+   "case_reference": "Prop. 1 S (2022-2023), Innst. 13 S (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 56,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-072s.pdf",
+   "title": "Innst. 72 S (2022-2023)",
+   "case_id": "90835",
+   "case_reference": "Dokument 8:11 S (2022-2023), Innst. 72 S (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-108s.pdf",
+   "title": "Innst. 108 S (2024-2025)",
+   "case_id": "99092",
+   "case_reference": "Dokument 3:14 (2023-2024), Innst. 108 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-439s.pdf",
+   "title": "Innst. 439 S (2023-2024)",
+   "case_id": "98233",
+   "case_reference": "Meld. St. 14 (2023-2024), Innst. 439 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 420,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-240s.pdf",
+   "title": "Innst. 240 S (2023-2024)",
+   "case_id": "97474",
+   "case_reference": "Dokument 8:79 S (2023-2024), Innst. 240 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-166s.pdf",
+   "title": "Innst. 166 S (2023-2024)",
+   "case_id": "96126",
+   "case_reference": "Dokument 8:28 S (2023-2024), Innst. 166 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-013s.pdf",
+   "title": "Innst. 13 S (2023-2024)",
+   "case_id": "96452",
+   "case_reference": "Prop. 1 S Tillegg 2 (2023-2024), Innst. 13 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 52,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-306s.pdf",
+   "title": "Innst. 306 S (2024-2025)",
+   "case_id": "102337",
+   "case_reference": "Dokument 8:111 S (2024-2025), Innst. 306 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 20,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-212s.pdf",
+   "title": "Innst. 212 S (2024-2025)",
+   "case_id": "101553",
+   "case_reference": "Dokument 8:48 S (2024-2025), Innst. 212 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-013s.pdf",
+   "title": "Innst. 13 S (2024-2025)",
+   "case_id": "100218",
+   "case_reference": "Prop. 1 S (2024-2025), Innst. 13 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 60,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-013s.pdf",
+   "title": "Innst. 13 S (2025-2026)",
+   "case_id": "104906",
+   "case_reference": "Prop. 1 S (2025-2026), Innst. 13 S (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 56,
+   "n_candidates": 0
+  }
+ ],
+ "skipped": [
+  {
+   "case_id": "52086",
+   "url": "http://www.regjeringen.no/id/PRP201120120041000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "52086",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-139.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "51390",
+   "url": "http://www.regjeringen.no/id/PRP201120120001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51390",
+   "url": "http://www.regjeringen.no/id/PRP201120120001FKDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51390",
+   "url": "http://www.regjeringen.no/id/PRP201120120001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51390",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-013.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "57079",
+   "url": "http://www.regjeringen.no/id/STM201220130026000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55522",
+   "url": "http://www.regjeringen.no/id/PRP201220130001T03DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55108",
+   "url": "http://www.regjeringen.no/id/PRP201220130001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55108",
+   "url": "http://www.regjeringen.no/id/PRP201220130001FKDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55108",
+   "url": "http://www.regjeringen.no/id/PRP201220130001FADDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55108",
+   "url": "http://www.regjeringen.no/id/PRP201220130001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "59875",
+   "url": "http://www.regjeringen.no/id/PRP201320140097000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "59294",
+   "url": "http://www.regjeringen.no/id/PRP201320140047000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58197",
+   "url": "http://www.regjeringen.no/id/PRP201320140001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58197",
+   "url": "http://www.regjeringen.no/id/PRP201320140001FKDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58197",
+   "url": "http://www.regjeringen.no/id/PRP201320140001FADDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58197",
+   "url": "http://www.regjeringen.no/id/PRP201320140001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58347",
+   "url": "http://www.regjeringen.no/id/PRP201320140001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "62702",
+   "url": "http://www.regjeringen.no/id/STM201420150027000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "62700",
+   "url": "http://www.regjeringen.no/id/PRP201420150117000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "62521",
+   "url": "http://www.regjeringen.no/id/PRP201420150107000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60848",
+   "url": "http://www.regjeringen.no/id/PRP201420150001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60848",
+   "url": "http://www.regjeringen.no/id/PRP201420150001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60848",
+   "url": "http://www.regjeringen.no/id/PRP201420150001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "65903",
+   "url": "http://www.regjeringen.no/id/PRP201520160143000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "65618",
+   "url": "http://www.regjeringen.no/id/PRP201520160126000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63926",
+   "url": "http://www.regjeringen.no/id/PRP201520160001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63846",
+   "url": "http://www.regjeringen.no/id/PRP201520160001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63913",
+   "url": "http://www.regjeringen.no/id/PRP201520160001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63624",
+   "url": "http://www.regjeringen.no/id/PRP201520160001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63624",
+   "url": "http://www.regjeringen.no/id/PRP201520160001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63624",
+   "url": "http://www.regjeringen.no/id/PRP201520160001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "64057",
+   "url": "http://www.regjeringen.no/id/PRP201520160001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "68843",
+   "url": "http://www.regjeringen.no/id/PRP201620170131000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "67773",
+   "url": "http://www.regjeringen.no/id/STM201620170033000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "68592",
+   "url": "http://www.regjeringen.no/id/PRP201620170107000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "67099",
+   "url": "http://www.regjeringen.no/id/PRP201620170001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "67098",
+   "url": "http://www.regjeringen.no/id/PRP201620170001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66724",
+   "url": "http://www.regjeringen.no/id/PRP201620170001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66724",
+   "url": "http://www.regjeringen.no/id/PRP201620170001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66724",
+   "url": "http://www.regjeringen.no/id/PRP201620170001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66698",
+   "url": "http://www.regjeringen.no/id/PRP201620170001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66700",
+   "url": "http://www.regjeringen.no/id/PRP201620170008000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69749",
+   "url": "http://www.regjeringen.no/id/PRP201720180001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69749",
+   "url": "http://www.regjeringen.no/id/PRP201720180001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69749",
+   "url": "http://www.regjeringen.no/id/PRP201720180001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "76187",
+   "url": "http://www.regjeringen.no/id/PRP201820190110000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73586",
+   "url": "http://www.regjeringen.no/id/PRP201820190001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73586",
+   "url": "http://www.regjeringen.no/id/PRP201820190001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73586",
+   "url": "http://www.regjeringen.no/id/PRP201820190001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "74093",
+   "url": "http://www.regjeringen.no/id/PRP201820190001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "74059",
+   "url": "http://www.regjeringen.no/id/PRP201820190001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "74059",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-002s.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "84178",
+   "url": "http://www.regjeringen.no/id/PRP201920200101000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "79687",
+   "url": "http://www.regjeringen.no/id/PRP201920200101000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "79686",
+   "url": "http://www.regjeringen.no/id/PRP201920200101000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "79278",
+   "url": "http://www.regjeringen.no/id/STM201920200017000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77368",
+   "url": "http://www.regjeringen.no/id/PRP201920200001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77368",
+   "url": "http://www.regjeringen.no/id/PRP201920200001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77368",
+   "url": "http://www.regjeringen.no/id/PRP201920200001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77784",
+   "url": "http://www.regjeringen.no/id/PRP201920200001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "83145",
+   "url": "http://www.regjeringen.no/id/STM202020210020000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "84936",
+   "url": "http://www.regjeringen.no/id/PRP202020210193000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "82152",
+   "url": "http://www.regjeringen.no/id/PRP202020210001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81535",
+   "url": "http://www.regjeringen.no/id/PRP202020210001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81535",
+   "url": "http://www.regjeringen.no/id/PRP202020210001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81535",
+   "url": "http://www.regjeringen.no/id/PRP202020210001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86457",
+   "url": "http://www.regjeringen.no/id/PRP202120220001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86053",
+   "url": "http://www.regjeringen.no/id/PRP202120220001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86053",
+   "url": "http://www.regjeringen.no/id/PRP202120220001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86053",
+   "url": "http://www.regjeringen.no/id/PRP202120220001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "93726",
+   "url": "http://www.regjeringen.no/id/PRP202220230070000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "93727",
+   "url": "http://www.regjeringen.no/id/PRP202220230070000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90794",
+   "url": "http://www.regjeringen.no/id/PRP202220230001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90794",
+   "url": "http://www.regjeringen.no/id/PRP202220230001KDDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90794",
+   "url": "http://www.regjeringen.no/id/PRP202220230001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "91385",
+   "url": "http://www.regjeringen.no/id/PRP202220230001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "91322",
+   "url": "http://www.regjeringen.no/id/PRP202220230001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "98233",
+   "url": "http://www.regjeringen.no/id/STM202320240014000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "96452",
+   "url": "http://www.regjeringen.no/id/PRP202320240001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95768",
+   "url": "http://www.regjeringen.no/id/PRP202320240001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95768",
+   "url": "http://www.regjeringen.no/id/PRP202320240001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95768",
+   "url": "http://www.regjeringen.no/id/PRP202320240001KDDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100218",
+   "url": "http://www.regjeringen.no/id/PRP202420250001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100218",
+   "url": "http://www.regjeringen.no/id/PRP202420250001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100218",
+   "url": "http://www.regjeringen.no/id/PRP202420250001DFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104906",
+   "url": "http://www.regjeringen.no/id/PRP202520260001_SDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104906",
+   "url": "http://www.regjeringen.no/id/PRP202520260001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  }
+ ],
+ "candidates": [
+  {
+   "id": "182f57c0530a",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-450.pdf",
+   "doc_title": "Innst. 450 S (2012-2013)",
+   "case_id": "57079",
+   "locator": "s. 146",
+   "page": 146,
+   "snippet": "Der er difor viktig at Oslo-Ski vert planlagt som ein lekk i ein heilheitleg strategi for den nye Østfoldbanen. Målet må vere å unngå flaskehalser og kurvaturer med unødvendige hastighetsbegrensingar og oppnå eit best mogleg tra- sévalg tilpassa hastigheiter på minimum 250 km/ti- men.» D i s s e m e d l e m m e r viser til at kostnadene for Follobanen har økt med 12 mrd. kroner (inkl. prisstigning). Dette er langt mer enn økningen på 1,8 mrd. kroner i statsbudsjettet for 2013.",
+   "amounts": [
+    {
+     "raw": "12 mrd. kroner",
+     "mnok": 12000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": [
+    "price"
+   ]
+  },
+  {
+   "id": "954cace46974",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-450.pdf",
+   "doc_title": "Innst. 450 S (2012-2013)",
+   "case_id": "57079",
+   "locator": "s. 146",
+   "page": 146,
+   "snippet": "Målet må vere å unngå flaskehalser og kurvaturer med unødvendige hastighetsbegrensingar og oppnå eit best mogleg tra- sévalg tilpassa hastigheiter på minimum 250 km/ti- men.» D i s s e m e d l e m m e r viser til at kostnadene for Follobanen har økt med 12 mrd. kroner (inkl. prisstigning). Dette er langt mer enn økningen på 1,8 mrd. kroner i statsbudsjettet for 2013. Fra 12 mrd. kroner i 2008/2009 til 18 mrd. kroner i februar 2012.",
+   "amounts": [
+    {
+     "raw": "1,8 mrd. kroner",
+     "mnok": 1800.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": [
+    "price"
+   ]
+  },
+  {
+   "id": "3a50dde88781",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-450.pdf",
+   "doc_title": "Innst. 450 S (2012-2013)",
+   "case_id": "57079",
+   "locator": "s. 160",
+   "page": 160,
+   "snippet": "Disse med- l e m m e r viser til Fremskrittspartiets alternative statsbudsjett for 2013, der det på kap. 1325 post 95, ble satt av 3,4 mrd. kroner ekstra til jernbaneinveste- ringer i 2013 som egenkapital til et nytt statsforetak Jernbane SF, herunder 1 300 mill. kroner som opp- startsbevilgning til dobbe ltsporprosjekter på strek- ningen Oslo–Skien.",
+   "amounts": [
+    {
+     "raw": "3,4 mrd. kroner",
+     "mnok": 3400.0
+    },
+    {
+     "raw": "1 300 mill. kroner",
+     "mnok": 1300.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "7e5b9573d4ed",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "doc_title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "locator": "s. 73",
+   "page": 73,
+   "snippet": "Denne videreføringen er nød- vendig for å holde fram arbeidet med å bedre standar- den på infrastrukturen og gjøre togtrafikken mer på- litelig. Det er budsjettert med 6,1 mrd. kroner til post 23 Investeringer i linjen, inkl. planlegging av prosjektet Nytt dobbeltspor Oslo–Ski (Follobanen) som er ført på egen post. Dette er en økning på 1,4 mrd. kroner eller 30 pst. sammenlikne t med saldert budsjett for 2012.",
+   "amounts": [
+    {
+     "raw": "6,1 mrd. kroner",
+     "mnok": 6100.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "403c3a9336a4",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "doc_title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "locator": "s. 73",
+   "page": 73,
+   "snippet": "Det er budsjettert med 6,1 mrd. kroner til post 23 Investeringer i linjen, inkl. planlegging av prosjektet Nytt dobbeltspor Oslo–Ski (Follobanen) som er ført på egen post. Dette er en økning på 1,4 mrd. kroner eller 30 pst. sammenlikne t med saldert budsjett for 2012. 3.14.2 Komiteens merknader Komiteens flertall, medlemmene fra Fremskrittspartiet, Høyre og Kristelig F o l k e p a r t i , vil ha en moderne, pålitelig og robust jernbane med god konkurranseevne overfor andre transportmidler.",
+   "amounts": [
+    {
+     "raw": "1,4 mrd. kroner",
+     "mnok": 1400.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "d84a70d1a5bb",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "doc_title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "locator": "s. 77",
+   "page": 77,
+   "snippet": "1325 post 95, der det settes av 3,4 mrd. kroner til jernbaneinvesteringer som egenkapital til et nytt statsforetak Jernbane SF. D i s s e m e d l e m - m e r ønsker å bruke 3 mrd. av disse kronene på dob- b e l t s p o r i I n t e r c i t y - t r i a n g e l e t . Disse medlem- m e r ønsker følgende fordeling mellom korridorene: D i s s e m e d l e m m e r vil i tillegg sette av en oppstartsbevilgning til Ring eriksbanen på 200 mill. (kroner) Oslo–Skien 1 300 000 000 Oslo–Halden 600 000 000 Oslo–Lillehammer 1 100 000 000",
+   "amounts": [
+    {
+     "raw": "3 mrd.",
+     "mnok": 3000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "2cd24a8d61fa",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "doc_title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "locator": "s. 77",
+   "page": 77,
+   "snippet": "D i s s e m e d l e m - m e r ønsker å bruke 3 mrd. av disse kronene på dob- b e l t s p o r i I n t e r c i t y - t r i a n g e l e t . Disse medlem- m e r ønsker følgende fordeling mellom korridorene: D i s s e m e d l e m m e r vil i tillegg sette av en oppstartsbevilgning til Ring eriksbanen på 200 mill. (kroner) Oslo–Skien 1 300 000 000 Oslo–Halden 600 000 000 Oslo–Lillehammer 1 100 000 000",
+   "amounts": [
+    {
+     "raw": "200 mill.",
+     "mnok": 200.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "44d8d1fd6fe6",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "doc_title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "locator": "s. 82",
+   "page": 82,
+   "snippet": "3.14.2.4 P OST 31 NYTT DOBBELTSPOR OSLO–SKI K o m i t e e n støtter forslaget til bevilgning. K o m i t e e n er fornøyd med at det nå settes av 827 mill. kroner slik at vi nå kommer i gang med det- te svært viktige prosjektet. K o m i t e e n er også til- freds med at det skal brukes TBM (TunnelBoreMas- kiner) på store deler av strekningen.",
+   "amounts": [
+    {
+     "raw": "827 mill. kroner",
+     "mnok": 827.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "9dcd20b30bc4",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-013.pdf",
+   "doc_title": "Innst. 13 S (2012-2013)",
+   "case_id": "55522",
+   "locator": "s. 121",
+   "page": 121,
+   "snippet": "2. forplikte staten for fra mtidige budsjettår utover gitt bevilgning på kap. 1350 Jernbaneverket, post 30 Investeringer i linjer og post 31 Nytt dobbelt- spor Oslo–Ski, for investeringsprosjekter som ikke er omtalt med kostnadsramme overfor Stor- tinget, likevel slik at samlet ramme for gamle og nye forpliktelser ikke overstiger 400 mill. kroner. XV Fullmakter til å pådra staten forpliktelser utover bud- sjettåret for vedlikeholdsarbeider Stortinget samtykker i at Samferdselsdeparte- mentet i 2013 kan forplikte staten for framtidige bud- sjettår utover gitt bevilgning på kap.",
+   "amounts": [
+    {
+     "raw": "400 mill. kroner",
+     "mnok": 400.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "918f2b2a0983",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-255.pdf",
+   "doc_title": "Innst. 255 S (2013-2014)",
+   "case_id": "59875",
+   "locator": "s. 8",
+   "page": 8,
+   "snippet": "Arbeidet med den ek- sterne kvalitetssikringa av prosjektet blei avslutta i april 2014. Samferdselsdepartementet tilrår at det i det vida- re arbeidet med prosjektet blir lagt til grunn ei kost- nadsramme på 26,3 mrd. kroner og ei styringsramme på 24,4 mrd. kroner. Merknader frå komiteen Fleirtalet i komiteen, medlemene frå Arbeidarpartiet, Kristeleg Folke- p a r t i , S e n t e r p a r t i e t o g V e n s t r e , er positiv til at Follobanen nå skal utbyggjast, og sluttar seg til den auka kostnads- og styringsramma.",
+   "amounts": [
+    {
+     "raw": "26,3 mrd. kroner",
+     "mnok": 26300.0
+    },
+    {
+     "raw": "24,4 mrd. kroner",
+     "mnok": 24400.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "76f9152f666d",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-255.pdf",
+   "doc_title": "Innst. 255 S (2013-2014)",
+   "case_id": "59875",
+   "locator": "s. 9",
+   "page": 9,
+   "snippet": "E16 Sandvika–Wøyen innanfor ei kostnadsram- me på 4 210 mill. kroner 2. E39 Eiganestunnelen innanfor ei kostnadsramme på 3 170 mill. kroner 3. E6 Indre Nordnes–Skardalen innanfor ei kost- nadsramme på 1 210 mill. kroner 4. dobbeltspor Sandnes–Stavanger innanfor ei kost- nadsramme på 2 675 mill. kroner 5. forsterka straumforsyning på Ofotbanen innanfor ei kostnadsramme på 173 mill. kroner 6. nytt dobbeltspor Oslo–Ski innanfor ei kostnads- ramme på 26 300 mill. kroner.",
+   "amounts": [
+    {
+     "raw": "3 170 mill. kroner",
+     "mnok": 3170.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "76036bf6f119",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-255.pdf",
+   "doc_title": "Innst. 255 S (2013-2014)",
+   "case_id": "59875",
+   "locator": "s. 9",
+   "page": 9,
+   "snippet": "E39 Eiganestunnelen innanfor ei kostnadsramme på 3 170 mill. kroner 3. E6 Indre Nordnes–Skardalen innanfor ei kost- nadsramme på 1 210 mill. kroner 4. dobbeltspor Sandnes–Stavanger innanfor ei kost- nadsramme på 2 675 mill. kroner 5. forsterka straumforsyning på Ofotbanen innanfor ei kostnadsramme på 173 mill. kroner 6. nytt dobbeltspor Oslo–Ski innanfor ei kostnads- ramme på 26 300 mill. kroner. II Stortinget ber regjeringa fremje ein strategi for bruk av offentleg-privat samarbeid i utbygging av in- frastrukturtiltak, og orientere Stortinget om denne på eigna måte.",
+   "amounts": [
+    {
+     "raw": "1 210 mill. kroner",
+     "mnok": 1210.0
+    },
+    {
+     "raw": "2 675 mill. kroner",
+     "mnok": 2675.0
+    },
+    {
+     "raw": "173 mill. kroner",
+     "mnok": 173.0
+    },
+    {
+     "raw": "26 300 mill. kroner",
+     "mnok": 26300.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "b61da4db4832",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-013.pdf",
+   "doc_title": "Innst. 13 S (2013-2014)",
+   "case_id": "58197",
+   "locator": "s. 48",
+   "page": 48,
+   "snippet": "D i s s e m e d l e m m e r mener videre at det er viktig å holde framdriften oppe i det videre arbei- det, slik at kapasitetsøkningen raskt kan komme på plass. POST 31 NYTT DOBBELTSPOR OSLO–SKI K o m i t e e n merker seg at forslaget til nytt dob- beltspor Oslo–Ski (Follobanen) er på 1 349 mill. kro- ner i 2014, og at disse midlene skal benyttes til pro- sjektering, grunnerverv, fo rberedende anleggsarbei- der, samt å bygge hensettingskapasitet ved Ski sta- sjon. Etter k o m i t e e n s oppfatning er det svært viktig at en holder framdriften på Follobanen, slik at den",
+   "amounts": [
+    {
+     "raw": "1 349 mill. kr",
+     "mnok": 1349.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "40eb7515ed18",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-013.pdf",
+   "doc_title": "Innst. 13 S (2013-2014)",
+   "case_id": "58197",
+   "locator": "s. 65",
+   "page": 65,
+   "snippet": "2. forplikte staten for fra mtidige budsjettår utover gitt bevilgning på kap. 1350 Jernbaneverket, post 30 Investeringer i linjen og post 31 Nytt dobbelt- spor Oslo–Ski, for investeringsprosjekter som ikke er omtalt med kostnadsramme overfor Stor- tinget, likevel slik at samlet ramme for gamle og nye forpliktelser ikke overstiger 800 mill. kroner. XVII Restverdisikring for eksisterende materiell, oppgra- deringer av eksisterende materiell og investeringer i nytt materiell Stortinget samtykker i at Samferdselsdeparte- mentet, for det materiellet som inngår i statens ram- meavtale med NSB AS, i 2014 kan: 1. gi NSB AS en restverdigaranti for bokførte ver- dier på inntil 5 305 mill. kroner.",
+   "amounts": [
+    {
+     "raw": "800 mill. kroner",
+     "mnok": 800.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "81c34ec9f7e5",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-013.pdf",
+   "doc_title": "Innst. 13 S (2013-2014)",
+   "case_id": "58197",
+   "locator": "s. 65",
+   "page": 65,
+   "snippet": "1350 Jernbaneverket, post 30 Investeringer i linjen og post 31 Nytt dobbelt- spor Oslo–Ski, for investeringsprosjekter som ikke er omtalt med kostnadsramme overfor Stor- tinget, likevel slik at samlet ramme for gamle og nye forpliktelser ikke overstiger 800 mill. kroner. XVII Restverdisikring for eksisterende materiell, oppgra- deringer av eksisterende materiell og investeringer i nytt materiell Stortinget samtykker i at Samferdselsdeparte- mentet, for det materiellet som inngår i statens ram- meavtale med NSB AS, i 2014 kan: 1. gi NSB AS en restverdigaranti for bokførte ver- dier på inntil 5 305 mill. kroner. 2. gi NSB AS ytterligere restverdigaranti på opp- graderinger og nyinvesteringer i",
+   "amounts": [
+    {
+     "raw": "5 305 mill. kroner",
+     "mnok": 5305.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "7115b53bb1e6",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-013.pdf",
+   "doc_title": "Innst. 13 S (2014-2015)",
+   "case_id": "60848",
+   "locator": "s. 57",
+   "page": 57,
+   "snippet": "POST 25 DRIFT OG VEDLIKEHOLD AV GARDERMOBANEN K o m i t e e n har merket seg at forslag til bevilg- ning til drift og vedlikehold av Gardermobanen er på 124,9 mill. kroner i 2015, og at dette forslaget inne- bærer en økning på 11,1 pst. fra saldert budsjett 2014. POST 30 INVESTERINGER I LINJEN Komiteens flertall , medlemmene fra Høyre, Fremskrittspartiet, Kristelig F o l k e p a r t i o g V e n s t r e , har merket seg at for- slaget til investeringer i linjen (post 30) er på 8 039,6 mill. kroner i 2015, og at reduksjonen fra 2014 kom- mer som følge av at prosjekter nærmer seg ferdigstil- lelse og behøver færre midler. F l e r t a l l e t vil påpeke at reduksjonen i post 30 må ses i sammenhe",
+   "amounts": [
+    {
+     "raw": "039,6 mill. kroner",
+     "mnok": 39.6
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "a2b9641991c2",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-013.pdf",
+   "doc_title": "Innst. 13 S (2014-2015)",
+   "case_id": "60848",
+   "locator": "s. 57",
+   "page": 57,
+   "snippet": "F l e r t a l l e t vil påpeke at reduksjonen i post 30 må ses i sammenheng med at Follobanen (post 31) nå er i gang og får en kraftig økning i rammen. Samlet for post 30 og 31 økes investeringene i linjen med 981,9 mill. kroner eller 9,5 pst. fra saldert budsjett 2014, som følge av regjeringens bevilging og bud- sjettavtalen mellom samarbeidspartiene. Dette gir en oppfyllingsgrad i forh old til NTP 2014–2017 på 56,8 pst. for de to første årene.",
+   "amounts": [
+    {
+     "raw": "981,9 mill. kroner",
+     "mnok": 981.9
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "7541aff1b14b",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-013.pdf",
+   "doc_title": "Innst. 13 S (2014-2015)",
+   "case_id": "60848",
+   "locator": "s. 59",
+   "page": 59,
+   "snippet": "Således er Follobanen en svært viktig brikke i den kommende InterCity-satsingen på Østlandet. POST 34 KOMPENSASJON FOR ØKT ARBEIDSGIVERAVGIFT K o m i t e e n har merket seg at det foreslås bevil- get 20,5 mill. kroner til t iltak i jernbaneinfrastruktu- ren for å kompensere for øk t arbeidsgiveravgift i de tre nordligste fylkene. K o m i t e e n har videre mer- ket seg at disse midlene fordeles med 10,5 mill. kro- ner til Ofotbanen og 10 mill. kroner til Nordlandsba- nen.",
+   "amounts": [
+    {
+     "raw": "20,5 mill. kroner",
+     "mnok": 20.5
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "6472b10c4ccb",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-013.pdf",
+   "doc_title": "Innst. 13 S (2015-2016)",
+   "case_id": "63846",
+   "locator": "s. 62",
+   "page": 62,
+   "snippet": "På bakgrunn av dette vil d e t t e m e d l e m vise til Venstres alternative bu dsjett hvor det foreslås å øke investeringene til jernbane med 515 mill. kroner. POST 31 NYTT DOBBELTSPOR OSLO–SKI K o m i t e e n viser til at det for 2016 er foreslått bevilget 4,1 mrd. kroner i 2016 til nytt dobbeltspor Oslo–Ski (Follobanen), noe som er en betydelig øk- ning fra 2015. Bevilgningen skal gå til gjenstående grunnerverv, hovedarbeider for innføring til Oslo S, arbeider med tunnelen, dagstrekningen mot Ski og Ski stasjon.",
+   "amounts": [
+    {
+     "raw": "4,1 mrd. kroner",
+     "mnok": 4100.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "35dc4fe44c7d",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-013.pdf",
+   "doc_title": "Innst. 13 S (2015-2016)",
+   "case_id": "63846",
+   "locator": "s. 62",
+   "page": 62,
+   "snippet": "Således er Follobanen en svært vik- tig brikke i InterCity-satsingen på Østlandet. POST 34 KOMPENSASJON FOR ØKT ARBEIDSGIVERAVGIFT K o m i t e e n har merket seg at det for 2016 er foreslått 31 mill. kroner på posten og har ingen ytter- ligere merknader. KAP.",
+   "amounts": [
+    {
+     "raw": "31 mill. kroner",
+     "mnok": 31.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "359f3ec708cc",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-039s.pdf",
+   "doc_title": "Innst. 39 S (2017-2018)",
+   "case_id": "69086",
+   "locator": "s. 2",
+   "page": 2,
+   "snippet": "Forrige grunnruteendring ble gjennomført gradvis i perioden 2012–2015, mens den neste endringen er planlagt i 2027. Mange store investeringsprosjekter på til sammen over 20 mrd. kroner har blitt fullført i perio- den fra 2005 til 2016, og flere vil bli fullført før 2027. For eksempel er Follobanen planlagt fullført i 2021, en in- vestering med anslått kostnadsramme på 27,7 mrd. kro- ner.",
+   "amounts": [
+    {
+     "raw": "20 mrd. kroner",
+     "mnok": 20000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "9e1d931a3aff",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-039s.pdf",
+   "doc_title": "Innst. 39 S (2017-2018)",
+   "case_id": "69086",
+   "locator": "s. 2",
+   "page": 2,
+   "snippet": "Mange store investeringsprosjekter på til sammen over 20 mrd. kroner har blitt fullført i perio- den fra 2005 til 2016, og flere vil bli fullført før 2027. For eksempel er Follobanen planlagt fullført i 2021, en in- vestering med anslått kostnadsramme på 27,7 mrd. kro- ner. Undersøkelsen viser at større endringer i rutepla- nen er nødvendig for at de reisende skal få et betydelig bedre togtilbud som følge av de store investeringene.",
+   "amounts": [
+    {
+     "raw": "27,7 mrd. kr",
+     "mnok": 27700.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "114d28bc7a76",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-013s.pdf",
+   "doc_title": "Innst. 13 S (2016-2017)",
+   "case_id": "67098",
+   "locator": "s. 22",
+   "page": 22,
+   "snippet": "I tillegg skal det bemerkes at det av tabell 5.29 framgår at Nytt dobbeltspor Oslo–Ski har en oppføl- gingsgrad på 100,4 pst. Av svar på budsjettspørsmål 662 fra Arbeiderpartiet går det fram at «Til sammen er bevilgningsbehovet for nytt dobbeltspor Oslo–Ski i perioden 2018–2023 på om lag 11,6 mrd. kroner, som er om lag 4,7 mrd. kroner mer enn beløpet som 1320 30 Fornying, tunnelsikkerhet 25 1320 31 Skredsikring riksveger 50 1320 36 E16 Turtnes–Øye, anleggsstart 30 1320 36 E16 Varpe bru–Otrøosen–Smedalsosen, redusert behov 2017 -30 1320 61 Rentekompensasjon for tr ansporttiltak i fylkene -170,7 1320 62 Skredsikring fylkesveger 100 1320 63 Tilskudd til gang - og sykkelveger 25 1320 64 Fergeuts",
+   "amounts": [
+    {
+     "raw": "11,6 mrd. kroner",
+     "mnok": 11600.0
+    },
+    {
+     "raw": "4,7 mrd. kroner",
+     "mnok": 4700.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "cbf0e97b1f28",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-013s.pdf",
+   "doc_title": "Innst. 13 S (2017-2018)",
+   "case_id": "69749",
+   "locator": "s. 65",
+   "page": 65,
+   "snippet": "1361, post 01, står det: Det foreslås å bevilge 47,5 mill. kr. Dette skal være: Det foreslås å bevilge 47,7 mill. kr. Follobanen: Nytt dobbeltspor Oslo–Ski 27 876 25 800 13 853 4 697 3 158 4 092 Sum store prosjekter 33 747 7 338 6 148 16 437 Programområder: 1 558 Kapasitetsøkende tiltak 854 Stasjoner og knutepunkter 185 Tekn iske ti ltak 1 69 Sikkerhet og miljø 350 S u m u t b y g g i n g 3 37 4 7 88 9 6 Mill. kr Prosjekt/tiltak Kost. ramme Prognose slutt-kost.",
+   "amounts": [
+    {
+     "raw": "47,7 mill. kr",
+     "mnok": 47.7
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "6f8549ffc40c",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-013s.pdf",
+   "doc_title": "Innst. 13 S (2017-2018)",
+   "case_id": "69749",
+   "locator": "s. 65",
+   "page": 65,
+   "snippet": "Dette skal være: Det foreslås å bevilge 47,7 mill. kr. Follobanen: Nytt dobbeltspor Oslo–Ski 27 876 25 800 13 853 4 697 3 158 4 092 Sum store prosjekter 33 747 7 338 6 148 16 437 Programområder: 1 558 Kapasitetsøkende tiltak 854 Stasjoner og knutepunkter 185 Tekn iske ti ltak 1 69 Sikkerhet og miljø 350 S u m u t b y g g i n g 3 37 4 7 88 9 6 Mill. kr Prosjekt/tiltak Kost. ramme Prognose slutt-kost. Forbruk t.o.m.",
+   "amounts": [
+    {
+     "raw": "6 Mill. kr",
+     "mnok": 6.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "f2fd016740de",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-340s.pdf",
+   "doc_title": "Innst. 340 S (2019-2020)",
+   "case_id": "79278",
+   "locator": "s. 4",
+   "page": 4,
+   "snippet": "D i s s e m e d l e m m e r fremmer følgende forslag: «Stortinget ber regjeringen nedsette et bredt sam- mensatt utvalg som får i oppdrag å evaluere alle sider av Follobaneprosjektet.» Komiteens medlemmer fra Arbeider- partiet, Senterpartiet og Sosialistisk Ven- s t r e p a r t i er svært bekymret over situasjonen med store kostnadsoverskridelser på flere jernbaneprosjekt. Den varslede kostnadsoversk ridelsen på Follobanen kommer etter at kostnadsrammen på prosjektet økte fra 28,7 mrd. kroner til 30,9 mrd. kroner i statsbudsjettet for 2020. D i s s e m e d l e m m e r viser til at de stadige kostnadsoverskridelsene på pågående prosjekt setter Stortinget i en vanskelig situasjon, ettersom det",
+   "amounts": [
+    {
+     "raw": "28,7 mrd. kroner",
+     "mnok": 28700.0
+    },
+    {
+     "raw": "30,9 mrd. kroner",
+     "mnok": 30900.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "b448de8a6b05",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-340s.pdf",
+   "doc_title": "Innst. 340 S (2019-2020)",
+   "case_id": "79278",
+   "locator": "s. 4",
+   "page": 4,
+   "snippet": "117 S (2019–2020) kommer det tydelig fram at kostnadsoverskridelser på blant annet Follobanen får konsekvenser for andre jernbaneprosjekt. I den nevnte proposisjonen foreslår regjeringen å redusere bevilg- ningene til planlegging av fellesprosjektet Ringeriksba- nen E16 Høgkastet–Hønefoss med 278 mill. kroner. Re- gjeringen varslet også at det hverken i år eller neste år er penger på statsbudsjettet ti l å starte anleggsarbeid på intercity-strekningen Kleverud–Sørli på Dovrebanen, noe som får konsekvenser for framdrift på intercity til Hamar og Lillehammer.",
+   "amounts": [
+    {
+     "raw": "278 mill. kroner",
+     "mnok": 278.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "f90a6ae4ef2a",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-013s.pdf",
+   "doc_title": "Innst. 13 S (2019-2020)",
+   "case_id": "77368",
+   "locator": "s. 66",
+   "page": 66,
+   "snippet": "Samferdselsdepartementet gis fullmakt til å prisjustere kost- nadsrammen i senere år. 4. forplikte staten for fremtidige budsjett år ut over gitt bevilgning for prosjekter som ikke er omtalt med kostnads- ramme overfor Stortinget, inntil følgende beløp: a. b. starte opp disse investeringsprosjektene: innenfor en kostnadsramme på: E16 Kvamskleiva 748 mill. kroner E134 Vågsli-, Haukeli- og Svandalsflonatunnelene 604 mill. kroner Delelektrifisering av Trønderbanen og Meråkerbanen 2 192 mill. kroner IC Dovrebanen: Kleverud–Sørli 8 592 mill. kroner gjennomføre disse tidligere godkjente investeringspro- sjektene: innenfor endret kostnadsramme på: E6 Helgeland nord 24 6 0 m i l l . k r o n e r Rv. ",
+   "amounts": [
+    {
+     "raw": "748 mill. kroner",
+     "mnok": 748.0
+    },
+    {
+     "raw": "604 mill. kroner",
+     "mnok": 604.0
+    },
+    {
+     "raw": "2 192 mill. kroner",
+     "mnok": 2192.0
+    },
+    {
+     "raw": "8 592 mill. kroner",
+     "mnok": 8592.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "ab0cb76e438b",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-013s.pdf",
+   "doc_title": "Innst. 13 S (2019-2020)",
+   "case_id": "77368",
+   "locator": "s. 66",
+   "page": 66,
+   "snippet": "4. forplikte staten for fremtidige budsjett år ut over gitt bevilgning for prosjekter som ikke er omtalt med kostnads- ramme overfor Stortinget, inntil følgende beløp: a. b. starte opp disse investeringsprosjektene: innenfor en kostnadsramme på: E16 Kvamskleiva 748 mill. kroner E134 Vågsli-, Haukeli- og Svandalsflonatunnelene 604 mill. kroner Delelektrifisering av Trønderbanen og Meråkerbanen 2 192 mill. kroner IC Dovrebanen: Kleverud–Sørli 8 592 mill. kroner gjennomføre disse tidligere godkjente investeringspro- sjektene: innenfor endret kostnadsramme på: E6 Helgeland nord 24 6 0 m i l l . k r o n e r Rv. 36 Skyggestein–Skjelbredstrand 892 mill. kroner Follobanen, Oslo–Ski 30 907 mill. kron",
+   "amounts": [
+    {
+     "raw": "892 mill. kroner",
+     "mnok": 892.0
+    },
+    {
+     "raw": "30 907 mill. kroner",
+     "mnok": 30907.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "7b3411a7229b",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-013s.pdf",
+   "doc_title": "Innst. 13 S (2019-2020)",
+   "case_id": "77368",
+   "locator": "s. 66",
+   "page": 66,
+   "snippet": "36 Skyggestein–Skjelbredstrand 892 mill. kroner Follobanen, Oslo–Ski 30 907 mill. kroner Kap. Post Betegnelse Samlet ramme for gamle og nye forpliktelser Ramme for forpliktelser som forfaller hvert år 1320 Statens vegvesen 30 og 31 Investeringer, riksvei 6 000 mill. kroner 4 500 mill. kroner 1352 Jernbanedirektoratet 72 Planlegging nye prosjekter 3 000 mill. kroner 1 500 mill. kroner 73 Investeringer, jernbane 3 600 mill. kroner 2 000 mill. kroner Kap. Post Betegnelse Samlet ramme for gamle og nye forpliktelser 1360 K ystverket 21 og 30 Investeringer 90 mill. kroner",
+   "amounts": [
+    {
+     "raw": "6 000 mill. kroner",
+     "mnok": 6000.0
+    },
+    {
+     "raw": "4 500 mill. kroner",
+     "mnok": 4500.0
+    },
+    {
+     "raw": "3 000 mill. kroner",
+     "mnok": 3000.0
+    },
+    {
+     "raw": "1 500 mill. kroner",
+     "mnok": 1500.0
+    },
+    {
+     "raw": "3 600 mill. kroner",
+     "mnok": 3600.0
+    },
+    {
+     "raw": "2 000 mill. kroner",
+     "mnok": 2000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "adf7c391eb67",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-653s.pdf",
+   "doc_title": "Innst. 653 S (2020-2021)",
+   "case_id": "83145",
+   "locator": "s. 101",
+   "page": 101,
+   "snippet": "I tillegg vil kulturlandsskap av høy nasjonal verdi (KULA-registrert) ivaretas mellom Ski og Kråkstad middelalderkirker. D i s s e m e d l e m m e r mener investeringen til tog- parkering sør for Ski (basiskostnad 2,45 mrd. kroner) og togparkering Gon (0,94 mrd. kroner) kan utsettes til an- dre seksårsperiode i påvente av en nødvendig utredning av et felles toghensettingsanlegg med servicebygg som vil dekke behovet for Ski og Mosseregionen (Gon). Ko m i t e e n s m e d l e m m e r f r a H ø y r e o g Ve n s t r e viser til den betydelige lokale motstanden fra rød-grønne partier i kommunene mot å etablere nød - vendig ny kobling mellom Follobanen og Østre linje, samt togparkering, som er helt",
+   "amounts": [
+    {
+     "raw": "2,45 mrd. kroner",
+     "mnok": 2450.0
+    },
+    {
+     "raw": "0,94 mrd. kroner",
+     "mnok": 940.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "c8d7de9cb20b",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-653s.pdf",
+   "doc_title": "Innst. 653 S (2020-2021)",
+   "case_id": "83145",
+   "locator": "s. 254",
+   "page": 254,
+   "snippet": "Kostnadsestimatene anses derfor å ha begrenset verdi, da det nå foreligger nye erfaringstall for utbygging av jernbaneinfrastruktur. Eksempelvis ble det i Nasjonal transportplan 2010-2019 lagt til grunn at Follobanen skulle koste i underkant av 12 milliarder kroner. Prosjektet har i dag en kostnadsramme på om lag 36 milliarder kroner.",
+   "amounts": [
+    {
+     "raw": "12 milliarder kroner",
+     "mnok": 12000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "18924b139396",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-653s.pdf",
+   "doc_title": "Innst. 653 S (2020-2021)",
+   "case_id": "83145",
+   "locator": "s. 254",
+   "page": 254,
+   "snippet": "Eksempelvis ble det i Nasjonal transportplan 2010-2019 lagt til grunn at Follobanen skulle koste i underkant av 12 milliarder kroner. Prosjektet har i dag en kostnadsramme på om lag 36 milliarder kroner. Vi arbeider nå med flere tiltak for å bedre kostnadskontrollen i sektoren.",
+   "amounts": [
+    {
+     "raw": "36 milliarder kroner",
+     "mnok": 36000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "d2f93046ba60",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-653s.pdf",
+   "doc_title": "Innst. 653 S (2020-2021)",
+   "case_id": "83145",
+   "locator": "s. 275",
+   "page": 275,
+   "snippet": "I henhold til Bane NORs overordnede prognoser fra august 2020, som ligger til grunn for Nasjonal transportplan 2022-2033, er kostnaden for parsellene som følger: • Dobbeltspor Haug-Seut 13,2 mrd. 2021-kr • Dobbeltspor Seut-Klavestad 30,6 mrd. 2021-kr Fullføring av Follobanen og Sandbukta-Moss-Såstad forutsettes også for å gi dobbeltspor til Fredrikstad.",
+   "amounts": [
+    {
+     "raw": "30,6 mrd.",
+     "mnok": 30600.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "7697a67e5769",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-653s.pdf",
+   "doc_title": "Innst. 653 S (2020-2021)",
+   "case_id": "83145",
+   "locator": "s. 283",
+   "page": 283,
+   "snippet": "Fire av disse utgjør den såkalte «Brynsbakkenpakken», som totalt er kostnadsberegnet til 5,1 mrd.kr. Tiltakene er: • Retningsdrift i Brynsbakken (1760 mill.kr) • Utvidelse av Sandvika stasjon (2360 mill.kr) • Ventespor ved Grorud (616 mill.kr) • Vendespor ved Asker (413 mill.kr) Retningsdrift Brynsbakken omfatter bygging av flere spor i Brynsbakken, mellom Vålerengaparken og Kværnerbyen. Flere spor er en forutsetning for å kunne øke antall avganger på Hovedbanen, Gardermobanen, Follobanen og Østfoldbanen til og fra Oslo S i ny rutemodell på Østlandet.",
+   "amounts": [
+    {
+     "raw": "1760 mill.kr",
+     "mnok": 1760.0
+    },
+    {
+     "raw": "2360 mill.kr",
+     "mnok": 2360.0
+    },
+    {
+     "raw": "616 mill.kr",
+     "mnok": 616.0
+    },
+    {
+     "raw": "413 mill.kr",
+     "mnok": 413.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": [
+    "scope"
+   ]
+  },
+  {
+   "id": "853ec950aa32",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-013s.pdf",
+   "doc_title": "Innst. 13 S (2020-2021)",
+   "case_id": "82152",
+   "locator": "s. 78",
+   "page": 78,
+   "snippet": "6. forplikte staten for fremtidige budsjettår ut over gitt bevilgning for prosjekter med kostnadsanslag over 500 mill. kroner, men der kostnadsramme ikke er lagt frem for Stortinget, inntil følgende beløp: starte opp disse investeringsprosjektene: innenfor en kostnadsramme på: E39 Myrmel–Lunde 606 mill. kroner E6 Bognes–Skarberget og rv. 827 Drag–Kjøpsvik 706 mill. kroner Rv. 509 Sør-Tjora–Kontinentalvegen 862 mill. kroner gjennomføre disse tidligere godkjente investeringsprosjektene: innenfor endret kostnadsramme på: E39 Svegatjørn–Rådal 94 5 8 m i l l . k r o n e r E6 Helgeland sør 57 9 8 m i l l . k r o m e r E69 Skarvbergtunnelen 14 7 0 m i l l . k r o n e r Follobanen, Oslo–Ski 36 570 m",
+   "amounts": [
+    {
+     "raw": "706 mill. kroner",
+     "mnok": 706.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "6cd237564870",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-013s.pdf",
+   "doc_title": "Innst. 13 S (2020-2021)",
+   "case_id": "82152",
+   "locator": "s. 78",
+   "page": 78,
+   "snippet": "827 Drag–Kjøpsvik 706 mill. kroner Rv. 509 Sør-Tjora–Kontinentalvegen 862 mill. kroner gjennomføre disse tidligere godkjente investeringsprosjektene: innenfor endret kostnadsramme på: E39 Svegatjørn–Rådal 94 5 8 m i l l . k r o n e r E6 Helgeland sør 57 9 8 m i l l . k r o m e r E69 Skarvbergtunnelen 14 7 0 m i l l . k r o n e r Follobanen, Oslo–Ski 36 570 mill. kroner Kap. Post Betegnelse Samlet ramme for gamle og nye forpliktelser Ramme for forpliktelser som forfaller hvert år 1320 Statens vegvesen 30 og 31 Investeringer, riksvei 6 250 mill. kroner 4 750 mill. kroner 1352 Jernbanedirektoratet 72 Planlegging nye prosjekter 50 0 mill. kroner 350 mill. kroner 73 Investeringer, jernbane 2 100 ",
+   "amounts": [
+    {
+     "raw": "862 mill. kroner",
+     "mnok": 862.0
+    },
+    {
+     "raw": "36 570 mill. kroner",
+     "mnok": 36570.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "6d31e050d743",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-013s.pdf",
+   "doc_title": "Innst. 13 S (2020-2021)",
+   "case_id": "82152",
+   "locator": "s. 78",
+   "page": 78,
+   "snippet": "509 Sør-Tjora–Kontinentalvegen 862 mill. kroner gjennomføre disse tidligere godkjente investeringsprosjektene: innenfor endret kostnadsramme på: E39 Svegatjørn–Rådal 94 5 8 m i l l . k r o n e r E6 Helgeland sør 57 9 8 m i l l . k r o m e r E69 Skarvbergtunnelen 14 7 0 m i l l . k r o n e r Follobanen, Oslo–Ski 36 570 mill. kroner Kap. Post Betegnelse Samlet ramme for gamle og nye forpliktelser Ramme for forpliktelser som forfaller hvert år 1320 Statens vegvesen 30 og 31 Investeringer, riksvei 6 250 mill. kroner 4 750 mill. kroner 1352 Jernbanedirektoratet 72 Planlegging nye prosjekter 50 0 mill. kroner 350 mill. kroner 73 Investeringer, jernbane 2 100 mill. kroner 2 000 mill. kroner Kap. Po",
+   "amounts": [
+    {
+     "raw": "6 250 mill. kroner",
+     "mnok": 6250.0
+    },
+    {
+     "raw": "4 750 mill. kroner",
+     "mnok": 4750.0
+    },
+    {
+     "raw": "0 mill. kroner",
+     "mnok": 0.0
+    },
+    {
+     "raw": "350 mill. kroner",
+     "mnok": 350.0
+    },
+    {
+     "raw": "2 100 mill. kroner",
+     "mnok": 2100.0
+    },
+    {
+     "raw": "2 000 mill. kroner",
+     "mnok": 2000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  }
+ ]
+}

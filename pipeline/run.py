@@ -76,7 +76,7 @@ def main() -> int:
         return 1
     if a.mode == "real":
         try:
-            meta = storting_build.build(out / "storting")
+            meta = storting_build.build(out / "storting", max_drop=1.0 if a.accept_drift else 0.05)
         except Exception as e:  # noqa: BLE001
             print(f"FEIL ved Stortinget-bygg: {e}\nEksisterende data er urørt.", file=sys.stderr)
             return 1

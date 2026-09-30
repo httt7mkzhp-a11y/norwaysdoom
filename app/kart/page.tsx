@@ -19,7 +19,7 @@ export default function MapPage() {
   const [q, setQ] = useState("");
   const [sel, setSel] = useState<string | null>(null);
 
-  const y = year ?? ds?.meta.currentYear ?? 0;
+  const y = year ?? (ds ? Math.max(...ds.flows.map((f) => f.year)) : 0); // siste år med utbetalte tall (OECD)
   const minN = min === "" ? 0 : Number(min), maxN = max === "" ? Infinity : Number(max);
   const amounts = useMemo(() => (ds ? perRecipient(ds, { year: y, categories: cats, minMnok: minN, maxMnok: maxN }) : new Map<string, number>()), [ds, y, cats, minN, maxN]);
   if (!ds) return <Loading error={error} />;

@@ -51,16 +51,13 @@ def classify(reference: str, title: str) -> str | None:
     return None
 
 
-def tag_areas(text: str, areas: list[dict], topics: list[str] | None = None) -> list[str]:
+def tag_areas(text: str, areas: list[dict]) -> list[str]:
+    """Områdemerke ved nøkkelord (ordstart) i teksten. Stortingets emner brukes ikke: de er for grove (f.eks. «Internasjonalt samarbeid» på hundrevis av saker)."""
     low = text.lower()
-    out = []
-    for a in areas:
-        if any(re.search(r"(?<!\w)" + re.escape(k), low) for k in a["keywords"]) or (topics and any(t in topics for t in a.get("topics", []))):
-            out.append(a["id"])
-    return out
+    return [a["id"] for a in areas if any(re.search(r"(?<!\w)" + re.escape(k), low) for k in a["keywords"])]
 
 
-def parse_cases(xml: bytes | ET.Element, session: str = "", areas: list[dict] | None = None) -> list[dict]:
+def parse_cases(xml: bytes | ET.Element, session: str = "", areas: list[dict] | None = None, include: dict[str, str] | None = None) -> list[dict]:
     root = ET.fromstring(xml) if isinstance(xml, bytes) else xml
     out = []
     for sak in root.iter(NS + "sak"):
@@ -68,10 +65,12 @@ def parse_cases(xml: bytes | ET.Element, session: str = "", areas: list[dict] | 
         title = _text(sak, "korttittel") or full_title
         topics = [_text(e, "navn") for e in sak.iter(NS + "emne")]
         kind = classify(ref, full_title)
-        found = tag_areas(f"{title} {full_title}", areas or [], topics) if areas else []
+        found = tag_areas(f"{title} {full_title}", areas or []) if areas else []
+        sid = _text(sak, "id")
+        if include and sid in include:  # koblet via prosjektpipelinen (kandidattall funnet i saken)
+            found = sorted(set(found) | {include[sid]})
         if not kind and not found:
             continue
-        sid = _text(sak, "id")
         kom = sak.find(NS + "komite")
         out.append(dict(id=sid, session=session, kind=kind or "annen", reference=ref, title=title, status=_text(sak, "status"),
                         committee=_text(kom, "id"), date=_text(sak, "sist_oppdatert_dato")[:10], topics=topics,
@@ -79,8 +78,8 @@ def parse_cases(xml: bytes | ET.Element, session: str = "", areas: list[dict] | 
     return sorted(out, key=lambda c: (c["date"], c["id"]), reverse=True)
 
 
-def budget_cases(session: str, areas: list[dict] | None = None) -> list[dict]:
-    return parse_cases(_xml(f"saker?sesjonid={session}", 12), session, areas)
+def budget_cases(session: str, areas: list[dict] | None = None, include: dict[str, str] | None = None) -> list[dict]:
+    return parse_cases(_xml(f"saker?sesjonid={session}", 12), session, areas, include)
 
 
 def foreign_budget_cases(cases: list[dict]) -> list[dict]:

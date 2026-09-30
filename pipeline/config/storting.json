@@ -1,14 +1,78 @@
 {
-  "sessions": ["2024-2025", "2025-2026"],
-  "history_sessions_for_areas": ["2013-2014", "2014-2015", "2015-2016", "2016-2017", "2017-2018", "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024"],
-  "areas": [
-    {"id": "bistand", "name_nb": "Bistand og utviklingssamarbeid", "name_en": "Aid and development cooperation",
-     "keywords": ["bistand", "utviklingssamarbeid", "utviklingspolitikk", "norad", "flyktningutgifter"], "topics": ["Bistand", "Utviklingshjelp", "Utviklingspolitikk"]},
-    {"id": "ukraina", "name_nb": "Ukraina-støtte (Nansen-programmet)", "name_en": "Support to Ukraine (Nansen Programme)",
-     "keywords": ["ukraina", "nansen"], "topics": []},
-    {"id": "internasjonalt", "name_nb": "FN, internasjonale organisasjoner og EØS", "name_en": "UN, international organisations and the EEA",
-     "keywords": ["eøs-midlene", "eøs-finansieringsordningen", "norway grants", "forente nasjoner", "verdensbanken", "nato"], "topics": ["Internasjonalt samarbeid"]},
-    {"id": "follobanen", "name_nb": "Follobanen", "name_en": "Follo Line", "keywords": ["follobanen", "follo-banen", "ny jernbane oslo–ski", "oslo-ski"], "topics": []},
-    {"id": "regjeringskvartalet", "name_nb": "Regjeringskvartalet", "name_en": "Government quarter", "keywords": ["regjeringskvartalet", "regjeringsbygg", "nytt regjeringskvartal"], "topics": []}
-  ]
+ "sessions": [
+  "2024-2025",
+  "2025-2026"
+ ],
+ "history_sessions_for_areas": [
+  "2011-2012",
+  "2012-2013",
+  "2013-2014",
+  "2014-2015",
+  "2015-2016",
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024"
+ ],
+ "areas": [
+  {
+   "id": "bistand",
+   "name_nb": "Bistand og utviklingssamarbeid",
+   "name_en": "Aid and development cooperation",
+   "keywords": [
+    "bistand",
+    "utviklingssamarbeid",
+    "utviklingspolitikk",
+    "norad",
+    "flyktningutgifter"
+   ]
+  },
+  {
+   "id": "ukraina",
+   "name_nb": "Ukraina-støtte (Nansen-programmet)",
+   "name_en": "Support to Ukraine (Nansen Programme)",
+   "keywords": [
+    "ukraina",
+    "nansen"
+   ]
+  },
+  {
+   "id": "internasjonalt",
+   "name_nb": "FN, internasjonale organisasjoner og EØS",
+   "name_en": "UN, international organisations and the EEA",
+   "keywords": [
+    "eøs-midlene",
+    "eøs-finansieringsordningen",
+    "norway grants",
+    "forente nasjoner",
+    "verdensbanken",
+    "nato"
+   ]
+  },
+  {
+   "id": "follobanen",
+   "name_nb": "Follobanen",
+   "name_en": "Follo Line",
+   "keywords": [
+    "follobanen",
+    "follo-banen",
+    "ny jernbane oslo–ski",
+    "oslo-ski"
+   ]
+  },
+  {
+   "id": "regjeringskvartalet",
+   "name_nb": "Regjeringskvartalet",
+   "name_en": "Government quarter",
+   "keywords": [
+    "regjeringskvartalet",
+    "regjeringsbygg",
+    "nytt regjeringskvartal"
+   ]
+  }
+ ]
 }

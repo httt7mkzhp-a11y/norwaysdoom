@@ -48,14 +48,27 @@ def validate_vote(v: dict, results: dict[str, str] | None, sums: dict | None) ->
     return errs
 
 
+def project_case_areas() -> dict[str, str]:
+    """Saker der prosjektpipelinen fant kandidattall (data/review/queue) -> områdeid. Kobler kostnadsutvikling til voteringer."""
+    out = {}
+    for f in sorted((ROOT / "data" / "review" / "queue").glob("*.json")):
+        q = json.loads(f.read_text(encoding="utf-8"))
+        area = json.loads((ROOT / "pipeline" / "config" / "projects.json").read_text(encoding="utf-8"))
+        aid = next((p["storting_area"] for p in area["projects"] if p["id"] == q["project_id"]), None)
+        if aid:
+            out.update({d["case_id"]: aid for d in q["documents"] if d["n_candidates"] > 0})
+    return out
+
+
 def collect(cfg: dict, log=print) -> tuple[dict, dict, dict[str, dict]]:
     areas = cfg["areas"]
+    linked = project_case_areas()
     cases: dict[str, dict] = {}
     for sess in cfg["sessions"]:
-        for c in st.budget_cases(sess, areas):
+        for c in st.budget_cases(sess, areas, linked):
             cases[c["id"]] = c
     for sess in cfg.get("history_sessions_for_areas", []):
-        for c in st.budget_cases(sess, areas):
+        for c in st.budget_cases(sess, areas, linked):
             if c["areas"]:
                 cases.setdefault(c["id"], c)
     log(f"{len(cases)} saker")
