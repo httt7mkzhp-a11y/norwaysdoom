@@ -1,0 +1,6 @@
+id,label_nb,label_en,unit_nb,unit_en,value_nok,low_nok,high_nok,price_year,source_id,source_url,verified
+nursing_home,"Drift av sykehjemsplass (heldøgn, per år)","Running a nursing-home place (24h, per year)",sykehjemsplasser,nursing-home places,1300000,1100000,1600000,2026,ssb_kostra,https://www.ssb.no/kostra,False
+teacher,Lærerårsverk (lønn + sosiale kostnader),Teacher full-time equivalent (salary + on-costs),lærerårsverk,teacher FTEs,850000,750000,950000,2026,ssb,https://www.ssb.no/statbank,False
+nurse,Sykepleierårsverk (lønn + sosiale kostnader),Nurse full-time equivalent (salary + on-costs),sykepleierårsverk,nurse FTEs,800000,700000,900000,2026,ssb,https://www.ssb.no/statbank,False
+kindergarten,Barnehageplass (per år),Kindergarten place (per year),barnehageplasser,kindergarten places,220000,190000,260000,2026,ssb_kostra,https://www.ssb.no/kostra,False
+road_km,Nybygd motorvei (per km),New motorway (per km),km motorvei,km of motorway,300000000,150000000,500000000,2026,vegvesen,https://www.vegvesen.no/,False

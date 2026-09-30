@@ -1,0 +1,57 @@
+id,kind,name_nb,name_en,iso_n3,iso_a3,region
+ukr,country,Ukraina,Ukraine,804,UKR,Europa
+mda,country,Moldova,Moldova,498,MDA,Europa
+geo,country,Georgia,Georgia,268,GEO,Europa
+tza,country,Tanzania,Tanzania,834,TZA,Afrika
+uga,country,Uganda,Uganda,800,UGA,Afrika
+moz,country,Mosambik,Mozambique,508,MOZ,Afrika
+mwi,country,Malawi,Malawi,454,MWI,Afrika
+zmb,country,Zambia,Zambia,894,ZMB,Afrika
+eth,country,Etiopia,Ethiopia,231,ETH,Afrika
+som,country,Somalia,Somalia,706,SOM,Afrika
+ssd,country,Sør-Sudan,South Sudan,728,SSD,Afrika
+sdn,country,Sudan,Sudan,729,SDN,Afrika
+cod,country,DR Kongo,DR Congo,180,COD,Afrika
+ken,country,Kenya,Kenya,404,KEN,Afrika
+mli,country,Mali,Mali,466,MLI,Afrika
+ner,country,Niger,Niger,562,NER,Afrika
+nga,country,Nigeria,Nigeria,566,NGA,Afrika
+gha,country,Ghana,Ghana,288,GHA,Afrika
+lbr,country,Liberia,Liberia,430,LBR,Afrika
+nep,country,Nepal,Nepal,524,NPL,Asia
+afg,country,Afghanistan,Afghanistan,4,AFG,Asia
+syr,country,Syria,Syria,760,SYR,Asia
+lbn,country,Libanon,Lebanon,422,LBN,Asia
+jor,country,Jordan,Jordan,400,JOR,Asia
+pse,country,Palestina,Palestine,275,PSE,Asia
+yem,country,Jemen,Yemen,887,YEM,Asia
+irq,country,Irak,Iraq,368,IRQ,Asia
+bgd,country,Bangladesh,Bangladesh,50,BGD,Asia
+mmr,country,Myanmar,Myanmar,104,MMR,Asia
+pak,country,Pakistan,Pakistan,586,PAK,Asia
+idn,country,Indonesia,Indonesia,360,IDN,Asia
+ind,country,India,India,356,IND,Asia
+col,country,Colombia,Colombia,170,COL,Latin-Amerika
+bra,country,Brasil,Brazil,76,BRA,Latin-Amerika
+guy,country,Guyana,Guyana,328,GUY,Latin-Amerika
+per,country,Peru,Peru,604,PER,Latin-Amerika
+hti,country,Haiti,Haiti,332,HTI,Latin-Amerika
+pol,country,Polen,Poland,616,POL,Europa
+rou,country,Romania,Romania,642,ROU,Europa
+bgr,country,Bulgaria,Bulgaria,100,BGR,Europa
+ltu,country,Litauen,Lithuania,440,LTU,Europa
+lva,country,Latvia,Latvia,428,LVA,Europa
+est,country,Estland,Estonia,233,EST,Europa
+cze,country,Tsjekkia,Czechia,203,CZE,Europa
+svk,country,Slovakia,Slovakia,703,SVK,Europa
+hun,country,Ungarn,Hungary,348,HUN,Europa
+hrv,country,Kroatia,Croatia,191,HRV,Europa
+grc,country,Hellas,Greece,300,GRC,Europa
+prt,country,Portugal,Portugal,620,PRT,Europa
+m_un,multilateral,FN-systemet,UN system,,,
+m_wb,multilateral,Verdensbanken-gruppen,World Bank Group,,,
+m_eu,multilateral,"EU-programmer (f.eks. Horisont Europa, Erasmus+)","EU programmes (e.g. Horizon Europe, Erasmus+)",,,
+m_nato,multilateral,NATO,NATO,,,
+m_rdb,multilateral,Regionale utviklingsbanker,Regional development banks,,,
+m_gf,multilateral,"Globale fond (Gavi, Det globale fondet m.fl.)","Global funds (Gavi, Global Fund etc.)",,,
+m_unalloc,unallocated,Ikke fordelt på mottaker (regionalt/globalt),Unallocated (regional/global),,,

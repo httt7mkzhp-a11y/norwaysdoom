@@ -1,0 +1,20 @@
+name: Oppdater data
+on:
+  schedule: [{ cron: "0 5 * * 1" }]
+  workflow_dispatch:
+permissions: { contents: write, pull-requests: write }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python3 pipeline/run.py --mode live
+      - run: python3 pipeline/validate.py
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          branch: data/auto-update
+          commit-message: "Oppdater datasett"
+          title: "Oppdater datasett"
+          body: "Automatisk kjøring av datapipeline. Se meta.pipelineLog i dataset.json for status per kilde."

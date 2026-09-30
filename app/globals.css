@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 246 245 242; --surface: 255 255 255; --fg: 17 24 39; --muted: 88 96 108; --line: 221 219 213;
+  --accent: 11 58 111; --accent2: 186 12 47; --warn: 138 90 0;
+  --r0: 232 238 246; --r1: 196 212 232; --r2: 152 180 214; --r3: 97 138 187; --r4: 45 92 152; --r5: 11 48 100;
+  --land: 226 224 218; --ocean: 255 255 255;
+}
+:root[data-theme="dark"] {
+  --bg: 11 15 21; --surface: 19 25 34; --fg: 232 236 241; --muted: 152 162 175; --line: 42 51 64;
+  --accent: 124 174 232; --accent2: 255 107 129; --warn: 240 183 70;
+  --r0: 30 42 58; --r1: 38 62 92; --r2: 50 88 132; --r3: 68 118 176; --r4: 100 154 214; --r5: 160 204 248;
+  --land: 34 42 54; --ocean: 11 15 21;
+}
+html { color-scheme: light; }
+html[data-theme="dark"] { color-scheme: dark; }
+body { @apply bg-bg text-fg font-sans antialiased; }
+:focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 2px; border-radius: 2px; }
+.num { font-variant-numeric: tabular-nums; }
+.container-x { @apply mx-auto w-full max-w-6xl px-4 sm:px-6; }
+.card { @apply rounded-lg border border-line bg-surface; }
+.btn { @apply inline-flex items-center gap-1 rounded-md border border-line bg-surface px-3 py-1.5 text-sm hover:border-accent; }
+.chip { @apply rounded-full border border-line px-2.5 py-0.5 text-xs; }
+.chip[aria-pressed="true"] { @apply border-accent bg-accent text-bg; }
+.field { @apply rounded-md border border-line bg-surface px-2 py-1.5 text-sm; }
+.r0 { fill: rgb(var(--r0)); } .r1 { fill: rgb(var(--r1)); } .r2 { fill: rgb(var(--r2)); }
+.r3 { fill: rgb(var(--r3)); } .r4 { fill: rgb(var(--r4)); } .r5 { fill: rgb(var(--r5)); }
+.sw0 { background: rgb(var(--r0)); } .sw1 { background: rgb(var(--r1)); } .sw2 { background: rgb(var(--r2)); }
+.sw3 { background: rgb(var(--r3)); } .sw4 { background: rgb(var(--r4)); } .sw5 { background: rgb(var(--r5)); }
+.country { stroke: rgb(var(--bg)); stroke-width: 0.4; transition: opacity .15s; }
+.country.clickable { cursor: pointer; }
+.country.clickable:hover, .country.sel { stroke: rgb(var(--fg)); stroke-width: 1.2; }
+.arc { fill: none; stroke: rgb(var(--accent2)); stroke-linecap: round; stroke-dasharray: 6 10; opacity: .8; animation: flow 1.6s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -32; } }
+@media (prefers-reduced-motion: reduce) { .arc { animation: none; stroke-dasharray: none; } }
