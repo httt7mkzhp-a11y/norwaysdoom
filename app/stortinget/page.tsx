@@ -1,5 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Loading } from "@/components/Shell";
 import { fmtDate, fmtInt, fmtPct } from "@/lib/format";
 import { useLang } from "@/lib/i18n";
@@ -15,6 +15,10 @@ export default function Storting() {
   const { lang, t } = useLang();
   const [f, setF] = useState<StFilter>(EMPTY);
   const [shown, setShown] = useState(PAGE);
+  useEffect(() => {
+    const a = new URLSearchParams(window.location.search).get("area");
+    if (a) setF((p) => ({ ...p, area: a }));
+  }, []);
   const set = <K extends keyof StFilter>(k: K, v: StFilter[K]) => { setF((p) => ({ ...p, [k]: v })); setShown(PAGE); };
   const votes = useMemo(() => (idx ? filterVotes(idx, f) : []), [idx, f]);
   if (!idx) return <Loading error={error} />;

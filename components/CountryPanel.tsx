@@ -1,6 +1,6 @@
 "use client";
 import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
-import { projectsFor, recipientFlows, sourceLink, sum, years as yrs } from "@/lib/agg";
+import { odaCats, projectsFor, recipientFlows, sourceLink, sum, years as yrs } from "@/lib/agg";
 import { catColor } from "@/lib/palette";
 import { useLang } from "@/lib/i18n";
 import { fmtDate, fmtMnok, fmtNum, fmtPct } from "@/lib/format";
@@ -24,10 +24,10 @@ export default function CountryPanel({ ds, r, year, onClose }: { ds: Dataset; r:
   const all = recipientFlows(ds, r.id);
   const inYear = all.filter((f) => f.year === year);
   const total = sum(inYear);
-  const cats = ds.categories.map((c) => ({ c, v: sum(inYear.filter((f) => f.category_id === c.id)) })).filter((x) => x.v > 0).sort((a, b) => b.v - a.v);
+  const cats = odaCats(ds).map((c) => ({ c, v: sum(inYear.filter((f) => f.category_id === c.id)) })).filter((x) => x.v > 0).sort((a, b) => b.v - a.v);
   const timeline = yrs(ds).map((y) => {
     const row: Record<string, number> = { year: y };
-    for (const c of ds.categories) row[c.id] = Math.round(sum(all.filter((f) => f.year === y && f.category_id === c.id)));
+    for (const c of odaCats(ds)) row[c.id] = Math.round(sum(all.filter((f) => f.year === y && f.category_id === c.id)));
     return row;
   });
   const proj = projectsFor(ds, r.id, year);
@@ -39,7 +39,7 @@ export default function CountryPanel({ ds, r, year, onClose }: { ds: Dataset; r:
       <div className="flex items-start justify-between gap-2">
         <div>
           <h2 className="font-serif text-2xl">{loc(r, "name")}</h2>
-          <p className="text-xs text-muted">{r.kind === "country" ? r.region : t(`kind.${r.kind}`)}</p>
+          <p className="text-xs text-muted">{r.kind === "country" ? (r.region ?? t("kind.country")) : t(`kind.${r.kind}`)}</p>
         </div>
         <button className="btn" onClick={onClose} aria-label={t("panel.close")}>✕</button>
       </div>
@@ -70,7 +70,7 @@ export default function CountryPanel({ ds, r, year, onClose }: { ds: Dataset; r:
             <YAxis tick={{ fill: "rgb(var(--muted))", fontSize: 10 }} axisLine={false} tickLine={false} width={52} tickFormatter={(v) => fmtNum(v, lang, 0)} />
             <Tooltip cursor={{ fill: "rgb(var(--line) / 0.4)" }} contentStyle={{ background: "rgb(var(--surface))", border: "1px solid rgb(var(--line))", borderRadius: 8, color: "rgb(var(--fg))", fontSize: 12 }}
               formatter={(v: number, n: string) => [fmtMnok(v, lang), loc(ds.categories.find((c) => c.id === n)!, "name")]} />
-            {ds.categories.map((c) => <Bar key={c.id} dataKey={c.id} stackId="a" fill={catColor(c.id)} />)}
+            {odaCats(ds).map((c) => <Bar key={c.id} dataKey={c.id} stackId="a" fill={catColor(c.id)} />)}
           </BarChart>
         </ResponsiveContainer>
       </div>

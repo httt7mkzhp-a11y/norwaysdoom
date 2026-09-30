@@ -24,6 +24,8 @@ def validate(ds: dict) -> list[str]:
             errs.append(f"ugyldig basis {k}")
         if f["verified"] and not str(f.get("source_ref", "")).startswith("http"):
             errs.append(f"verifisert flow uten kildelenke {k}")
+        if f["verified"] and not f.get("retrieved_at"):
+            errs.append(f"verifisert flow uten hentedato {k}")
         sums[k] += f["amount_mnok"]
     psum = defaultdict(float)
     for p in ds["projects"]:
@@ -35,7 +37,7 @@ def validate(ds: dict) -> list[str]:
         if v > sums.get(k, 0) + 0.05:
             errs.append(f"prosjekter {k} ({v:.1f}) overstiger flow ({sums.get(k, 0):.1f})")
     for r in ds["recipients"]:
-        if r["kind"] == "country" and not r.get("iso_n3"):
+        if r["kind"] == "country" and not r.get("iso_n3") and ds["meta"]["dataMode"] == "mock":
             errs.append(f"land uten iso_n3: {r['id']}")
     years = {y["year"] for y in ds["yearStats"]}
     for y in {f["year"] for f in ds["flows"]}:
@@ -47,15 +49,36 @@ def validate(ds: dict) -> list[str]:
     for t in ds["taxItems"]:
         if not (t["low_mnok"] <= t["revenue_mnok"] <= t["high_mnok"]) or not t["source_url"]:
             errs.append(f"taxItem {t['id']}: ugyldig intervall eller mangler kilde")
-    allrows = ds["flows"] + ds["projects"] + ds["unitCosts"] + ds["taxItems"] + ds["yearStats"]
+    bl_seen = set()
+    for b in ds.get("budgetLines", []):
+        k = (b["year"], b["chapter"], b["post"])
+        if k in bl_seen:
+            errs.append(f"duplikat budsjettpost {k}")
+        bl_seen.add(k)
+        if b["source_id"] not in src or (b["category_id"] and b["category_id"] not in cat):
+            errs.append(f"ugyldig referanse i budsjettpost {k}")
+        if b["amount_nok"] < 0:
+            errs.append(f"negativt budsjettbeløp {k}")
+        if abs(b["amount_mnok"] - b["amount_nok"] / 1e6) > 0.001:
+            errs.append(f"budsjettpost {k}: amount_mnok stemmer ikke med amount_nok")
+        if b["in_scope"] != (b["category_id"] is not None):
+            errs.append(f"budsjettpost {k}: in_scope og category_id er inkonsistent")
+        if not str(b.get("source_ref", "")).startswith("http") or not b.get("retrieved_at") or b.get("basis") not in ("vedtatt", "regnskap", "estimat"):
+            errs.append(f"budsjettpost {k}: mangler kildelenke, hentedato eller beløpstype")
+    allrows = ds["flows"] + ds["projects"] + ds["unitCosts"] + ds["taxItems"] + ds["yearStats"] + ds.get("budgetLines", [])
     anyunver = any(not r["verified"] for r in allrows)
     mode = ds["meta"]["dataMode"]
     if mode == "live" and anyunver:
         errs.append("dataMode=live men uverifiserte rader finnes")
-    if mode in ("mock", "partial") and not anyunver:
-        errs.append(f"dataMode={mode} men alle rader er verifisert")
+    unavailable = ds["meta"].get("unavailable", [])
+    if mode == "mock" and not anyunver:
+        errs.append("dataMode=mock men alle rader er verifisert")
+    if mode == "partial" and not (anyunver or unavailable):
+        errs.append("dataMode=partial men ingenting er uverifisert eller ikke tilgjengelig")
     if mode == "partial" and not any(r["verified"] for r in allrows):
         errs.append("dataMode=partial men ingen verifiserte rader")
+    if mode == "live" and unavailable:
+        errs.append("dataMode=live men meta.unavailable er ikke tom")
     if mode == "mock" and any(r["verified"] for r in allrows):
         errs.append("dataMode=mock men verifiserte rader finnes")
     return errs

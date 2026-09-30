@@ -1,34 +1,41 @@
 # Slik oppdateres data
 
 ```bash
-pip install pytest         # kun for test
-python3 pipeline/run.py --mode mock   # regenerer demodata
-python3 pipeline/run.py --mode live   # hent fra kilder (krever nettverk), fall tilbake til mock per hull
-python3 pipeline/validate.py          # valider public/data/dataset.json
+pip install -r pipeline/requirements.txt pytest
+python3 pipeline/run.py                # Stortinget (saker, voteringer, vedtatt budsjett), SSB, OECD DAC -> public/data
+python3 pipeline/projects_build.py     # kostnadsutvikling: kø + godkjente poster -> public/data/projects.json
+python3 pipeline/validate.py           # valider public/data/dataset.json
 npm run build                          # statisk side i out/
 ```
 
-## Legge inn ekte tall (manuell import)
-1. Last ned fra kilden (Norad, statsregnskapet, Gul bok …).
-2. Normaliser til CSV i `data/raw/<kilde>/<fil>.csv` med kolonnene i `data/raw/README.md`. `source_ref` må være en dypllenke.
-3. Kjør `--mode live`. Importerte rader erstatter mock for samme (år, kategori) og merkes `verified=true`. Når alt er verifisert blir `dataMode=live` og demobanneret forsvinner.
-4. Enhetspriser/proveny/årsstatistikk: rediger `pipeline/mock_data.py` (eller flytt til egne CSV) og sett `verified=True` med kilde-URL når tallene er kontrollert.
+Første kjøring er treg (voteringsresultater ~3 s per votering). Svar caches i `data/cache/` (ikke i git); senere kjøringer er raske. Pipelinen bruker rate limiting (0,4 s mellom kall), retry med backoff, og en User-Agent som identifiserer prosjektet. Vertene som svarer 403 (regjeringen.no, statsregnskapet.dfo.no, banenor.no) omgås ikke.
 
-## Stortinget (saker og voteringer)
-```bash
-python3 pipeline/storting_build.py             # bygger public/data/storting/ (første kjøring er treg, ~3 s per votering; svar caches i data/cache/)
-python3 pipeline/storting_build.py --max-drop 0.05   # feiler hvis antall saker/voteringer faller >5 % mot forrige uttrekk
-```
-Sesjoner og områder (nøkkelord) styres i `pipeline/config/storting.json`. Ved feil røres ikke eksisterende filer. Se [metode.md](metode.md) og [datahull.md](datahull.md).
+## Alt-eller-ingenting
+`run.py`, `storting_build.py` og `projects_build.py` skriver først til midlertidig sted og bytter bare ved suksess. Ved kildefeil, valideringsfeil eller stort avvik mot forrige uttrekk avsluttes prosessen med feilkode og eksisterende filer i `public/data/` røres ikke.
+- `run.py`: avviser mer enn 10 % nedgang i antall rader, eller mer enn 25 % endring i årssum. Etter manuell kontroll: `--accept-drift`.
+- `storting_build.py`: avviser mer enn 5 % nedgang i saker/voteringer (`--max-drop`).
 
-## Status per kilde
-`dataset.json → meta.pipelineLog` og `sources[].status` viser `live | failed | manual_needed | mock`. Siden viser dato for siste vellykkede henting i bunnteksten.
+## Nytt budsjettår
+1. Legg sesjonen til i `SESSIONS` i `pipeline/run.py`.
+2. Kjør pipelinen. Feiler den på «ikke klassifisert bistandspost» eller «forventer …», er budsjettstrukturen endret: gå gjennom postene og oppdater `pipeline/config/definition.json` (bruk `years` for regler som gjelder bestemte år), og oppdater `years_verified`.
+
+## Legge til en kilde
+1. Skriv `pipeline/sources/<kilde>.py` med parsing som kan testes uten nettverk (fixtures i `tests/`).
+2. Bygg radene i `pipeline/real_data.py` med `source_ref` (URL), `retrieved_at`, `basis`, `price_basis`.
+3. Legg kilden i `SOURCES` (lisens, oppdateringsfrekvens, automatisk/manuell).
+4. Det som ikke kan hentes legges i `UNAVAILABLE` (vises på siden) og i `docs/datahull.md`.
+
+## Legge til et prosjekt
+Se [prosjekter.md](prosjekter.md).
+
+## Legge til/endre område for Stortinget
+Rediger `areas` i `pipeline/config/storting.json` (id, navn, nøkkelord, emner). Sesjoner styres i samme fil.
 
 ## Automatisk kjøring
-`.github/workflows/update-data.yml` kjører ukentlig (mandag) og ved manuell start, validerer og åpner en PR. Kjør den manuelt etter statsbudsjettet (oktober) og revidert nasjonalbudsjett (mai).
+`.github/workflows/update-data.yml` kjører ukentlig (mandag) og ved manuell start. Testene kjøres først; jobben feiler tydelig ved feil og åpner en PR bare ved suksess. Kjør den manuelt etter statsbudsjettet (oktober).
 
 ## Postgres (valgfritt)
-`db/schema.sql` beskriver samme modell relasjonelt. Appen leser i dag statiske JSON/CSV-filer; database er ikke påkrevd. Lasting til Postgres er ikke implementert.
+`db/schema.sql` beskriver samme modell relasjonelt. Appen leser statiske JSON/CSV-filer; lasting til Postgres er ikke implementert.
 
 ## Åpent API
-Filene i `public/data/` (`dataset.json`, `*.csv`) serveres statisk på `/data/…` og er det åpne API-et.
+Filene i `public/data/` serveres statisk på `/data/…`.

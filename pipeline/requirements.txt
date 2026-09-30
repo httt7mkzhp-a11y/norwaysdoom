@@ -1,0 +1,5 @@
+pycountry>=24.6
+babel>=2.14
+pypdf>=4.0
+cffi
+fonttools

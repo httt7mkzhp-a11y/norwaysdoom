@@ -4,7 +4,6 @@ import { useLang } from "@/lib/i18n";
 import { fmtMnok, fmtNok } from "@/lib/format";
 import { useNow } from "@/lib/useNow";
 import type { Dataset } from "@/lib/types";
-import { Unverified } from "./Shell";
 
 export default function KeyFigures({ ds, annualNok }: { ds: Dataset; annualNok: number }) {
   const { lang, t } = useLang();
@@ -14,10 +13,10 @@ export default function KeyFigures({ ds, annualNok }: { ds: Dataset; annualNok: 
   const c = counterAt(annualNok, now ?? Date.now(), year);
   const ready = now !== null;
   const items = [
-    { k: "kf.total", v: fmtMnok(c.ytd / 1e6, lang), unver: false },
-    { k: "kf.perCapita", v: ys ? fmtNok(c.ytd / ys.population, lang) : "—", unver: !ys?.verified },
-    { k: "kf.perTaxpayer", v: ys ? fmtNok(c.ytd / ys.taxpayers, lang) : "—", unver: !ys?.verified },
-    { k: "kf.perDay", v: fmtMnok(c.perDay / 1e6, lang), unver: false },
+    { k: "kf.total", v: fmtMnok(c.ytd / 1e6, lang) },
+    { k: "kf.perCapita", v: ys?.population ? fmtNok(c.ytd / ys.population, lang) : t("na") },
+    { k: "kf.perTaxpayer", v: ys?.taxpayers ? fmtNok(c.ytd / ys.taxpayers, lang) : t("na") },
+    { k: "kf.perDay", v: fmtMnok(c.perDay / 1e6, lang) },
   ];
   return (
     <section aria-labelledby="kf-h" className="mt-6">
@@ -27,11 +26,10 @@ export default function KeyFigures({ ds, annualNok }: { ds: Dataset; annualNok: 
           <div key={i.k} className="card p-4">
             <dt className="text-xs uppercase tracking-wide text-muted">{t(i.k)}</dt>
             <dd className="num mt-1 font-serif text-2xl">{ready ? i.v : "—"}</dd>
-            {i.unver && ys && !ys.verified && <div className="mt-1"><Unverified /></div>}
           </div>
         ))}
       </dl>
-      <p className="mt-2 text-xs text-muted">{t("kf.note", { pop: ys ? ys.population.toLocaleString(lang === "nb" ? "nb-NO" : "en-GB") : "—", tax: ys ? ys.taxpayers.toLocaleString(lang === "nb" ? "nb-NO" : "en-GB") : "—" })}</p>
+      <p className="mt-2 text-xs text-muted">{t("kf.note", { pop: ys?.population ? ys.population.toLocaleString(lang === "nb" ? "nb-NO" : "en-GB") : t("na"), tax: ys?.taxpayers ? ys.taxpayers.toLocaleString(lang === "nb" ? "nb-NO" : "en-GB") : t("na") })}</p>
     </section>
   );
 }

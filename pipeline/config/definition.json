@@ -1,0 +1,302 @@
+{
+ "version": 1,
+ "status": "utkast: manuelt kuratert avgrensning, bare kontrollert mot budsjettårene i years_verified. Poster i kap. 150–172 som ikke dekkes av en regel gir feil (nye år må gjennomgås).",
+ "categories": [
+  {
+   "id": "hum",
+   "name_nb": "Humanitær bistand",
+   "name_en": "Humanitarian assistance",
+   "nature": "grant",
+   "commitment": "political",
+   "description_nb": "Kap. 150: nødhjelp og humanitær bistand, WFP og UNHCR.",
+   "description_en": "Chapter 150: emergency and humanitarian assistance, WFP and UNHCR."
+  },
+  {
+   "id": "peace",
+   "name_nb": "Fred, sikkerhet og menneskerettigheter",
+   "name_en": "Peace, security and human rights",
+   "nature": "grant",
+   "commitment": "political",
+   "description_nb": "Kap. 151 (unntatt pliktige bidrag) og 152.",
+   "description_en": "Chapters 151 (excluding assessed contributions) and 152."
+  },
+  {
+   "id": "dev",
+   "name_nb": "Utviklingssamarbeid (regional og tematisk)",
+   "name_en": "Development cooperation (regional and thematic)",
+   "nature": "grant",
+   "commitment": "political",
+   "description_nb": "Kap. 159 (unntatt Ukraina), 160, 161, 162, 164, 165, 170 og 172.73 (gjeldslette).",
+   "description_en": "Chapters 159 (excluding Ukraine), 160, 161, 162, 164, 165, 170 and 172.73 (debt relief)."
+  },
+  {
+   "id": "clim",
+   "name_nb": "Miljø og klima",
+   "name_en": "Environment and climate",
+   "nature": "grant",
+   "commitment": "political",
+   "description_nb": "Kap. 163: miljø, klima og hav.",
+   "description_en": "Chapter 163: environment, climate and oceans."
+  },
+  {
+   "id": "ukr",
+   "name_nb": "Ukraina-støtte (Nansen-programmet)",
+   "name_en": "Support to Ukraine (Nansen Programme)",
+   "nature": "grant",
+   "commitment": "political",
+   "description_nb": "Kap. 159 post 73 (sivil), kap. 165 post 72 (Ukraina-fondet) og kap. 1750 post 79 (militær).",
+   "description_en": "Chapter 159 item 73 (civilian), chapter 165 item 72 (Ukraine fund) and chapter 1750 item 79 (military)."
+  },
+  {
+   "id": "org",
+   "name_nb": "Multilaterale organisasjoner og pliktige bidrag",
+   "name_en": "Multilateral organisations and assessed contributions",
+   "nature": "grant",
+   "commitment": "political",
+   "description_nb": "Kap. 171, 172 (unntatt gjeldslette), 116.70 og 151.74 (pliktige bidrag).",
+   "description_en": "Chapters 171, 172 (excluding debt relief), 116.70 and 151.74 (assessed contributions)."
+  },
+  {
+   "id": "eea",
+   "name_nb": "EØS-finansieringsordningene",
+   "name_en": "EEA and Norway Grants",
+   "nature": "grant",
+   "commitment": "agreement",
+   "description_nb": "Kap. 117 post 79 og 80.",
+   "description_en": "Chapter 117 items 79 and 80."
+  },
+  {
+   "id": "def",
+   "name_nb": "NATO og internasjonale forsvarsbudsjetter",
+   "name_en": "NATO and international defence budgets",
+   "nature": "membership",
+   "commitment": "treaty",
+   "description_nb": "Kap. 1700 post 53 og 78, kap. 1760 post 75 (NATOs investeringsprogram).",
+   "description_en": "Chapter 1700 items 53 and 78, chapter 1760 item 75 (NATO investment programme)."
+  }
+ ],
+ "rules": [
+  {
+   "kapittel": "150",
+   "category": "hum"
+  },
+  {
+   "kapittel": "153",
+   "category": "hum",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "kapittel": "151",
+   "post": "74",
+   "category": "org",
+   "commitment": "obligatory",
+   "expect": "Pliktige"
+  },
+  {
+   "kapittel": "151",
+   "category": "peace"
+  },
+  {
+   "kapittel": "152",
+   "category": "peace"
+  },
+  {
+   "kapittel": "159",
+   "post": "73",
+   "category": "ukr",
+   "expect": "Ukraina"
+  },
+  {
+   "kapittel": "159",
+   "category": "dev"
+  },
+  {
+   "kapittel": "160",
+   "category": "dev"
+  },
+  {
+   "kapittel": "161",
+   "category": "dev"
+  },
+  {
+   "kapittel": "162",
+   "category": "dev"
+  },
+  {
+   "kapittel": "163",
+   "category": "clim"
+  },
+  {
+   "kapittel": "164",
+   "category": "dev"
+  },
+  {
+   "kapittel": "165",
+   "post": "72",
+   "category": "ukr",
+   "nature": "capital",
+   "expect": "Ukraina",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "kapittel": "165",
+   "category": "dev",
+   "nature": "capital"
+  },
+  {
+   "kapittel": "170",
+   "category": "dev"
+  },
+  {
+   "kapittel": "171",
+   "category": "org"
+  },
+  {
+   "kapittel": "172",
+   "post": "73",
+   "category": "dev",
+   "expect": "gjelds"
+  },
+  {
+   "kapittel": "172",
+   "category": "org"
+  },
+  {
+   "kapittel": "116",
+   "post": "70",
+   "category": "org",
+   "commitment": "obligatory",
+   "expect": "Pliktige"
+  },
+  {
+   "kapittel": "117",
+   "post": "79",
+   "category": "eea",
+   "expect": "finansieringsordning",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "kapittel": "117",
+   "post": "80",
+   "category": "eea",
+   "expect": "finansieringsordning",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "kapittel": "117",
+   "post": "77",
+   "category": "eea",
+   "expect": "finansieringsordning",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "kapittel": "117",
+   "post": "78",
+   "category": "eea",
+   "expect": "finansieringsordning",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "kapittel": "1750",
+   "post": "79",
+   "category": "ukr",
+   "expect": "Ukraina",
+   "years": [
+    2026
+   ]
+  },
+  {
+   "kapittel": "1700",
+   "post": "79",
+   "category": "ukr",
+   "expect": "Ukraina",
+   "years": [
+    2025
+   ]
+  },
+  {
+   "kapittel": "1700",
+   "post": "53",
+   "category": "def",
+   "expect": "NATO",
+   "years": [
+    2026
+   ],
+   "nature": "capital"
+  },
+  {
+   "kapittel": "1700",
+   "post": "90",
+   "category": "def",
+   "expect": "NATO",
+   "years": [
+    2025
+   ],
+   "nature": "capital"
+  },
+  {
+   "kapittel": "1700",
+   "post": "78",
+   "category": "def",
+   "expect": "NATO"
+  },
+  {
+   "kapittel": "1760",
+   "post": "75",
+   "category": "def",
+   "expect": "NATO"
+  }
+ ],
+ "excluded_notes": [
+  {
+   "kapittel": "1750",
+   "post": "21",
+   "note_nb": "Spesielle driftsutgifter med fullmakt til å nyttes under post 79. Utelatt for å unngå dobbelttelling; beløpet er stort (se datahull.md)."
+  },
+  {
+   "kapittel": "179",
+   "note_nb": "Flyktningtiltak i Norge (utgifter i Norge). Utelatt bevisst."
+  },
+  {
+   "kapittel": "100-105",
+   "note_nb": "Drift av utenrikstjenesten og forvaltning. Utgifter i utenrikstjenesten, ikke overføringer til mottakere."
+  },
+  {
+   "kapittel": "115",
+   "note_nb": "Kultur- og næringsfremme i utlandet. Utelatt."
+  },
+  {
+   "kapittel": "118",
+   "note_nb": "Utenrikspolitiske tilskudd (globale sikkerhetsspørsmål, Russland m.m.). Utelatt i første versjon; kan vurderes."
+  },
+  {
+   "kapittel": "140-144",
+   "note_nb": "Forvaltning og utvekslingsordninger. Utelatt."
+  },
+  {
+   "kapittel": "1700-1799 (øvrige)",
+   "note_nb": "Forsvarets drift og investeringer i Norge og utlandet. Bare NATO-bidragene er med."
+  },
+  {
+   "kapittel": "1700",
+   "post": "79 (2025)",
+   "note_nb": "Se kategori ukr: 2025-budsjettet førte militær støtte til Ukraina på kap. 1700 post 79, 2026-budsjettet på kap. 1750 post 79. Kap. 1750 post 21 er utelatt (2026)."
+  }
+ ],
+ "years_verified": [
+  2025,
+  2026
+ ]
+}

@@ -1,25 +1,36 @@
 name: Oppdater data
 on:
-  schedule: [{ cron: "0 5 * * 1" }]
+  schedule: [{ cron: "0 5 * * 1" }]   # ukentlig, mandag
   workflow_dispatch:
+    inputs:
+      accept_drift:
+        description: "Godta stort avvik mot forrige uttrekk (etter manuell kontroll)"
+        type: boolean
+        default: false
 permissions: { contents: write, pull-requests: write }
+concurrency: { group: update-data, cancel-in-progress: false }
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
+      - run: pip install -r pipeline/requirements.txt pytest
       - uses: actions/cache@v4
-        with: { path: data/cache, key: "storting-cache-${{ github.run_id }}", restore-keys: "storting-cache-" }
-      # Feiler jobben tydelig ved feil eller >5 % nedgang; eksisterende data overskrives da ikke.
-      - run: python3 pipeline/storting_build.py --max-drop 0.05
-      - run: python3 pipeline/run.py --mode live
+        with: { path: data/cache, key: "cache-${{ github.run_id }}", restore-keys: "cache-" }
+      - run: python -m pytest -q tests
+      # Hver av disse feiler jobben tydelig ved feil, valideringsfeil eller stort avvik; eksisterende data overskrives da ikke.
+      - run: python3 pipeline/run.py ${{ inputs.accept_drift && '--accept-drift' || '' }}
+      - run: python3 pipeline/projects_build.py
       - run: python3 pipeline/validate.py
       - uses: peter-evans/create-pull-request@v6
         with:
           branch: data/auto-update
           commit-message: "Oppdater datasett"
           title: "Oppdater datasett"
-          body: "Automatisk kjøring av datapipeline. Se meta.pipelineLog i dataset.json for status per kilde."
+          body: |
+            Automatisk kjøring av datapipeline (Stortinget, SSB, OECD DAC, kostnadsutvikling-kø).
+            Sjekk `meta.problems`/`meta.notes` i dataset.json, avvik mot forrige uttrekk og nye kandidater i data/review/queue/.
+            Kandidattall i køen er IKKE publisert før de godkjennes manuelt i data/review/approved/.

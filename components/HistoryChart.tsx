@@ -1,7 +1,7 @@
 "use client";
 import { useMemo, useState } from "react";
 import { Bar, BarChart, CartesianGrid, Cell, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
-import { realFactor, yearTotalMnok, years as yrs } from "@/lib/agg";
+import { ABROAD_ODA, realFactor, yearTotalMnok, years as yrs } from "@/lib/agg";
 import { useLang } from "@/lib/i18n";
 import { fmtMnok, fmtNum } from "@/lib/format";
 import type { Dataset } from "@/lib/types";
@@ -9,10 +9,12 @@ import type { Dataset } from "@/lib/types";
 export default function HistoryChart({ ds }: { ds: Dataset }) {
   const { lang, t } = useLang();
   const [real, setReal] = useState(false);
-  const rows = useMemo(() => yrs(ds).slice(-10).map((y) => {
+  const rows = useMemo(() => yrs(ds).slice(-10).flatMap((y) => {
     const basis = ds.flows.find((f) => f.year === y)?.basis ?? "regnskap";
-    const v = yearTotalMnok(ds, y) * (real ? realFactor(ds, y) : 1);
-    return { year: y, bn: v / 1000, mnok: v, basis };
+    const k = real ? realFactor(ds, y) : 1;
+    if (k === null) return [];
+    const v = yearTotalMnok(ds, y, ABROAD_ODA) * k;
+    return [{ year: y, bn: v / 1000, mnok: v, basis }];
   }), [ds, real]);
   return (
     <section aria-labelledby="hist-h" className="card mt-8 p-5">
@@ -20,7 +22,7 @@ export default function HistoryChart({ ds }: { ds: Dataset }) {
         <h2 id="hist-h" className="font-serif text-xl">{t("hist.title")}</h2>
         <div role="group" aria-label={t("hist.price")} className="flex gap-2">
           <button className="chip" aria-pressed={!real} onClick={() => setReal(false)}>{t("hist.nominal")}</button>
-          <button className="chip" aria-pressed={real} onClick={() => setReal(true)}>{t("hist.real", { year: ds.meta.currentYear })}</button>
+          <button className="chip" aria-pressed={real} onClick={() => setReal(true)}>{t("hist.real", { year: ds.meta.priceBaseYear ?? ds.meta.currentYear })}</button>
         </div>
       </div>
       <div className="mt-4 h-64" role="img" aria-label={t("hist.aria")}>

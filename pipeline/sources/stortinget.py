@@ -158,3 +158,10 @@ def parse_proposals(root: ET.Element) -> list[dict]:
 
 def proposals_for_vote(vote_id: str) -> list[dict]:
     return parse_proposals(_xml(f"voteringsforslag?voteringid={vote_id}", ONE_YEAR))
+
+
+def raw_proposals(vote_id: str) -> list[dict]:
+    """Forslag med rå forslagstekst (HTML). Brukes til å trekke ut vedtatte budsjettabeller."""
+    root = _xml(f"voteringsforslag?voteringid={vote_id}", ONE_YEAR)
+    return [dict(type=_text(f, "forslag_type"), label=_text(f, "forslag_betegnelse"), html=_text(f, "forslag_tekst"))
+            for f in root.iter(NS + "voteringsforslag")]

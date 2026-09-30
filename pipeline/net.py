@@ -9,7 +9,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-UA = "norwaysdoom-pipeline/0.2 (+https://github.com/httt7mkzhp-a11y/norwaysdoom; åpen datapipeline, lav frekvens)"
+UA = "norwaysdoom-pipeline/0.2 (+https://github.com/httt7mkzhp-a11y/norwaysdoom; open data pipeline, low frequency)"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "data" / "cache"
 MIN_INTERVAL = 0.4  # sekunder mellom kall (per prosess)
 _last = 0.0
