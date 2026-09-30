@@ -1,9 +1,9 @@
 "use client";
 import { useMemo, useState } from "react";
 import CountryPanel from "@/components/CountryPanel";
-import { Loading, Unverified } from "@/components/Shell";
+import { Loading } from "@/components/Shell";
 import WorldMap from "@/components/WorldMap";
-import { perRecipient, years as yrs } from "@/lib/agg";
+import { odaCats, perRecipient, years as yrs } from "@/lib/agg";
 import { useData } from "@/lib/data";
 import { fmtMnok } from "@/lib/format";
 import { useLang } from "@/lib/i18n";
@@ -19,7 +19,7 @@ export default function MapPage() {
   const [q, setQ] = useState("");
   const [sel, setSel] = useState<string | null>(null);
 
-  const y = year ?? ds?.meta.currentYear ?? 0;
+  const y = year ?? (ds ? Math.max(...ds.flows.map((f) => f.year)) : 0); // siste år med utbetalte tall (OECD)
   const minN = min === "" ? 0 : Number(min), maxN = max === "" ? Infinity : Number(max);
   const amounts = useMemo(() => (ds ? perRecipient(ds, { year: y, categories: cats, minMnok: minN, maxMnok: maxN }) : new Map<string, number>()), [ds, y, cats, minN, maxN]);
   if (!ds) return <Loading error={error} />;
@@ -60,7 +60,7 @@ export default function MapPage() {
           <legend className="text-sm">{t("filter.cats")}</legend>
           <div className="mt-2 flex flex-wrap gap-2">
             <button type="button" className="chip" aria-pressed={cats.length === 0} onClick={() => setCats([])}>{t("filter.all")}</button>
-            {ds.categories.map((c) => (
+            {odaCats(ds).map((c) => (
               <button type="button" key={c.id} className="chip" aria-pressed={cats.includes(c.id)}
                 onClick={() => setCats((p) => (p.includes(c.id) ? p.filter((x) => x !== c.id) : [...p, c.id]))}>
                 <span aria-hidden="true" className="mr-1 inline-block h-2 w-2 rounded-full" style={{ background: catColor(c.id) }} />{loc(c, "name")}
@@ -70,7 +70,7 @@ export default function MapPage() {
         </fieldset>
       </form>
 
-      <p className="mt-4 text-sm" role="status">{t("map.summary", { total: fmtMnok(total, lang), n: rows.length, year: y })} {ds.meta.dataMode !== "live" && <Unverified />}</p>
+      <p className="mt-4 text-sm" role="status">{t("map.summary", { total: fmtMnok(total, lang), n: rows.length, year: y })}</p>
 
       <div className="mt-4 grid gap-6 lg:grid-cols-[1fr_400px]">
         <div>
@@ -82,7 +82,7 @@ export default function MapPage() {
               {countries.map(({ r, v }) => (
                 <tr key={r.id} className="border-t border-line">
                   <td className="py-1"><button className="underline-offset-2 hover:underline" aria-pressed={sel === r.id} onClick={() => setSel(r.id)}>{loc(r, "name")}</button></td>
-                  <td className="text-muted">{r.region}</td><td className="text-right">{fmtMnok(v, lang)}</td>
+                  <td className="text-muted">{r.region ?? "—"}</td><td className="text-right">{fmtMnok(v, lang)}</td>
                 </tr>
               ))}
               {!countries.length && <tr><td colSpan={3} className="py-3 text-muted">{t("list.empty")}</td></tr>}

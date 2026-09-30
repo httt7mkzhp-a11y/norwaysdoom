@@ -1,21 +1,37 @@
-import type { Dataset, Flow, Project, Recipient } from "./types";
+import type { BudgetLine, Category, Dataset, Flow, Project, Recipient } from "./types";
 
 export interface Filters { year: number; categories: string[]; minMnok: number; maxMnok: number }
 
 export const sum = (xs: Flow[]) => xs.reduce((a, f) => a + f.amount_mnok, 0);
 
+/** Kategorier for OECD-baserte utbetalinger (flows). Budsjettkategorier hører til budgetLines. */
+export const odaCats = (ds: Dataset): Category[] => ds.categories.filter((c) => c.kind !== "budget");
+export const budgetCats = (ds: Dataset): Category[] => ds.categories.filter((c) => c.kind === "budget");
+/** Utbetalinger til utlandet (uten flyktningutgifter i Norge). */
+export const ABROAD_ODA = ["oda_bilat", "oda_multi"];
+
 export function yearTotalMnok(ds: Dataset, year: number, categories?: string[]): number {
   return sum(ds.flows.filter((f) => f.year === year && (!categories?.length || categories.includes(f.category_id))));
 }
+
+/** Vedtatt budsjett i avgrensningen (definition.json) for et år, mill. NOK. null = ikke tilgjengelig. */
+export function budgetLines(ds: Dataset, year: number, inScopeOnly = true): BudgetLine[] {
+  return (ds.budgetLines ?? []).filter((b) => b.year === year && (!inScopeOnly || b.in_scope));
+}
+export function budgetTotalMnok(ds: Dataset, year: number): number | null {
+  const l = budgetLines(ds, year);
+  return l.length ? l.reduce((a, b) => a + b.amount_mnok, 0) : null;
+}
+export const budgetYears = (ds: Dataset): number[] => [...new Set((ds.budgetLines ?? []).map((b) => b.year))].sort((a, b) => a - b);
 
 export function years(ds: Dataset): number[] {
   return [...new Set(ds.flows.map((f) => f.year))].sort((a, b) => a - b);
 }
 
 /** Faste kroner: beløp i løpende kroner * (kpi_2026_indeks / kpi_år_indeks). cpi_index = 1 for basisåret. */
-export function realFactor(ds: Dataset, year: number): number {
+export function realFactor(ds: Dataset, year: number): number | null {
   const ys = ds.yearStats.find((y) => y.year === year);
-  return ys ? 1 / ys.cpi_index : 1;
+  return ys?.cpi_index ? 1 / ys.cpi_index : null;
 }
 
 export function perRecipient(ds: Dataset, f: Filters): Map<string, number> {

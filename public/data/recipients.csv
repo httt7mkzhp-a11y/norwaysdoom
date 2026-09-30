@@ -1,57 +1,129 @@
 id,kind,name_nb,name_en,iso_n3,iso_a3,region
-ukr,country,Ukraina,Ukraine,804,UKR,Europa
-mda,country,Moldova,Moldova,498,MDA,Europa
-geo,country,Georgia,Georgia,268,GEO,Europa
-tza,country,Tanzania,Tanzania,834,TZA,Afrika
-uga,country,Uganda,Uganda,800,UGA,Afrika
-moz,country,Mosambik,Mozambique,508,MOZ,Afrika
-mwi,country,Malawi,Malawi,454,MWI,Afrika
-zmb,country,Zambia,Zambia,894,ZMB,Afrika
-eth,country,Etiopia,Ethiopia,231,ETH,Afrika
-som,country,Somalia,Somalia,706,SOM,Afrika
-ssd,country,Sør-Sudan,South Sudan,728,SSD,Afrika
-sdn,country,Sudan,Sudan,729,SDN,Afrika
-cod,country,DR Kongo,DR Congo,180,COD,Afrika
-ken,country,Kenya,Kenya,404,KEN,Afrika
-mli,country,Mali,Mali,466,MLI,Afrika
-ner,country,Niger,Niger,562,NER,Afrika
-nga,country,Nigeria,Nigeria,566,NGA,Afrika
-gha,country,Ghana,Ghana,288,GHA,Afrika
-lbr,country,Liberia,Liberia,430,LBR,Afrika
-nep,country,Nepal,Nepal,524,NPL,Asia
-afg,country,Afghanistan,Afghanistan,4,AFG,Asia
-syr,country,Syria,Syria,760,SYR,Asia
-lbn,country,Libanon,Lebanon,422,LBN,Asia
-jor,country,Jordan,Jordan,400,JOR,Asia
-pse,country,Palestina,Palestine,275,PSE,Asia
-yem,country,Jemen,Yemen,887,YEM,Asia
-irq,country,Irak,Iraq,368,IRQ,Asia
-bgd,country,Bangladesh,Bangladesh,50,BGD,Asia
-mmr,country,Myanmar,Myanmar,104,MMR,Asia
-pak,country,Pakistan,Pakistan,586,PAK,Asia
-idn,country,Indonesia,Indonesia,360,IDN,Asia
-ind,country,India,India,356,IND,Asia
-col,country,Colombia,Colombia,170,COL,Latin-Amerika
-bra,country,Brasil,Brazil,76,BRA,Latin-Amerika
-guy,country,Guyana,Guyana,328,GUY,Latin-Amerika
-per,country,Peru,Peru,604,PER,Latin-Amerika
-hti,country,Haiti,Haiti,332,HTI,Latin-Amerika
-pol,country,Polen,Poland,616,POL,Europa
-rou,country,Romania,Romania,642,ROU,Europa
-bgr,country,Bulgaria,Bulgaria,100,BGR,Europa
-ltu,country,Litauen,Lithuania,440,LTU,Europa
-lva,country,Latvia,Latvia,428,LVA,Europa
-est,country,Estland,Estonia,233,EST,Europa
-cze,country,Tsjekkia,Czechia,203,CZE,Europa
-svk,country,Slovakia,Slovakia,703,SVK,Europa
-hun,country,Ungarn,Hungary,348,HUN,Europa
-hrv,country,Kroatia,Croatia,191,HRV,Europa
-grc,country,Hellas,Greece,300,GRC,Europa
-prt,country,Portugal,Portugal,620,PRT,Europa
-m_un,multilateral,FN-systemet,UN system,,,
-m_wb,multilateral,Verdensbanken-gruppen,World Bank Group,,,
-m_eu,multilateral,"EU-programmer (f.eks. Horisont Europa, Erasmus+)","EU programmes (e.g. Horizon Europe, Erasmus+)",,,
-m_nato,multilateral,NATO,NATO,,,
-m_rdb,multilateral,Regionale utviklingsbanker,Regional development banks,,,
-m_gf,multilateral,"Globale fond (Gavi, Det globale fondet m.fl.)","Global funds (Gavi, Global Fund etc.)",,,
-m_unalloc,unallocated,Ikke fordelt på mottaker (regionalt/globalt),Unallocated (regional/global),,,
+afg,country,Afghanistan,Afghanistan,4,AFG,
+ago,country,Angola,Angola,24,AGO,
+alb,country,Albania,Albania,8,ALB,
+arg,country,Argentina,Argentina,32,ARG,
+arm,country,Armenia,Armenia,51,ARM,
+aze,country,Aserbajdsjan,Azerbaijan,31,AZE,
+bdi,country,Burundi,Burundi,108,BDI,
+ben,country,Benin,Benin,204,BEN,
+bfa,country,Burkina Faso,Burkina Faso,854,BFA,
+bgd,country,Bangladesh,Bangladesh,50,BGD,
+bih,country,Bosnia-Hercegovina,Bosnia & Herzegovina,70,BIH,
+blr,country,Belarus,Belarus,112,BLR,
+blz,country,Belize,Belize,84,BLZ,
+bol,country,Bolivia,Bolivia,68,BOL,
+bra,country,Brasil,Brazil,76,BRA,
+btn,country,Bhutan,Bhutan,64,BTN,
+bwa,country,Botswana,Botswana,72,BWA,
+caf,country,Den sentralafrikanske republikk,Central African Republic,140,CAF,
+chl,country,Chile,Chile,152,CHL,
+chn,country,Kina,China,156,CHN,
+civ,country,Elfenbenskysten,Côte d’Ivoire,384,CIV,
+cmr,country,Kamerun,Cameroon,120,CMR,
+cod,country,Kongo,Congo - Kinshasa,180,COD,
+cog,country,Kongo-Brazzaville,Congo - Brazzaville,178,COG,
+col,country,Colombia,Colombia,170,COL,
+cpv,country,Kapp Verde,Cape Verde,132,CPV,
+cri,country,Costa Rica,Costa Rica,188,CRI,
+cub,country,Cuba,Cuba,192,CUB,
+dji,country,Djibouti,Djibouti,262,DJI,
+dma,country,Dominica,Dominica,212,DMA,
+dom,country,Den dominikanske republikk,Dominican Republic,214,DOM,
+dza,country,Algerie,Algeria,12,DZA,
+ecu,country,Ecuador,Ecuador,218,ECU,
+egy,country,Egypt,Egypt,818,EGY,
+eri,country,Eritrea,Eritrea,232,ERI,
+eth,country,Etiopia,Ethiopia,231,ETH,
+fji,country,Fiji,Fiji,242,FJI,
+gab,country,Gabon,Gabon,266,GAB,
+geo,country,Georgia,Georgia,268,GEO,
+gha,country,Ghana,Ghana,288,GHA,
+gin,country,Guinea,Guinea,324,GIN,
+gmb,country,Gambia,Gambia,270,GMB,
+gnb,country,Guinea-Bissau,Guinea-Bissau,624,GNB,
+gtm,country,Guatemala,Guatemala,320,GTM,
+guy,country,Guyana,Guyana,328,GUY,
+hnd,country,Honduras,Honduras,340,HND,
+hti,country,Haiti,Haiti,332,HTI,
+idn,country,Indonesia,Indonesia,360,IDN,
+ind,country,India,India,356,IND,
+irn,country,Iran,Iran,364,IRN,
+irq,country,Irak,Iraq,368,IRQ,
+jam,country,Jamaica,Jamaica,388,JAM,
+jor,country,Jordan,Jordan,400,JOR,
+kaz,country,Kasakhstan,Kazakhstan,398,KAZ,
+ken,country,Kenya,Kenya,404,KEN,
+kgz,country,Kirgisistan,Kyrgyzstan,417,KGZ,
+khm,country,Kambodsja,Cambodia,116,KHM,
+kir,country,Kiribati,Kiribati,296,KIR,
+lao,country,Laos,Laos,418,LAO,
+lbn,country,Libanon,Lebanon,422,LBN,
+lbr,country,Liberia,Liberia,430,LBR,
+lby,country,Libya,Libya,434,LBY,
+lka,country,Sri Lanka,Sri Lanka,144,LKA,
+lso,country,Lesotho,Lesotho,426,LSO,
+mar,country,Marokko,Morocco,504,MAR,
+mda,country,Moldova,Moldova,498,MDA,
+mdg,country,Madagaskar,Madagascar,450,MDG,
+mdv,country,Maldivene,Maldives,462,MDV,
+mex,country,Mexico,Mexico,484,MEX,
+mhl,country,Marshalløyene,Marshall Islands,584,MHL,
+mkd,country,Nord-Makedonia,North Macedonia,807,MKD,
+mli,country,Mali,Mali,466,MLI,
+mmr,country,Myanmar (Burma),Myanmar (Burma),104,MMR,
+mne,country,Montenegro,Montenegro,499,MNE,
+mng,country,Mongolia,Mongolia,496,MNG,
+moz,country,Mosambik,Mozambique,508,MOZ,
+mrt,country,Mauritania,Mauritania,478,MRT,
+mus,country,Mauritius,Mauritius,480,MUS,
+mwi,country,Malawi,Malawi,454,MWI,
+mys,country,Malaysia,Malaysia,458,MYS,
+nam,country,Namibia,Namibia,516,NAM,
+ner,country,Niger,Niger,562,NER,
+nga,country,Nigeria,Nigeria,566,NGA,
+nic,country,Nicaragua,Nicaragua,558,NIC,
+npl,country,Nepal,Nepal,524,NPL,
+pak,country,Pakistan,Pakistan,586,PAK,
+pan,country,Panama,Panama,591,PAN,
+per,country,Peru,Peru,604,PER,
+phl,country,Filippinene,Philippines,608,PHL,
+png,country,Papua Ny-Guinea,Papua New Guinea,598,PNG,
+prk,country,Nord-Korea,North Korea,408,PRK,
+pry,country,Paraguay,Paraguay,600,PRY,
+pse,country,Det palestinske området,Palestinian Territories,275,PSE,
+rwa,country,Rwanda,Rwanda,646,RWA,
+sdn,country,Sudan,Sudan,729,SDN,
+sen,country,Senegal,Senegal,686,SEN,
+sle,country,Sierra Leone,Sierra Leone,694,SLE,
+slv,country,El Salvador,El Salvador,222,SLV,
+som,country,Somalia,Somalia,706,SOM,
+srb,country,Serbia,Serbia,688,SRB,
+ssd,country,Sør-Sudan,South Sudan,728,SSD,
+stp,country,São Tomé og Príncipe,São Tomé & Príncipe,678,STP,
+swz,country,Eswatini,Eswatini,748,SWZ,
+syr,country,Syria,Syria,760,SYR,
+tcd,country,Tsjad,Chad,148,TCD,
+tgo,country,Togo,Togo,768,TGO,
+tha,country,Thailand,Thailand,764,THA,
+tjk,country,Tadsjikistan,Tajikistan,762,TJK,
+tkm,country,Turkmenistan,Turkmenistan,795,TKM,
+tls,country,Øst-Timor,Timor-Leste,626,TLS,
+tun,country,Tunisia,Tunisia,788,TUN,
+tur,country,Tyrkia,Türkiye,792,TUR,
+tza,country,Tanzania,Tanzania,834,TZA,
+uga,country,Uganda,Uganda,800,UGA,
+ukr,country,Ukraina,Ukraine,804,UKR,
+ury,country,Uruguay,Uruguay,858,URY,
+uzb,country,Usbekistan,Uzbekistan,860,UZB,
+vct,country,St. Vincent og Grenadinene,St. Vincent & Grenadines,670,VCT,
+ven,country,Venezuela,Venezuela,862,VEN,
+vnm,country,Vietnam,Vietnam,704,VNM,
+wsm,country,Samoa,Samoa,882,WSM,
+yem,country,Jemen,Yemen,887,YEM,
+zaf,country,Sør-Afrika,South Africa,710,ZAF,
+zmb,country,Zambia,Zambia,894,ZMB,
+zwe,country,Zimbabwe,Zimbabwe,716,ZWE,
+multilateral,multilateral,Multilaterale organisasjoner (kjernebidrag),Multilateral organisations (core contributions),,,
+unallocated,unallocated,Ikke fordelt på land (regionale og ufordelte bidrag),Not allocated to a country (regional and unallocated),,,
+norway_refugees,unallocated,Flyktningutgifter i Norge,Refugee costs in Norway,,,

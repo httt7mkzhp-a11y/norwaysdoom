@@ -1,6 +1,6 @@
 /** Kategoripalett (kategorisk, skal fungere i lyst og mørkt tema). Rekkefølge = dataset.categories. */
 export const CAT_COLORS: Record<string, string> = {
-  dev: "#2f6db5", hum: "#d9822b", ukr: "#c7364b", org: "#3f9f86", eea: "#8a63c7", def: "#7f8a99", clim: "#b09b2a",
+  dev: "#2f6db5", hum: "#d9822b", ukr: "#c7364b", org: "#3f9f86", eea: "#8a63c7", def: "#7f8a99", clim: "#b09b2a", peace: "#5b8fd0", oda_bilat: "#2f6db5", oda_multi: "#3f9f86", oda_refugee: "#7f8a99",
 };
 export const catColor = (id: string) => CAT_COLORS[id] ?? "#888";
 

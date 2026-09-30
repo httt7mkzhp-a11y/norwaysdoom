@@ -1,0 +1,32 @@
+{
+  "sessions": ["2011-2012", "2012-2013", "2013-2014", "2014-2015", "2015-2016", "2016-2017", "2017-2018", "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "2024-2025", "2025-2026"],
+  "projects": [
+    {
+      "id": "follobanen",
+      "name_nb": "Follobanen (Oslo–Ski)", "name_en": "Follo Line (Oslo–Ski)",
+      "agency": "Bane NOR", "ministry": "Samferdselsdepartementet",
+      "keywords": ["follobanen", "follo-banen", "follo line", "oslo–ski", "oslo-ski", "ny jernbane oslo"],
+      "case_title_regex": "jernbane|transportplan|bane nor|follo|investeringer i jernbane",
+      "budget_committees": ["TRANSKOM"],
+      "storting_area": "follobanen",
+      "extra_case_ids": []
+    },
+    {
+      "id": "regjeringskvartalet",
+      "name_nb": "Regjeringskvartalet", "name_en": "Government quarter",
+      "agency": "Statsbygg", "ministry": "Kommunal- og distriktsdepartementet",
+      "keywords": ["regjeringskvartal", "regjeringsbygg", "høyblokka", "y-blokka", "h-blokka"],
+      "case_title_regex": "regjeringskvartal|statsbygg|22\\. juli|sikring",
+      "budget_committees": ["KOMMFORV"],
+      "storting_area": "regjeringskvartalet",
+      "extra_case_ids": ["51250", "75809", "88950"]
+    }
+  ],
+  "cost_words": ["kostnadsramme", "styringsramme", "kostnadsoverslag", "kostnad", "kostnader", "investeringsramme", "bevilgning", "overskridelse", "økning", "økt", "p50", "p85", "prisjust", "ramme"],
+  "reason_words": {
+    "scope": ["omfang", "utvidet", "utvidelse", "tilleggsleveranse", "endret løsning"],
+    "price": ["prisstigning", "prisvekst", "prisjustering", "prisjustert", "indeksregulering", "kostnadsvekst"],
+    "requirements": ["endrede krav", "nye krav", "sikkerhetskrav", "krav til sikring", "regelverk"],
+    "uncertainty": ["usikkerhet", "risiko", "uforutsett", "geologi", "grunnforhold"]
+  }
+}

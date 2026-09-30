@@ -1,4 +1,6 @@
 import type { Lang } from "./types";
+import { realEn, realNb } from "./dict.real";
+import { stEn, stNb } from "./dict.storting";
 
 const nb: Record<string, string> = {
   "site.name": "Norges utenlandsteller",
@@ -73,7 +75,7 @@ const nb: Record<string, string> = {
   "method.contrib.h": "Gaver, lån og forpliktelser", "method.contrib.p": "Vi skiller mellom gaver/tilskudd, lån og medlemskap/kontingent, og mellom traktatfestede, avtalefestede og politisk vedtatte beløp. Klassifiseringen er foreløpig og oppgis per kategori, med forbehold.",
   "method.excluded.h": "Hva er ikke med", "method.excluded.p": "Utgifter til flyktninger i Norge (som kan regnes som bistand i OECDs statistikk), Oljefondets investeringer, garantier som ikke er utbetalt, private gaver og frivillige organisasjoners egne midler.",
   "method.whatif.h": "«Hva kunne vi gjort?»", "method.whatif.p": "Modulen er scenariobasert og merket som det. Enhetspriser hentes fra offisielle kilder og vises med intervall. Skatter er inntekter: vi viser alltid provenyet man mister. Modulen vurderer ikke om tiltak er ønskelige.",
-  "method.gaps.h": "Kjente hull", "method.gaps.p": "Automatisk henting er foreløpig bare skissert for SSB og Stortinget, og er ikke testet mot live-API.\nBeløp per mottaker fra Norad, OECD DAC, statsregnskapet og departementene må importeres fra nedlastede filer (se dokumentasjonen).\nEnhetspriser og proveny er plassholdere til de er verifisert.\nKartet bruker en forenklet verdensgeometri uten små øystater.",
+  "method.gaps.h": "Kjente hull", "method.gaps.p": "Automatisk henting er foreløpig skissert for SSB (ikke testet mot live-API). Stortinget er testet og gir kun saksreferanser.\nBeløp per mottaker fra Norad, OECD DAC, statsregnskapet og departementene må importeres fra nedlastede filer (se dokumentasjonen).\nEnhetspriser og proveny er plassholdere til de er verifisert.\nKartet bruker en forenklet verdensgeometri uten små øystater.",
   "method.sources.h": "Datakilder", "method.sources.p": "Status per kilde ved siste kjøring ({date}). «Eksempeldata» betyr at tall fra denne kilden ennå ikke er hentet.",
   "method.dl.h": "Last ned data", "method.dl.p": "Alle datasett som brukes på siden er åpne. Beløp i millioner kroner (løpende), med kilde per rad.",
   "access.api": "API", "access.download": "Nedlasting", "access.scrape": "Skraping", "access.manual": "Manuell",
@@ -160,4 +162,4 @@ const en: Record<string, string> = {
   "status.live": "Retrieved", "status.failed": "Failed", "status.manual_needed": "Needs manual import", "status.mock": "Sample data",
 };
 
-export const DICT: Record<Lang, Record<string, string>> = { nb, en };
+export const DICT: Record<Lang, Record<string, string>> = { nb: { ...nb, ...stNb, ...realNb }, en: { ...en, ...stEn, ...realEn } };

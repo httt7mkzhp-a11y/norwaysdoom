@@ -1,14 +1,7 @@
-id,name,url,publisher,access,retrieved_at,status
-statsbudsjettet,Statsbudsjettet (Prop. 1 S) og Gul bok,https://www.statsbudsjettet.no/,Finansdepartementet,download,,mock
-rnb,Revidert nasjonalbudsjett,https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statsbudsjett/id1412/,Finansdepartementet,download,,mock
-statsregnskapet,Statsregnskapet,https://www.statsregnskapet.no/,Direktoratet for forvaltning og økonomistyring (DFØ),download,,mock
-stortinget,Stortingets åpne data (saker og vedtak),https://data.stortinget.no/,Stortinget,api,,mock
-norad,Norads bistandsstatistikk / resultatportal,https://resultater.norad.no/,Norad,download,,mock
-oecd_dac,OECD DAC – bistand per mottaker og sektor,https://data-explorer.oecd.org/,OECD,api,,mock
-ssb,"SSB StatBank (befolkning, BNP, KPI, skattytere)",https://www.ssb.no/statbank,Statistisk sentralbyrå,api,,mock
-ssb_kostra,SSB KOSTRA (kommunale enhetskostnader),https://www.ssb.no/kostra,Statistisk sentralbyrå,api,,mock
-ud,"Utenriksdepartementet (bidrag til FN, NATO m.fl.)",https://www.regjeringen.no/no/dep/ud/id833/,Utenriksdepartementet,manual,,mock
-fd,Forsvarsdepartementet (NATO-bidrag),https://www.regjeringen.no/no/dep/fd/id380/,Forsvarsdepartementet,manual,,mock
-finansdep_skatt,Finansdepartementet – skatteprovenyanslag,https://www.regjeringen.no/no/dep/fin/id216/,Finansdepartementet,manual,,mock
-vegvesen,Statens vegvesen / Nasjonal transportplan,https://www.vegvesen.no/,Statens vegvesen,manual,,mock
-datanorge,data.norge.no (åpne datasett),https://data.norge.no/,Digitaliseringsdirektoratet,api,,mock
+id,name,url,publisher,access,license,frequency,automatic,retrieved_at,status
+stortinget,"Stortingets åpne data (saker, voteringer, vedtatt budsjett)",https://data.stortinget.no/,Stortinget,api,NLOD 2.0,løpende (hentes ukentlig),True,2026-09-30T11:36:26+00:00,live
+ssb,"SSB StatBank (befolkning, BNP, KPI)",https://www.ssb.no/statbank,Statistisk sentralbyrå,api,CC BY 4.0,årlig/månedlig (hentes ukentlig),True,2026-09-30T11:36:07+00:00,live
+oecd_dac,OECD DAC (bistand per mottakerland og totaler),https://data-explorer.oecd.org/,OECD,api,OECD Terms and Conditions,årlig (hentes ukentlig),True,2026-09-30T11:36:07+00:00,live
+statsbudsjettet,Statsbudsjettet / Gul bok (regjeringen.no),https://www.regjeringen.no/no/statsbudsjett/id450327,Finansdepartementet,manual,NLOD 2.0,årlig (oktober),False,,manual_needed
+statsregnskapet,Statsregnskapet (DFØ),https://statsregnskapet.dfo.no/,DFØ,manual,NLOD 2.0,årlig,False,,manual_needed
+norad,Norad bistandsstatistikk / resultatportal,https://resultater.norad.no/,Norad,manual,NLOD 2.0,årlig,False,,manual_needed

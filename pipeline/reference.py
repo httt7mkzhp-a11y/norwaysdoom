@@ -2,7 +2,7 @@
 
 Kategorier og kildelister er *definisjoner* (hvordan vi avgrenser), ikke tall.
 Beskrivelser og forpliktelses-klassifisering er et utkast som må kvalitetssikres
-mot UD/Finansdepartementet før publisering (se docs/DATAKILDER.md).
+mot UD/Finansdepartementet før publisering (se docs/datahull.md).
 """
 
 SOURCES = [

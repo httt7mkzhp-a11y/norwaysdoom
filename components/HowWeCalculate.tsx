@@ -8,7 +8,7 @@ import type { Dataset } from "@/lib/types";
 export default function HowWeCalculate({ ds, annualNok }: { ds: Dataset; annualNok: number }) {
   const { lang, t } = useLang();
   const c = counterAt(annualNok, Date.now(), ds.meta.currentYear);
-  const basis = [...new Set(ds.flows.filter((f) => f.year === ds.meta.currentYear).map((f) => f.basis))].join(", ");
+  const basis = [...new Set((ds.budgetLines ?? []).filter((b) => b.year === ds.meta.currentYear && b.in_scope).map((b) => t(`basis.${b.basis}`)))].join(", ");
   return (
     <details className="card mt-8 p-5" open>
       <summary className="cursor-pointer font-medium">{t("how.title")}</summary>

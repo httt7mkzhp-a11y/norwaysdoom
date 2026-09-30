@@ -52,6 +52,6 @@ describe("calc", () => {
   it("faste kroner", () => {
     const ds = { yearStats: [{ year: 2020, cpi_index: 0.8 }] } as unknown as Dataset;
     expect(realFactor(ds, 2020)).toBeCloseTo(1.25);
-    expect(realFactor(ds, 1999)).toBe(1);
+    expect(realFactor(ds, 1999)).toBeNull();
   });
 });

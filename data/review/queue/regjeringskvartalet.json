@@ -1,0 +1,2357 @@
+{
+ "project_id": "regjeringskvartalet",
+ "generated_at": "2026-09-30T11:39:35+00:00",
+ "note": "Automatisk uttrekk. Ikke publisert. Godkjenn manuelt i data/review/approved/.",
+ "cases": [
+  {
+   "id": "54347",
+   "session": "2012-2013",
+   "reference": "Innst. 210 S (2012-2013)",
+   "title": "Redegjørelse av statsministeren og justis- og beredskapsministeren om regjeringens oppfølging av rapporten fra 22. juli-kommisjonen Redegjørelse av statsministe",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "53883",
+   "session": "2011-2012",
+   "reference": "Prop. 117 S (2011-2012), Innst. 382 S (2011-2012)",
+   "title": "Utbygging og finansiering av E6 Hålogalandsbrua, skredsikring av E10 Trældal-Leirvik og nedlegging av Narvik Lufthavn, Framnes (Nordland) Utbygging og finansier",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "53457",
+   "session": "2011-2012",
+   "reference": "Prop. 79 S (2011-2012), kap. 2445, Innst. 253 S (2011-2012)",
+   "title": "Endringer i statsbudsjettet for 2012 under Justis- og beredskapsdepartementet (Rettssaken etter terrorangrepene 22. juli 2011 mv.) Endringer i statsbudsjettet f",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "53463",
+   "session": "2011-2012",
+   "reference": "Prop. 79 S (2011-2012), unntatt kap. 2445 Statsbygg, Innst. 271 S (2011-2012)",
+   "title": "Endringer i statsbudsjettet for 2012 under Justis- og beredskapsdepartementet (Rettssaken etter terrorangrepene 22. juli 2011 mv.) Endringer i statsbudsjettet f",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "51622",
+   "session": "2011-2012",
+   "reference": "Innst. 207 S (2011-2012)",
+   "title": "Redegjørelse av justisministeren og forsvarsministeren om angrepene 22. juli 2011 Redegjørelse av justisministeren og forsvarsministeren om angrepene 22. juli 2",
+   "committee": "SÆRKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "52344",
+   "session": "2011-2012",
+   "reference": "Prop. 54 S (2011-2012), Innst. 192 S (2011-2012)",
+   "title": "Samtykke til godkjennelse av EØS-komiteens beslutning nr. 78/2011 av 1. juli 2011 om innlemmelse i EØS-avtalen av direktiv 2009/138/EF av 25. november 2009 om a",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "51763",
+   "session": "2011-2012",
+   "reference": "Prop. 1 S Tillegg 3 (2011-2012), Innst. 16 S (2011-2012)",
+   "title": "Endring av Prop. 1 S om statsbudsjettet for 2012 under Kommunal- og regionaldepartementet Endring av Prop. 1 S om statsbudsjettet for 2012",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "51393",
+   "session": "2011-2012",
+   "reference": "Prop. 1 S (2011-2012), Innst. 16 S (2011-2012)",
+   "title": "Statsbudsjettet for 2012 Statsbudsjettet for 2012 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "51171",
+   "session": "2011-2012",
+   "reference": "Dokument 3:10 (2010-2011), Innst. 41 S (2011-2012)",
+   "title": "Riksrevisjonens undersøking av vedlikehald og sikring av kyrkjebygg Riksrevisjonens undersøking av vedlikehald og sikring av kyrkjebygg",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "50210",
+   "session": "2011-2012",
+   "reference": "Dokument 8:138 S (2010-2011), Innst. 32 S (2011-2012)",
+   "title": "Representantforslag fra stortingsrepresentantene Trine Skei Grande og Borghild Tenden om endring av regelverket for yrkesskadeforsikring Representantforslag om ",
+   "committee": "ARBSOS",
+   "kind": "tittel"
+  },
+  {
+   "id": "51250",
+   "session": "2011-2012",
+   "reference": "Prop. 154 S (2010-2011), Innst. 21 S (2011-2012)",
+   "title": "Tilleggsbevilgninger i statsbudsjettet 2011 i forbindelse med angrepene mot regjeringskvartalet og på Utøya. Tilleggsbevilgninger i statsbudsjettet 2011 i forbi",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "58016",
+   "session": "2013-2014",
+   "reference": "Prop. 193 L (2012-2013)",
+   "title": "Lov om arbeidsskadeforsikring Lov om arbeidsskadeforsikring",
+   "committee": "",
+   "kind": "tittel"
+  },
+  {
+   "id": "57207",
+   "session": "2012-2013",
+   "reference": "Dokument 8:113 S (2012-2013), Innst. 397 S (2012-2013)",
+   "title": "Representantforslag fra stortingsrepresentantene Arne Sortevik, Bård Hoksrud, Jan-Henrik Fredriksen, Ingebjørg Godskesen og Gjermund Hagesæter om strakstiltak f",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "57276",
+   "session": "2012-2013",
+   "reference": "Dokument 8:118 S (2012-2013), Innst. 447 S (2012-2013)",
+   "title": "Representantforslag fra stortingsrepresentantene Svein Flåtten, Frank Bakke-Jensen, Michael Tetzschner og Gunnar Gundersen om en forsikringsordning ved oppførin",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "56883",
+   "session": "2012-2013",
+   "reference": "Prop. 87 L (2012-2013), Innst. 299 L (2012-2013), Lovvedtak 74 (2012-2013)",
+   "title": "Endringar i helsepersonellova m.m. (utsending av epikrisar og utlevering av teiepliktige opplysningar til bruk i læringsarbeid og kvalitetssikring m.m.) Endring",
+   "committee": "HELSEOMS",
+   "kind": "tittel"
+  },
+  {
+   "id": "55111",
+   "session": "2012-2013",
+   "reference": "Prop. 1 S (2012-2013), Innst. 16 S (2012-2013)",
+   "title": "Statsbudsjettet 2013 Statsbudsjettet 2013 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "55507",
+   "session": "2012-2013",
+   "reference": "Prop. 1 S Tillegg 1 (2012-2013), kap. 1500 og 2445, Innst. 16 S (2012-2013)",
+   "title": "Endring av Prop. 1 S (2012-2013) om statsbudsjettet 2013 under Justis- og beredskapsdepartementet, Helse- og omsorgsdepartementet, Arbeidsdepartementet og Forny",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "55364",
+   "session": "2012-2013",
+   "reference": "Prop. 11 L (2012-2013), Innst. 113 L (2012-2013), Lovvedtak 24 (2012-2013)",
+   "title": "Endringer i finanstilsynsloven, banksikringsloven og foretakspensjonsloven Endringer i finanstilsynsloven, banksikringsloven og foretakspensjonsloven",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "60622",
+   "session": "2014-2015",
+   "reference": "Prop. 137 S (2013-2014), Innst. 40 S (2014-2015)",
+   "title": "Samtykke til å sette i kraft en skatteavtale mellom Norge og Bulgaria, undertegnet i Sofia 22. juli 2014 Samtykke til å sette i kraft en skatteavtale mellom Nor",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "58563",
+   "session": "2013-2014",
+   "reference": "Meld. St. 6 (2013-2014), Innst. 93 S (2013-2014)",
+   "title": "Tilbaketrekning av Prop. 193 L (2012-2013) Lov om arbeidsskadeforsikring Tilbaketrekning av Prop. 193 L (2012-2013) Lov om arbeidsskadeforsikring",
+   "committee": "PRES",
+   "kind": "tittel"
+  },
+  {
+   "id": "58350",
+   "session": "2013-2014",
+   "reference": "Prop. 1 S Tillegg 1 (2013-2014), Innst. 16 S (2013-2014)",
+   "title": "Endring av Prop. 1 S (2013-2014) Statsbudsjettet 2014 Endring av Prop. 1 S (2013-2014) Statsbudsjettet 2014 (kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "58200",
+   "session": "2013-2014",
+   "reference": "Prop. 1 S (2013-2014), Innst. 16 S (2013-2014)",
+   "title": "Statsbudsjettet 2014 Statsbudsjettet 2014 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "62521",
+   "session": "2014-2015",
+   "reference": "Prop. 107 L (2014-2015), Innst. 311 L (2014-2015), Lovvedtak 84 (2014-2015)",
+   "title": "Endringer i jernbaneloven (sikring mot tilsiktede uønskede handlinger) Endringer i jernbaneloven (sikring mot tilsiktede uønskede handlinger)",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "61536",
+   "session": "2014-2015",
+   "reference": "Prop. 45 L (2014-2015), Innst. 170 L (2014-2015), Lovvedtak 43 (2014-2015)",
+   "title": "Endringer i vegtrafikkloven (tilbakeholdsrett i kjøretøy til sikring av sanksjoner, hjemmel for bruk av innretning til immobilisering av kjøretøy) Endringer i v",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "60851",
+   "session": "2014-2015",
+   "reference": "Prop. 1 S (2014-2015), Innst. 16 S (2014-2015)",
+   "title": "Statsbudsjettet 2015 Statsbudsjettet 2015 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "66431",
+   "session": "2019-2020",
+   "reference": "Dokument 12:34 (2015-2016), Innst. 259 S (2019-2020)",
+   "title": "Grunnlovsforslag fra Michael Tetzschner, Erik Skutle og Torhild Aarbergsbotten om endring i § 21 annet punktum (om avgivelse av ed eller forsikring som vilkår f",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "64380",
+   "session": "2015-2016",
+   "reference": "Dokument 8:40 S (2015-2016), Innst. 249 S (2015-2016)",
+   "title": "Representantforslag fra stortingsrepresentantene Heidi Greni, Geir Pollestad og Trygve Slagsvold Vedum om anbudskriterier for nytt regjeringskvartal som sikrer ",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "63837",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S Tillegg 1 (2015-2016), Innst. 16 S (2015-2016)",
+   "title": "Endring av Prop. 1 S (2015-2016) Statsbudsjettet 2016 og Prop. 1 LS (2015-2016) Skatter, avgifter og toll 2016 (økt antall asylankomster) Endring av Prop. 1 S (",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "63627",
+   "session": "2015-2016",
+   "reference": "Prop. 1 S (2015-2016), Innst. 16 S (2015-2016)",
+   "title": "Statsbudsjettet 2016 Statsbudsjettet 2016 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "69218",
+   "session": "2017-2018",
+   "reference": "Prop. 159 L (2016-2017), Innst. 137 L (2017-2018), Lovvedtak 29-30 (2017-2018)",
+   "title": "Lov om Bankenes sikringsfond og lov om endringer i finansforetaksloven mv. (innskuddsgaranti og krisehåndtering av banker) Lov om Bankenes sikringsfond og lov o",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "67241",
+   "session": "2016-2017",
+   "reference": "Dokument 1 tillegg nr. 1 (2016-2017), Innst. 483 S (2016-2017)",
+   "title": "Riksrevisjonens rapport om revisjon av politiets og Forsvarets objektsikring Riksrevisjonens rapport om revisjon av politiets og Forsvarets objektsikring",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "68409",
+   "session": "2016-2017",
+   "reference": "Dokument 8:77 S (2016-2017), Innst. 434 S (2016-2017)",
+   "title": "Representantforslag fra stortingsrepresentantene Liv Signe Navarsete, Torgeir Knag Fylkesnes, Trine Skei Grande og Knut Arild Hareide om sikring av egnet heliko",
+   "committee": "UFK",
+   "kind": "tittel"
+  },
+  {
+   "id": "67704",
+   "session": "2016-2017",
+   "reference": "Prop. 85 L (2016-2017), Innst. 368 L (2016-2017), Lovvedtak 113 (2016-2017)",
+   "title": "Endringer i folketrygdloven, kontantstøtteloven og lov om supplerande stønad til personar med kort butid i Noreg (ny inntektsikring for eldre og uføre flyktning",
+   "committee": "ARBSOS",
+   "kind": "tittel"
+  },
+  {
+   "id": "68574",
+   "session": "2016-2017",
+   "reference": "Innst. 259 L (2016-2017)",
+   "title": "Spørsmål om avgradering av dokumenter i forbindelse med Stortingets behandling av Tillegg nr. 1 til Dokument 1 (2016-2017) Riksrevisjonens rapport om revisjon a",
+   "committee": "PRES",
+   "kind": "tittel"
+  },
+  {
+   "id": "67431",
+   "session": "2016-2017",
+   "reference": "Prop. 36 L (2016-2017), Innst. 208 L (2016-2017), Lovvedtak 66 (2016-2017)",
+   "title": "Endringer i naturskadeforsikringsloven (dekning for relokalisering ved fare for ny naturskade) Endringer i naturskadeforsikringsloven (dekning for relokaliserin",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "67329",
+   "session": "2016-2017",
+   "reference": "Prop. 18 L (2016-2017), Innst. 160 L (2016-2017), Lovvedtak 51 (2016-2017)",
+   "title": "Endringer i finansforetaksloven (overdragelse av forsikringsportefølje ved offentlig administrasjon mv.) Endringer i finansforetaksloven (overdragelse av forsik",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "66727",
+   "session": "2016-2017",
+   "reference": "Prop. 1 S (2016-2017), Innst. 16 S (2016-2017)",
+   "title": "Statsbudsjettet 2017 Statsbudsjettet 2017 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "72608",
+   "session": "2018-2019",
+   "reference": "Dokument 3:11 (2017-2018), Innst. 88 S (2018-2019)",
+   "title": "Riksrevisjonens undersøkelse av oppfølging av objektsikring - oppdatert Riksrevisjonens undersøkelse av oppfølging av objektsikring - oppdatert",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "72652",
+   "session": "2018-2019",
+   "reference": "Prop. 98 L (2017-2018), Innst. 22 L (2018-2019), Lovvedtak 3 (2018-2019)",
+   "title": "Endringer i finansforetaksloven (forsikrings- og pensjonsforetaks investeringer i forsikringsfremmed virksomhet) Endringer i finansforetaksloven (forsikrings- o",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "70754",
+   "session": "2017-2018",
+   "reference": "Dokument 8:103 S (2017-2018), Innst. 274 S (2017-2018)",
+   "title": "Representantforslag fra stortingsrepresentantene Knut Arild Hareide, Kari Elisabeth Kaski, Jonas Gahr Støre og Trygve Slagsvold Vedum om at tre skal være et hov",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "71224",
+   "session": "2017-2018",
+   "reference": "Dokument 8:136 S (2017-2018), Innst. 228 S (2017-2018)",
+   "title": "Representantforslag fra stortingsrepresentantene Olaug V. Bollestad, Hans Fredrik Grøvan, Torhild Bransdal og Geir Jørgen Bekkevold om sikring av fri religionsu",
+   "committee": "HELSEOMS",
+   "kind": "tittel"
+  },
+  {
+   "id": "69752",
+   "session": "2017-2018",
+   "reference": "Prop. 1 S (2017-2018), Innst. 16 S (2017-2018)",
+   "title": "Statsbudsjettet 2018 Statsbudsjettet 2018 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "76304",
+   "session": "2019-2020",
+   "reference": "Dokument 8:155 S (2018-2019), Innst. 111 S (2019-2020)",
+   "title": "Representantforslag fra stortingsrepresentantene Siri Gåsemyr Staalesen, Espen Barth Eide, Eirik Sivertsen, Stein Erik Lauvås og Masud Gharahkhani om stans av S",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "75809",
+   "session": "2018-2019",
+   "reference": "Meld. St. 21 (2018-2019), Innst. 382 S (2018-2019)",
+   "title": "Nytt regjeringskvartal Nytt regjeringskvartal",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "74587",
+   "session": "2018-2019",
+   "reference": "Dokument 8:66 S (2018-2019)",
+   "title": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Sandra Borch, Liv Signe Navarsete og Geir Adelsten Iversen om sikring av helikopterbere",
+   "committee": "",
+   "kind": "tittel"
+  },
+  {
+   "id": "73591",
+   "session": "2018-2019",
+   "reference": "Prop. 1 S (2018-2019), Innst. 16 S (2018-2019)",
+   "title": "Statsbudsjettet 2019 Statsbudsjettet 2019 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "78807",
+   "session": "2020-2021",
+   "reference": "Dokument 8:71 S (2019-2020), Innst. 148 S (2020-2021)",
+   "title": "Representantforslag fra stortingsrepresentantene Petter Eide, Freddy André Øvstegård, Karin Andersen og Marius Meisfjord Jøsevold om sikring av politiressurser ",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "80198",
+   "session": "2020-2021",
+   "reference": "Dokument 8:126 S (2019-2020), Innst. 86 S (2020-2021)",
+   "title": "Representantforslag fra stortingsrepresentantene Himanshu Gulati, Silje Hjemdal, Bård Hoksrud, Morten Ørsal Johansen, Terje Halleland, Erlend Wiborg og Roy Stef",
+   "committee": "FAMKULT",
+   "kind": "tittel"
+  },
+  {
+   "id": "80221",
+   "session": "2020-2021",
+   "reference": "Dokument 8:128 S (2019-2020), Innst. 139 S (2020-2021)",
+   "title": "Representantforslag fra stortingsrepresentantene Petter Eide, Kari Elisabeth Kaski og Nicholas Wilkinson om sikring av lokalt tilstedeværende politi i Oslo Repr",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "78976",
+   "session": "2019-2020",
+   "reference": "Dokument 8:78 S (2019-2020), Innst. 376 S (2019-2020)",
+   "title": "Representantforslag fra stortingsrepresentantene Marit Knutsdatter Strand, Marit Arnstad, Kari Anne Bøkestad Andreassen og Siv Mossleth om at Statsbygg ikke ska",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "79329",
+   "session": "2019-2020",
+   "reference": "Prop. 73 S (2019-2020), Prop. 70 LS (2019-2020), Innst. 233 S (2019-2020)",
+   "title": "Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall, endringer i innskuddspensjonsloven, foretakspensjonsloven, tjenestepensjonsloven og fo",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "79330",
+   "session": "2019-2020",
+   "reference": "Prop. 70 LS (2019-2020), Innst. 232 L (2019-2020), Lovvedtak 71-76 (2019-2020)",
+   "title": "Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall, endringer i innskuddspensjonsloven, foretakspensjonsloven, tjenestepensjonsloven og fo",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "77785",
+   "session": "2019-2020",
+   "reference": "Prop. 1 S Tillegg 1 (2019-2020), Innst. 16 S (2019-2020)",
+   "title": "Endring av Prop. 1 S (2019-2020) Statsbudsjettet 2020 under Samferdselsdepartementet og Kommunal- og moderniseringsdepartementet (overføring av administrasjon a",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "77371",
+   "session": "2019-2020",
+   "reference": "Prop. 1 S (2019-2020), Innst. 16 S (2019-2020)",
+   "title": "Statsbudsjettet 2020 Statsbudsjettet 2020 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "85807",
+   "session": "2021-2022",
+   "reference": "Prop. 234 L (2020-2021), Innst. 131 L (2021-2022), Lovvedtak 37 (2021-2022)",
+   "title": "Endringer i forsikringsavtaleloven mv.(forsikringsdistribusjon mv.) Endringer i forsikringsavtaleloven mv.(forsikringsdistribusjon mv.)",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "85813",
+   "session": "2021-2022",
+   "reference": "Prop. 233 LS (2020-2021), L-delen, Innst. 53 L (2021-2022), Lovvedtak 23 (2021-2022)",
+   "title": "Lov om forsikringsformidling (forsikringsformidlingsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 214/2018 av 26. oktober 2018 om innlemmel",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "85812",
+   "session": "2021-2022",
+   "reference": "Prop. 233 LS (2020-2021), S-delen, Innst. 54 S (2021-2022)",
+   "title": "Lov om forsikringsformidling (forsikringsformidlingsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 214/2018 av 26. oktober 2018 om innlemmel",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "82940",
+   "session": "2020-2021",
+   "reference": "Dokument 8:90 S (2020-2021), Innst. 316 S (2020-2021)",
+   "title": "Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Nicholas Wilkinson, Karin Andersen, Arne Nævra og Solfrid Lerbrekk om flom- og skredsikring R",
+   "committee": "ENERGI",
+   "kind": "tittel"
+  },
+  {
+   "id": "81538",
+   "session": "2020-2021",
+   "reference": "Prop. 1 S (2020-2021), Innst. 16 S (2020-2021)",
+   "title": "Statsbudsjettet 2021 Statsbudsjettet 2021 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "82150",
+   "session": "2020-2021",
+   "reference": "Prop. 1 S Tillegg 1 (2020-2021), Innst. 16 S (2020-2021)",
+   "title": "Endring av Prop. 1 S (2020-2021) Statsbudsjettet 2021 (saldering) Endring av Prop. 1 S (2020-2021) Statsbudsjettet 2021 (saldering)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "88950",
+   "session": "2021-2022",
+   "reference": "Dokument 8:205 S (2021-2022), Innst. 365 S (2021-2022)",
+   "title": "Representantforslag fra stortingsrepresentantene Lan Marie Nguyen Berg og Rasmus Hansson om betydelige kostnadsbesparelser i arbeidet med nytt regjeringskvartal",
+   "committee": "KOMMFORV",
+   "kind": "tittel"
+  },
+  {
+   "id": "88388",
+   "session": "2021-2022",
+   "reference": "Prop. 62 L (2021-2022), Innst. 308 L (2021-2022), Lovvedtak 69 (2021-2022)",
+   "title": "Endringer i naturskadeforsikringsloven mv. (etablering av naturskadekapital i Norsk Naturskadepool mv.) Endringer i naturskadeforsikringsloven mv. (etablering a",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "87868",
+   "session": "2021-2022",
+   "reference": "Dokument 8:91 S (2021-2022), Innst. 225 S (2021-2022)",
+   "title": "Representantforslag frå stortingsrepresentantane Liv Kari Eskeland, Helge Orten, Olve Grotle og Aleksander Stokkebø om auka fokus på og nye løysingar for rassik",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "87870",
+   "session": "2021-2022",
+   "reference": "Dokument 8:92 S (2021-2022), Innst. 215 S (2021-2022)",
+   "title": "Representantforslag fra stortingsrepresentantene Alfred Jens Bjørlo, Guri Melby, Sveinung Rotevatn og Grunde Almeland om å gjøre inntektssikringsordningen for s",
+   "committee": "ARBSOS",
+   "kind": "tittel"
+  },
+  {
+   "id": "86954",
+   "session": "2021-2022",
+   "reference": "Dokument 8:39 S (2021-2022), Innst. 137 S (2021-2022)",
+   "title": "Representantforslag fra stortingsrepresentantene Jan Tore Sanner, Henrik Asheim, Hårek Elvenes, Tore Vamraak, Nikolai Astrup, Mathilde Tybring-Gjedde og Mudassa",
+   "committee": "ENERGI",
+   "kind": "tittel"
+  },
+  {
+   "id": "86504",
+   "session": "2021-2022",
+   "reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 16 S (2021-2022)",
+   "title": "Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 (kapitler fordelt til kommunal- og forvaltningskomit",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "86013",
+   "session": "2021-2022",
+   "reference": "Prop. 1 S (2021-2022), Innst. 16 S (2021-2022)",
+   "title": "Statsbudsjettet 2022 Statsbudsjettet 2022 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "95583",
+   "session": "2023-2024",
+   "reference": "Prop. 140 LS (2022-2023), Innst. 88 S (2023-2024)",
+   "title": "Endringer i vegtrafikkloven (teknisk kjøretøyinformasjon og sikring av last) og samtykke til godkjenning av EØS-komiteens beslutning nr. 65/2023 om innlemmelse ",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "95584",
+   "session": "2023-2024",
+   "reference": "Prop. 140 LS (2022-2023), Innst. 87 L (2023-2024), Lovvedtak 14 (2023-2024)",
+   "title": "Endringer i vegtrafikkloven (teknisk kjøretøyinformasjon og sikring av last) og samtykke til godkjenning av EØS-komiteens beslutning nr. 65/2023 om innlemmelse ",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "93704",
+   "session": "2022-2023",
+   "reference": "Prop. 83 L (2022-2023), Innst. 401 L (2022-2023), Lovvedtak 84 (2022-2023)",
+   "title": "Endringer i foretakspensjonsloven, innskuddspensjonsloven og forsikringsvirksomhetsloven mv. (bufferfond for private garanterte pensjonsprodukter) Endringer i f",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "91174",
+   "session": "2022-2023",
+   "reference": "Dokument 8:27 S (2022-2023), Innst. 152 S (2022-2023)",
+   "title": "Representantforslag fra stortingsrepresentantene Frank Edvard Sve, Morten Stordalen og Sivert Bjørnstad om prioritering av skredsikringstiltak på E6 langs Langn",
+   "committee": "TRANSKOM",
+   "kind": "tittel"
+  },
+  {
+   "id": "91323",
+   "session": "2022-2023",
+   "reference": "Prop. 1 S Tillegg 1 (2022-2023), Innst. 16 S (2022-2023)",
+   "title": "Endring av Prop. 1 S (2022-2023) Statsbudsjettet 2023 under Samferdselsdepartementet og Kommunal- og distriktsdepartementet (orientering om prisjustering av kos",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "90784",
+   "session": "2022-2023",
+   "reference": "Prop. 1 S (2022-2023), Innst. 16 S (2022-2023)",
+   "title": "Statsbudsjettet 2023 Statsbudsjettet 2023 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "97749",
+   "session": "2023-2024",
+   "reference": "Prop. 51 LS (2023-2024), Innst. 293 S (2023-2024)",
+   "title": "Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 6",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "97750",
+   "session": "2023-2024",
+   "reference": "Prop. 51 LS (2023-2024), Innst. 292 L (2023-2024), Lovvedtak 79 (2023-2024)",
+   "title": "Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 6",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "96754",
+   "session": "2023-2024",
+   "reference": "Dokument 8:54 S (2023-2024), Innst. 213 S (2023-2024)",
+   "title": "Representantforslag fra stortingsrepresentantene Seher Aydar, Marie Sneve Martinussen og Mímir Kristjánsson om å stoppe veksten av private helseforsikringer og ",
+   "committee": "HELSEOMS",
+   "kind": "tittel"
+  },
+  {
+   "id": "96445",
+   "session": "2023-2024",
+   "reference": "Prop. 1 S Tillegg 2 (2023-2024), Innst. 16 S (2023-2024)",
+   "title": "Endring av Prop. 1 S (2023-2024) Statsbudsjettet 2024 og Prop. 1 LS (2023-2024) Skatter og avgifter 2024 (endringer i departementsstrukturen og saldering) Endri",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "95780",
+   "session": "2023-2024",
+   "reference": "Prop. 1 S (2023-2024), Innst. 16 S (2023-2024)",
+   "title": "Statsbudsjettet 2024 Statsbudsjettet 2024 (kapitler fordelt på kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "103595",
+   "session": "2025-2026",
+   "reference": "Dokument 3:12 (2024-2025), Innst. 178 S (2025-2026)",
+   "title": "Riksrevisjonens undersøkelse om sikring av havneanlegg for å trygge samfunnssikkerheten Riksrevisjonens undersøkelse om sikring av havneanlegg for å trygge samf",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "104476",
+   "session": "2025-2026",
+   "reference": "Prop. 164 L (2024-2025), Innst. 43 L (2025-2026), Lovvedtak 18 (2025-2026)",
+   "title": "Endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring) Endringer i finansforetaksloven (utvidelse av garantiordningen for skadefors",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "103003",
+   "session": "2024-2025",
+   "reference": "Dokument 3:9 (2024-2025), Innst. 491 S (2024-2025)",
+   "title": "Habilitet i anskaffelser i Statsbygg Habilitet i anskaffelser i Statsbygg",
+   "committee": "KONTROLL",
+   "kind": "tittel"
+  },
+  {
+   "id": "102769",
+   "session": "2024-2025",
+   "reference": "Prop. 74 LS (2024-2025), Innst. 474 S (2024-2025)",
+   "title": "Endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett) og samtykke til godkjenning av EØS-komiteens besl",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "102770",
+   "session": "2024-2025",
+   "reference": "Prop. 74 LS (2024-2025), Innst. 475 L (2024-2025), Lovvedtak 120 (2024-2025)",
+   "title": "Endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett) og samtykke til godkjenning av EØS-komiteens besl",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "101786",
+   "session": "2024-2025",
+   "reference": "Prop. 53 L (2024-2025), Innst. 323 L (2024-2025), Lovvedtak 70 (2024-2025)",
+   "title": "Endringar i naturskadeforsikringslova m.m. (ansvarsgrense og tilsyn med Norsk naturskadepool) Endringar i naturskadeforsikringslova m.m. (ansvarsgrense og tilsy",
+   "committee": "JUSTIS",
+   "kind": "tittel"
+  },
+  {
+   "id": "100186",
+   "session": "2024-2025",
+   "reference": "Prop. 1 S (2024-2025), Innst. 16 S (2024-2025)",
+   "title": "Statsbudsjettet 2025 Statsbudsjettet  2025 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "100612",
+   "session": "2024-2025",
+   "reference": "Prop. 1 S Tillegg 1 (2024-2025), Innst. 16 S (2024-2025)",
+   "title": "Endring av Prop. 1 S (2024-2025) Statsbudsjettet 2025 under Kommunal- og distriktsdepartementet og Digitaliserings- og forvaltningsdepartementet (auka løyvingar",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  },
+  {
+   "id": "100680",
+   "session": "2024-2025",
+   "reference": "Prop. 10 L (2024-2025), Innst. 75 L (2024-2025), Lovvedtak 24 (2024-2025)",
+   "title": "Endringer i forsikrings- og finansmarkedslovgivingen (samleproposisjon) Endringer i forsikrings- og finansmarkedslovgivingen (samleproposisjon)",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "200208",
+   "session": "2025-2026",
+   "reference": "Dokument 8:253 S (2025-2026), Innst. 414 S (2025-2026)",
+   "title": "Representantforslag frå stortingsrepresentant Kjersti Toppe om desentralisering av sjukehustilbodet og sikring av lokalsjukehus med breiddekompetanse i heile la",
+   "committee": "HELSEOMS",
+   "kind": "tittel"
+  },
+  {
+   "id": "200165",
+   "session": "2025-2026",
+   "reference": "Dokument 8:213 S (2025-2026), Innst. 401 S (2025-2026)",
+   "title": "Representantforslag fra stortingsrepresentantene Nikolai Astrup, Aleksander Stokkebø og Kari Sofie Bjørnsen om kvalitetssikring av støtte til flytende havvind R",
+   "committee": "ENERGI",
+   "kind": "tittel"
+  },
+  {
+   "id": "105929",
+   "session": "2025-2026",
+   "reference": "Prop. 31 L (2025-2026), Innst. 177 L (2025-2026), Lovvedtak 39 (2025-2026)",
+   "title": "Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter) Endringer i foretakspensjonsloven og forsikringsv",
+   "committee": "FINANS",
+   "kind": "tittel"
+  },
+  {
+   "id": "104909",
+   "session": "2025-2026",
+   "reference": "Prop. 1 S (2025-2026), Innst. 16 S (2025-2026)",
+   "title": "Statsbudsjettet 2026 Statsbudsjettet 2026 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
+   "committee": "KOMMFORV",
+   "kind": "budsjett"
+  }
+ ],
+ "documents": [
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-382.pdf",
+   "title": "Innst. 382 S (2011-2012)",
+   "case_id": "53883",
+   "case_reference": "Prop. 117 S (2011-2012), Innst. 382 S (2011-2012)",
+   "session": "2011-2012",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-253.pdf",
+   "title": "Innst. 253 S (2011-2012)",
+   "case_id": "53457",
+   "case_reference": "Prop. 79 S (2011-2012), kap. 2445, Innst. 253 S (2011-2012)",
+   "session": "2011-2012",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-271.pdf",
+   "title": "Innst. 271 S (2011-2012)",
+   "case_id": "53463",
+   "case_reference": "Prop. 79 S (2011-2012), unntatt kap. 2445 Statsbygg, Innst. 271 S (2011-2012)",
+   "session": "2011-2012",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-207.pdf",
+   "title": "Innst. 207 S (2011-2012)",
+   "case_id": "51622",
+   "case_reference": "Innst. 207 S (2011-2012)",
+   "session": "2011-2012",
+   "n_pages": 113,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-032.pdf",
+   "title": "Innst. 32 S (2011-2012)",
+   "case_id": "50210",
+   "case_reference": "Dokument 8:138 S (2010-2011), Innst. 32 S (2011-2012)",
+   "session": "2011-2012",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-397.pdf",
+   "title": "Innst. 397 S (2012-2013)",
+   "case_id": "57207",
+   "case_reference": "Dokument 8:113 S (2012-2013), Innst. 397 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-447.pdf",
+   "title": "Innst. 447 S (2012-2013)",
+   "case_id": "57276",
+   "case_reference": "Dokument 8:118 S (2012-2013), Innst. 447 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-299.pdf",
+   "title": "Innst. 299 L (2012-2013)",
+   "case_id": "56883",
+   "case_reference": "Prop. 87 L (2012-2013), Innst. 299 L (2012-2013), Lovvedtak 74 (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-016.pdf",
+   "title": "Innst. 16 S (2012-2013)",
+   "case_id": "55111",
+   "case_reference": "Prop. 1 S (2012-2013), Innst. 16 S (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 92,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-113.pdf",
+   "title": "Innst. 113 L (2012-2013)",
+   "case_id": "55364",
+   "case_reference": "Prop. 11 L (2012-2013), Innst. 113 L (2012-2013), Lovvedtak 24 (2012-2013)",
+   "session": "2012-2013",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-040.pdf",
+   "title": "Innst. 40 S (2014-2015)",
+   "case_id": "60622",
+   "case_reference": "Prop. 137 S (2013-2014), Innst. 40 S (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-093.pdf",
+   "title": "Innst. 93 S (2013-2014)",
+   "case_id": "58563",
+   "case_reference": "Meld. St. 6 (2013-2014), Innst. 93 S (2013-2014)",
+   "session": "2013-2014",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2013-2014/inns-201314-016.pdf",
+   "title": "Innst. 16 S (2013-2014)",
+   "case_id": "58350",
+   "case_reference": "Prop. 1 S Tillegg 1 (2013-2014), Innst. 16 S (2013-2014)",
+   "session": "2013-2014",
+   "n_pages": 88,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-311.pdf",
+   "title": "Innst. 311 L (2014-2015)",
+   "case_id": "62521",
+   "case_reference": "Prop. 107 L (2014-2015), Innst. 311 L (2014-2015), Lovvedtak 84 (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-170.pdf",
+   "title": "Innst. 170 L (2014-2015)",
+   "case_id": "61536",
+   "case_reference": "Prop. 45 L (2014-2015), Innst. 170 L (2014-2015), Lovvedtak 43 (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2014-2015/inns-201415-016.pdf",
+   "title": "Innst. 16 S (2014-2015)",
+   "case_id": "60851",
+   "case_reference": "Prop. 1 S (2014-2015), Innst. 16 S (2014-2015)",
+   "session": "2014-2015",
+   "n_pages": 160,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-259s.pdf",
+   "title": "Innst. 259 S (2019-2020)",
+   "case_id": "66431",
+   "case_reference": "Dokument 12:34 (2015-2016), Innst. 259 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-249.pdf",
+   "title": "Innst. 249 S (2015-2016)",
+   "case_id": "64380",
+   "case_reference": "Dokument 8:40 S (2015-2016), Innst. 249 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2015-2016/inns-201516-016.pdf",
+   "title": "Innst. 16 S (2015-2016)",
+   "case_id": "63837",
+   "case_reference": "Prop. 1 S Tillegg 1 (2015-2016), Innst. 16 S (2015-2016)",
+   "session": "2015-2016",
+   "n_pages": 119,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-137l.pdf",
+   "title": "Innst. 137 L (2017-2018)",
+   "case_id": "69218",
+   "case_reference": "Prop. 159 L (2016-2017), Innst. 137 L (2017-2018), Lovvedtak 29-30 (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 36,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-483s.pdf",
+   "title": "Innst. 483 S (2016-2017)",
+   "case_id": "67241",
+   "case_reference": "Dokument 1 tillegg nr. 1 (2016-2017), Innst. 483 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 132,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-434s.pdf",
+   "title": "Innst. 434 S (2016-2017)",
+   "case_id": "68409",
+   "case_reference": "Dokument 8:77 S (2016-2017), Innst. 434 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-368l.pdf",
+   "title": "Innst. 368 L (2016-2017)",
+   "case_id": "67704",
+   "case_reference": "Prop. 85 L (2016-2017), Innst. 368 L (2016-2017), Lovvedtak 113 (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 24,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-259l.pdf",
+   "title": "Innst. 259 L (2016-2017)",
+   "case_id": "68574",
+   "case_reference": "Innst. 259 L (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-208l.pdf",
+   "title": "Innst. 208 L (2016-2017)",
+   "case_id": "67431",
+   "case_reference": "Prop. 36 L (2016-2017), Innst. 208 L (2016-2017), Lovvedtak 66 (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-160l.pdf",
+   "title": "Innst. 160 L (2016-2017)",
+   "case_id": "67329",
+   "case_reference": "Prop. 18 L (2016-2017), Innst. 160 L (2016-2017), Lovvedtak 51 (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-016s.pdf",
+   "title": "Innst. 16 S (2016-2017)",
+   "case_id": "66727",
+   "case_reference": "Prop. 1 S (2016-2017), Innst. 16 S (2016-2017)",
+   "session": "2016-2017",
+   "n_pages": 148,
+   "n_candidates": 1
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-088s.pdf",
+   "title": "Innst. 88 S (2018-2019)",
+   "case_id": "72608",
+   "case_reference": "Dokument 3:11 (2017-2018), Innst. 88 S (2018-2019)",
+   "session": "2018-2019",
+   "n_pages": 184,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-022l.pdf",
+   "title": "Innst. 22 L (2018-2019)",
+   "case_id": "72652",
+   "case_reference": "Prop. 98 L (2017-2018), Innst. 22 L (2018-2019), Lovvedtak 3 (2018-2019)",
+   "session": "2018-2019",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-274s.pdf",
+   "title": "Innst. 274 S (2017-2018)",
+   "case_id": "70754",
+   "case_reference": "Dokument 8:103 S (2017-2018), Innst. 274 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-228s.pdf",
+   "title": "Innst. 228 S (2017-2018)",
+   "case_id": "71224",
+   "case_reference": "Dokument 8:136 S (2017-2018), Innst. 228 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-016s.pdf",
+   "title": "Innst. 16 S (2017-2018)",
+   "case_id": "69752",
+   "case_reference": "Prop. 1 S (2017-2018), Innst. 16 S (2017-2018)",
+   "session": "2017-2018",
+   "n_pages": 132,
+   "n_candidates": 1
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-111s.pdf",
+   "title": "Innst. 111 S (2019-2020)",
+   "case_id": "76304",
+   "case_reference": "Dokument 8:155 S (2018-2019), Innst. 111 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-382s.pdf",
+   "title": "Innst. 382 S (2018-2019)",
+   "case_id": "75809",
+   "case_reference": "Meld. St. 21 (2018-2019), Innst. 382 S (2018-2019)",
+   "session": "2018-2019",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2018-2019/inns-201819-016s.pdf",
+   "title": "Innst. 16 S (2018-2019)",
+   "case_id": "73591",
+   "case_reference": "Prop. 1 S (2018-2019), Innst. 16 S (2018-2019)",
+   "session": "2018-2019",
+   "n_pages": 112,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-148s.pdf",
+   "title": "Innst. 148 S (2020-2021)",
+   "case_id": "78807",
+   "case_reference": "Dokument 8:71 S (2019-2020), Innst. 148 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-086s.pdf",
+   "title": "Innst. 86 S (2020-2021)",
+   "case_id": "80198",
+   "case_reference": "Dokument 8:126 S (2019-2020), Innst. 86 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-139s.pdf",
+   "title": "Innst. 139 S (2020-2021)",
+   "case_id": "80221",
+   "case_reference": "Dokument 8:128 S (2019-2020), Innst. 139 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-376s.pdf",
+   "title": "Innst. 376 S (2019-2020)",
+   "case_id": "78976",
+   "case_reference": "Dokument 8:78 S (2019-2020), Innst. 376 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-233s.pdf",
+   "title": "Innst. 233 S (2019-2020)",
+   "case_id": "79329",
+   "case_reference": "Prop. 73 S (2019-2020), Prop. 70 LS (2019-2020), Innst. 233 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 24,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-232l.pdf",
+   "title": "Innst. 232 L (2019-2020)",
+   "case_id": "79330",
+   "case_reference": "Prop. 70 LS (2019-2020), Innst. 232 L (2019-2020), Lovvedtak 71-76 (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 20,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2019-2020/inns-201920-016s.pdf",
+   "title": "Innst. 16 S (2019-2020)",
+   "case_id": "77785",
+   "case_reference": "Prop. 1 S Tillegg 1 (2019-2020), Innst. 16 S (2019-2020)",
+   "session": "2019-2020",
+   "n_pages": 120,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-131l.pdf",
+   "title": "Innst. 131 L (2021-2022)",
+   "case_id": "85807",
+   "case_reference": "Prop. 234 L (2020-2021), Innst. 131 L (2021-2022), Lovvedtak 37 (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 20,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-053l.pdf",
+   "title": "Innst. 53 L (2021-2022)",
+   "case_id": "85813",
+   "case_reference": "Prop. 233 LS (2020-2021), L-delen, Innst. 53 L (2021-2022), Lovvedtak 23 (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 16,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-054s.pdf",
+   "title": "Innst. 54 S (2021-2022)",
+   "case_id": "85812",
+   "case_reference": "Prop. 233 LS (2020-2021), S-delen, Innst. 54 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-316s.pdf",
+   "title": "Innst. 316 S (2020-2021)",
+   "case_id": "82940",
+   "case_reference": "Dokument 8:90 S (2020-2021), Innst. 316 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 24,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "case_reference": "Prop. 1 S (2020-2021), Innst. 16 S (2020-2021)",
+   "session": "2020-2021",
+   "n_pages": 160,
+   "n_candidates": 6
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-365s.pdf",
+   "title": "Innst. 365 S (2021-2022)",
+   "case_id": "88950",
+   "case_reference": "Dokument 8:205 S (2021-2022), Innst. 365 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 4,
+   "n_candidates": 2
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-308l.pdf",
+   "title": "Innst. 308 L (2021-2022)",
+   "case_id": "88388",
+   "case_reference": "Prop. 62 L (2021-2022), Innst. 308 L (2021-2022), Lovvedtak 69 (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-225s.pdf",
+   "title": "Innst. 225 S (2021-2022)",
+   "case_id": "87868",
+   "case_reference": "Dokument 8:91 S (2021-2022), Innst. 225 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-215s.pdf",
+   "title": "Innst. 215 S (2021-2022)",
+   "case_id": "87870",
+   "case_reference": "Dokument 8:92 S (2021-2022), Innst. 215 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-137s.pdf",
+   "title": "Innst. 137 S (2021-2022)",
+   "case_id": "86954",
+   "case_reference": "Dokument 8:39 S (2021-2022), Innst. 137 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-016s.pdf",
+   "title": "Innst. 16 S (2021-2022)",
+   "case_id": "86504",
+   "case_reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 16 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 92,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-088s.pdf",
+   "title": "Innst. 88 S (2023-2024)",
+   "case_id": "95583",
+   "case_reference": "Prop. 140 LS (2022-2023), Innst. 88 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-087l.pdf",
+   "title": "Innst. 87 L (2023-2024)",
+   "case_id": "95584",
+   "case_reference": "Prop. 140 LS (2022-2023), Innst. 87 L (2023-2024), Lovvedtak 14 (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-401l.pdf",
+   "title": "Innst. 401 L (2022-2023)",
+   "case_id": "93704",
+   "case_reference": "Prop. 83 L (2022-2023), Innst. 401 L (2022-2023), Lovvedtak 84 (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-152s.pdf",
+   "title": "Innst. 152 S (2022-2023)",
+   "case_id": "91174",
+   "case_reference": "Dokument 8:27 S (2022-2023), Innst. 152 S (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-016s.pdf",
+   "title": "Innst. 16 S (2022-2023)",
+   "case_id": "91323",
+   "case_reference": "Prop. 1 S Tillegg 1 (2022-2023), Innst. 16 S (2022-2023)",
+   "session": "2022-2023",
+   "n_pages": 88,
+   "n_candidates": 1
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-293s.pdf",
+   "title": "Innst. 293 S (2023-2024)",
+   "case_id": "97749",
+   "case_reference": "Prop. 51 LS (2023-2024), Innst. 293 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-292l.pdf",
+   "title": "Innst. 292 L (2023-2024)",
+   "case_id": "97750",
+   "case_reference": "Prop. 51 LS (2023-2024), Innst. 292 L (2023-2024), Lovvedtak 79 (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-213s.pdf",
+   "title": "Innst. 213 S (2023-2024)",
+   "case_id": "96754",
+   "case_reference": "Dokument 8:54 S (2023-2024), Innst. 213 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-016s.pdf",
+   "title": "Innst. 16 S (2023-2024)",
+   "case_id": "96445",
+   "case_reference": "Prop. 1 S Tillegg 2 (2023-2024), Innst. 16 S (2023-2024)",
+   "session": "2023-2024",
+   "n_pages": 88,
+   "n_candidates": 4
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-178s.pdf",
+   "title": "Innst. 178 S (2025-2026)",
+   "case_id": "103595",
+   "case_reference": "Dokument 3:12 (2024-2025), Innst. 178 S (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 73,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-043l.pdf",
+   "title": "Innst. 43 L (2025-2026)",
+   "case_id": "104476",
+   "case_reference": "Prop. 164 L (2024-2025), Innst. 43 L (2025-2026), Lovvedtak 18 (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-491s.pdf",
+   "title": "Innst. 491 S (2024-2025)",
+   "case_id": "103003",
+   "case_reference": "Dokument 3:9 (2024-2025), Innst. 491 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-474s.pdf",
+   "title": "Innst. 474 S (2024-2025)",
+   "case_id": "102769",
+   "case_reference": "Prop. 74 LS (2024-2025), Innst. 474 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-475l.pdf",
+   "title": "Innst. 475 L (2024-2025)",
+   "case_id": "102770",
+   "case_reference": "Prop. 74 LS (2024-2025), Innst. 475 L (2024-2025), Lovvedtak 120 (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 2,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-323l.pdf",
+   "title": "Innst. 323 L (2024-2025)",
+   "case_id": "101786",
+   "case_reference": "Prop. 53 L (2024-2025), Innst. 323 L (2024-2025), Lovvedtak 70 (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 4,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-016s.pdf",
+   "title": "Innst. 16 S (2024-2025)",
+   "case_id": "100186",
+   "case_reference": "Prop. 1 S (2024-2025), Innst. 16 S (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 104,
+   "n_candidates": 1
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-075l.pdf",
+   "title": "Innst. 75 L (2024-2025)",
+   "case_id": "100680",
+   "case_reference": "Prop. 10 L (2024-2025), Innst. 75 L (2024-2025), Lovvedtak 24 (2024-2025)",
+   "session": "2024-2025",
+   "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-414s.pdf",
+   "title": "Innst. 414 S (2025-2026)",
+   "case_id": "200208",
+   "case_reference": "Dokument 8:253 S (2025-2026), Innst. 414 S (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 16,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-401s.pdf",
+   "title": "Innst. 401 S (2025-2026)",
+   "case_id": "200165",
+   "case_reference": "Dokument 8:213 S (2025-2026), Innst. 401 S (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-177l.pdf",
+   "title": "Innst. 177 L (2025-2026)",
+   "case_id": "105929",
+   "case_reference": "Prop. 31 L (2025-2026), Innst. 177 L (2025-2026), Lovvedtak 39 (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 12,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-016s.pdf",
+   "title": "Innst. 16 S (2025-2026)",
+   "case_id": "104909",
+   "case_reference": "Prop. 1 S (2025-2026), Innst. 16 S (2025-2026)",
+   "session": "2025-2026",
+   "n_pages": 100,
+   "n_candidates": 3
+  }
+ ],
+ "skipped": [
+  {
+   "case_id": "54347",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2012-2013/inns-201213-210.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "53883",
+   "url": "http://www.regjeringen.no/id/PRP201120120117000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "53457",
+   "url": "http://www.regjeringen.no/id/PRP201120120079000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "53463",
+   "url": "http://www.regjeringen.no/id/PRP201120120079000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "52344",
+   "url": "http://www.regjeringen.no/id/PRP201120120054000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "52344",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-192.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "51763",
+   "url": "http://www.regjeringen.no/id/PRP201120120001T03DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51763",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-016.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "51393",
+   "url": "http://www.regjeringen.no/id/PRP201120120001BLDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51393",
+   "url": "http://www.regjeringen.no/id/PRP201120120001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51393",
+   "url": "http://www.regjeringen.no/id/PRP201120120001FADDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51393",
+   "url": "http://www.regjeringen.no/id/PRP201120120001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51393",
+   "url": "http://www.regjeringen.no/id/PRP201120120001KRDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51393",
+   "url": "http://www.regjeringen.no/id/PRP201120120001NHDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51393",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-016.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "51171",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-041.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "51250",
+   "url": "http://www.regjeringen.no/id/PRP201020110154000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "51250",
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2011-2012/inns-201112-021.pdf",
+   "reason": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "case_id": "58016",
+   "url": "http://www.regjeringen.no/id/PRP201220130193000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "56883",
+   "url": "http://www.regjeringen.no/id/PRP201220130087000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55111",
+   "url": "http://www.regjeringen.no/id/PRP201220130001KRDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55111",
+   "url": "http://www.regjeringen.no/id/PRP201220130001BLDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55111",
+   "url": "http://www.regjeringen.no/id/PRP201220130001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55111",
+   "url": "http://www.regjeringen.no/id/PRP201220130001FADDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55111",
+   "url": "http://www.regjeringen.no/id/PRP201220130001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55111",
+   "url": "http://www.regjeringen.no/id/PRP201220130001NHDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55507",
+   "url": "http://www.regjeringen.no/id/PRP201220130001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "55364",
+   "url": "http://www.regjeringen.no/id/PRP201220130011000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60622",
+   "url": "http://www.regjeringen.no/id/PRP201320140137000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58563",
+   "url": "http://www.regjeringen.no/id/STM201320140006000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58350",
+   "url": "http://www.regjeringen.no/id/PRP201320140001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58200",
+   "url": "http://www.regjeringen.no/id/PRP201320140001KRDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58200",
+   "url": "http://www.regjeringen.no/id/PRP201320140001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58200",
+   "url": "http://www.regjeringen.no/id/PRP201320140001BLDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58200",
+   "url": "http://www.regjeringen.no/id/PRP201320140001FADDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58200",
+   "url": "http://www.regjeringen.no/id/PRP201320140001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "58200",
+   "url": "http://www.regjeringen.no/id/PRP201320140001NHDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "62521",
+   "url": "http://www.regjeringen.no/id/PRP201420150107000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "61536",
+   "url": "http://www.regjeringen.no/id/PRP201420150045000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60851",
+   "url": "http://www.regjeringen.no/id/PRP201420150001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60851",
+   "url": "http://www.regjeringen.no/id/PRP201420150001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60851",
+   "url": "http://www.regjeringen.no/id/PRP201420150001BLDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "60851",
+   "url": "http://www.regjeringen.no/id/PRP201420150001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63837",
+   "url": "http://www.regjeringen.no/id/PRP201520160001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63627",
+   "url": "http://www.regjeringen.no/id/PRP201520160001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63627",
+   "url": "http://www.regjeringen.no/id/PRP201520160001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63627",
+   "url": "http://www.regjeringen.no/id/PRP201520160001BLDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63627",
+   "url": "http://www.regjeringen.no/id/PRP201520160001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "63627",
+   "url": "http://www.regjeringen.no/id/PRP201520160001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69218",
+   "url": "http://www.regjeringen.no/id/PRP201620170159000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "67704",
+   "url": "http://www.regjeringen.no/id/PRP201620170085000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "67431",
+   "url": "http://www.regjeringen.no/id/PRP201620170036000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "67329",
+   "url": "http://www.regjeringen.no/id/PRP201620170018000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66727",
+   "url": "http://www.regjeringen.no/id/PRP201620170001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66727",
+   "url": "http://www.regjeringen.no/id/PRP201620170001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66727",
+   "url": "http://www.regjeringen.no/id/PRP201620170001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "66727",
+   "url": "http://www.regjeringen.no/id/PRP201620170001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "72652",
+   "url": "http://www.regjeringen.no/id/PRP201720180098000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69752",
+   "url": "http://www.regjeringen.no/id/PRP201720180001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69752",
+   "url": "http://www.regjeringen.no/id/PRP201720180001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69752",
+   "url": "http://www.regjeringen.no/id/PRP201720180001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "69752",
+   "url": "http://www.regjeringen.no/id/PRP201720180001NFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "75809",
+   "url": "http://www.regjeringen.no/id/STM201820190021000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73591",
+   "url": "http://www.regjeringen.no/id/PRP201820190001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73591",
+   "url": "http://www.regjeringen.no/id/PRP201820190001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73591",
+   "url": "http://www.regjeringen.no/id/PRP201820190001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "73591",
+   "url": "http://www.regjeringen.no/id/PRP201820190001_KDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "79329",
+   "url": "http://www.regjeringen.no/id/PRP201920200070000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "79330",
+   "url": "http://www.regjeringen.no/id/PRP201920200070000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77785",
+   "url": "http://www.regjeringen.no/id/PRP201920200001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77371",
+   "url": "http://www.regjeringen.no/id/PRP201920200001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77371",
+   "url": "http://www.regjeringen.no/id/PRP201920200001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77371",
+   "url": "http://www.regjeringen.no/id/PRP201920200001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "77371",
+   "url": "http://www.regjeringen.no/id/PRP201920200001_KDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "85807",
+   "url": "http://www.regjeringen.no/id/PRP202020210234000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "85813",
+   "url": "http://www.regjeringen.no/id/PRP202020210233000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "85812",
+   "url": "http://www.regjeringen.no/id/PRP202020210233000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81538",
+   "url": "http://www.regjeringen.no/id/PRP202020210001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81538",
+   "url": "http://www.regjeringen.no/id/PRP202020210001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81538",
+   "url": "http://www.regjeringen.no/id/PRP202020210001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "81538",
+   "url": "http://www.regjeringen.no/id/PRP202020210001_KDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "82150",
+   "url": "http://www.regjeringen.no/id/PRP202020210001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "88388",
+   "url": "http://www.regjeringen.no/id/PRP202120220062000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86504",
+   "url": "http://www.regjeringen.no/id/PRP202120220001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86013",
+   "url": "http://www.regjeringen.no/id/PRP202120220001KMDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86013",
+   "url": "http://www.regjeringen.no/id/PRP202120220001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86013",
+   "url": "http://www.regjeringen.no/id/PRP202120220001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "86013",
+   "url": "http://www.regjeringen.no/id/PRP202120220001_KDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95583",
+   "url": "http://www.regjeringen.no/id/PRP202220230140000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95584",
+   "url": "http://www.regjeringen.no/id/PRP202220230140000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "93704",
+   "url": "http://www.regjeringen.no/id/PRP202220230083000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "91323",
+   "url": "http://www.regjeringen.no/id/PRP202220230001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90784",
+   "url": "http://www.regjeringen.no/id/PRP202220230001KDDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90784",
+   "url": "http://www.regjeringen.no/id/PRP202220230001AIDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90784",
+   "url": "http://www.regjeringen.no/id/PRP202220230001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "90784",
+   "url": "http://www.regjeringen.no/id/PRP202220230001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "97749",
+   "url": "http://www.regjeringen.no/id/PRP202320240051000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "97750",
+   "url": "http://www.regjeringen.no/id/PRP202320240051000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "96445",
+   "url": "http://www.regjeringen.no/id/PRP202320240001T02DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95780",
+   "url": "http://www.regjeringen.no/id/PRP202320240001AIDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95780",
+   "url": "http://www.regjeringen.no/id/PRP202320240001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95780",
+   "url": "http://www.regjeringen.no/id/PRP202320240001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "95780",
+   "url": "http://www.regjeringen.no/id/PRP202320240001KDDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104476",
+   "url": "http://www.regjeringen.no/id/PRP202420250164000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "102769",
+   "url": "http://www.regjeringen.no/id/PRP202420250074000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "102770",
+   "url": "http://www.regjeringen.no/id/PRP202420250074000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "101786",
+   "url": "http://www.regjeringen.no/id/PRP202420250053000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100186",
+   "url": "http://www.regjeringen.no/id/PRP202420250001KDDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100186",
+   "url": "http://www.regjeringen.no/id/PRP202420250001DFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100186",
+   "url": "http://www.regjeringen.no/id/PRP202420250001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100186",
+   "url": "http://www.regjeringen.no/id/PRP202420250001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100186",
+   "url": "http://www.regjeringen.no/id/PRP202420250001AIDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100612",
+   "url": "http://www.regjeringen.no/id/PRP202420250001T01DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "100680",
+   "url": "http://www.regjeringen.no/id/PRP202420250010000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "105929",
+   "url": "http://www.regjeringen.no/id/PRP202520260031000DDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104909",
+   "url": "http://www.regjeringen.no/id/PRP202520260001KDDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104909",
+   "url": "http://www.regjeringen.no/id/PRP202520260001DFDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104909",
+   "url": "http://www.regjeringen.no/id/PRP202520260001FINDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104909",
+   "url": "http://www.regjeringen.no/id/PRP202520260001_JDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  },
+  {
+   "case_id": "104909",
+   "url": "http://www.regjeringen.no/id/PRP202520260001AIDDDDEPIS",
+   "reason": "regjeringen.no er ikke tilgjengelig fra pipelinen"
+  }
+ ],
+ "candidates": [
+  {
+   "id": "b429bf2705a7",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2016-2017/inns-201617-016s.pdf",
+   "doc_title": "Innst. 16 S (2016-2017)",
+   "case_id": "66727",
+   "locator": "s. 16",
+   "page": 16,
+   "snippet": "Dette medlem p å p e k e r a t d e t o g s å e r g o d e innsparingsmuligheter når det gjelder videreføring av ordinære byggeprosjekt i regi av Statsbygg. Ved å kutte bevilgningen på 120 mill. kroner, eller om lag 5 pst., vil man kun forsinke framdriften på prosjekter som sikker teknisk infrastruktur i regjeringskvartalet og Nasjonalmuseet. I begge disse tilfellene handler det om bygg som uansett først vil stå ferdig i 2019,",
+   "amounts": [
+    {
+     "raw": "120 mill. kroner",
+     "mnok": 120.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "9ab66e272852",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2017-2018/inns-201718-016s.pdf",
+   "doc_title": "Innst. 16 S (2017-2018)",
+   "case_id": "69752",
+   "locator": "s. 68",
+   "page": 68,
+   "snippet": "F l e r t a l l e t viser til at bevilgningen på denne posten reduseres som følge av dette. 3.3.8.4 P OST 25 FORPROSJEKT NYTT REGJERINGSKVARTAL, KAN OVERFØRES Posten skal dekke utredninger og tjenester til forprosjekt av nytt regjeringskvartal, og det er avsatt 4 mill. kroner til dette. K o m i t e e n støtter dette.",
+   "amounts": [
+    {
+     "raw": "4 mill. kroner",
+     "mnok": 4.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "8b707be0c0c9",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "doc_title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "locator": "s. 32",
+   "page": 32,
+   "snippet": "Regjeringen legger nå fram en kvalitets- sikret kostnadsramme for byggetrinn 1 på 20,465 mrd. kroner (prisnivå 1. juli 2021). Ekstern kvalitetssikrer an- slår en samlet forventet kostnad for byggetrinn 1, 2 og 3 til 24,1 mrd. kroner, og re gjeringen varsler at den vil komme tilbake til kostnadene for byggetrinn 2 og 3 når forprosjekt for disse byggetrinnene er utarbeidet og har gjennomgått ekstern kvalitetssikring. Det foreslås bevil- get 1 158 mill. kroner i 2021 til oppstart av byggetrinn 1 for nytt regjeringskvartal.",
+   "amounts": [
+    {
+     "raw": "24,1 mrd. kroner",
+     "mnok": 24100.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "28aee51cf6eb",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "doc_title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "locator": "s. 32",
+   "page": 32,
+   "snippet": "Ekstern kvalitetssikrer an- slår en samlet forventet kostnad for byggetrinn 1, 2 og 3 til 24,1 mrd. kroner, og re gjeringen varsler at den vil komme tilbake til kostnadene for byggetrinn 2 og 3 når forprosjekt for disse byggetrinnene er utarbeidet og har gjennomgått ekstern kvalitetssikring. Det foreslås bevil- get 1 158 mill. kroner i 2021 til oppstart av byggetrinn 1 for nytt regjeringskvartal. Regjeringen understreker også at prosjektets størrelse, kompleksitet, gjennomfø- ringsintensitet, markedsusi kkerhet og styringsmessige utfordringer tilsier at prosjektet har vesentlig større usikkerhet enn andre store byggeprosjekter, men at dette er hensyntatt i forslaget til kostnadsramme.",
+   "amounts": [
+    {
+     "raw": "1 158 mill. kroner",
+     "mnok": 1158.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": [
+    "uncertainty"
+   ]
+  },
+  {
+   "id": "063bd18c96c7",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "doc_title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "locator": "s. 32",
+   "page": 32,
+   "snippet": "D i s s e m e d l e m m e r mener 14 år er lenge å vente på nye regjeringsbygg, og vil nødig bi- dra til ytterligere forsinkelser. D i s s e m e d l e m m e r gir derfor støtte til regjeringens oppstartbevilgning på 1,1 mrd. kroner i 2021. Samtidig er det behov for bedre innsikt i kostnadsanslagene og hvilket handlingsrom Stortinget har til å redusere omfanget og kostnadene ved prosjektet.",
+   "amounts": [
+    {
+     "raw": "1,1 mrd. kroner",
+     "mnok": 1100.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": [
+    "scope"
+   ]
+  },
+  {
+   "id": "f0878324a17d",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "doc_title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "locator": "s. 33",
+   "page": 33,
+   "snippet": "Komiteens medlemmer fra Høyre og K r i s t e l i g F o l k e p a r t i viser til at nytt regjerings- kvartal følger normal gjennomføring for byggeprosjek- ter i statlig sivil sektor. Kostnadsrammen for byggetrinn 1 for nytt regjeringskvartal tar sitt utgangspunkt i ba- siskostnadene på 14,6 mrd. kroner og forventet tillegg på 2,9 mrd. kroner. Det utgjør styringsrammen for pro- sjektet, pålydende 17,5 mr d. kroner.",
+   "amounts": [
+    {
+     "raw": "14,6 mrd. kroner",
+     "mnok": 14600.0
+    },
+    {
+     "raw": "2,9 mrd. kroner",
+     "mnok": 2900.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "53017557d10d",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "doc_title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "locator": "s. 33",
+   "page": 33,
+   "snippet": "Nivået på avsetning til usik kerhet, og håndteringen av en ev. bruk av denne, er ti lrådet av ekstern kvalitets- sikrer (KS2). Komiteens medlemmer fra Senterparti- et og Sosialistisk Venstreparti v i s e r t i l a t e k - stern kvalitetssikring (KS2) for nytt regjeringskvartal som regjeringen ble presentert for i juni 2020 og formelt overlevert i juli samme år, viser en kostnad på opptil 36 mrd. kroner. Ekstern kvalitet ssikrer anslår samlet for- ventet kostnad med 50 pst. sannsynlighet (P50) for byg- getrinn 1, 2 og 3 til 24,1 mrd. kroner (prisnivå 1. juli 2021).",
+   "amounts": [
+    {
+     "raw": "36 mrd. kroner",
+     "mnok": 36000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "125c35f0ce70",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2020-2021/inns-202021-016s.pdf",
+   "doc_title": "Innst. 16 S (2020-2021)",
+   "case_id": "81538",
+   "locator": "s. 33",
+   "page": 33,
+   "snippet": "Komiteens medlemmer fra Senterparti- et og Sosialistisk Venstreparti v i s e r t i l a t e k - stern kvalitetssikring (KS2) for nytt regjeringskvartal som regjeringen ble presentert for i juni 2020 og formelt overlevert i juli samme år, viser en kostnad på opptil 36 mrd. kroner. Ekstern kvalitet ssikrer anslår samlet for- ventet kostnad med 50 pst. sannsynlighet (P50) for byg- getrinn 1, 2 og 3 til 24,1 mrd. kroner (prisnivå 1. juli 2021). Disse medlemmer v i l o g s å u n d e r s t r e k e a t k v a - litetssikringen av kostnadsrammen for nytt regjerings- kvartal ikke er blitt overleve rt Stortinget i sin helhet.",
+   "amounts": [
+    {
+     "raw": "24,1 mrd. kroner",
+     "mnok": 24100.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "0216a6e1a467",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-365s.pdf",
+   "doc_title": "Innst. 365 S (2021-2022)",
+   "case_id": "88950",
+   "locator": "s. 1",
+   "page": 1,
+   "snippet": "Ko m i t e e n v iser til at senking og omlegging av Hammersborgtunnelen på riksvei 162 i Oslo er en del av den planlagte utbyggingen av regjeringskvartalet og er begrunnet i sikkerhetshensyn. Ko m i t e e n viser videre til at kostnadsanslaget for nytt regjeringskvartal har økt til over 40 mrd. kroner, som referert i statsbudsjettet for 2022. Ombygging av Hammersborgtunnelen er anslått å koste 3,1 mrd. kroner.",
+   "amounts": [
+    {
+     "raw": "40 mrd. kroner",
+     "mnok": 40000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "e7e75fc2833c",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-365s.pdf",
+   "doc_title": "Innst. 365 S (2021-2022)",
+   "case_id": "88950",
+   "locator": "s. 1",
+   "page": 1,
+   "snippet": "Ko m i t e e n viser videre til at kostnadsanslaget for nytt regjeringskvartal har økt til over 40 mrd. kroner, som referert i statsbudsjettet for 2022. Ombygging av Hammersborgtunnelen er anslått å koste 3,1 mrd. kroner. Ko m i t e e n se r at forslagsstillerne mener det er rom for å nedskalere denne delen av prosjektet betyde- lig, og at forslagsstillerne peker på en løsning med å ste nge tunnelen for ordinær biltrafikk.",
+   "amounts": [
+    {
+     "raw": "3,1 mrd. kroner",
+     "mnok": 3100.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "a236aa78cf09",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2022-2023/inns-202223-016s.pdf",
+   "doc_title": "Innst. 16 S (2022-2023)",
+   "case_id": "91323",
+   "locator": "s. 23",
+   "page": 23,
+   "snippet": "D i s s e m e d l e m m e r vil stop- pe planene for nytt regjeringskvartal for å vurdere andre og billigere løsninger enn de m som er foreslått av regjeringen. D i s s e m e d l e m m e r viser til Fremskrittspar- tiets alternative statsbudsjett for 2023, der bevilgningen på post 33 kuttes med 2 mrd. kr oner. 3.3.21.6 Post 34 Videreføring av brukerfinansierte byggeprosjekter, kan overføres Ko m i t e e n viser til omtalen i Prop.",
+   "amounts": [
+    {
+     "raw": "2 mrd. kr",
+     "mnok": 2000.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "d3f385d57b61",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-016s.pdf",
+   "doc_title": "Innst. 16 S (2023-2024)",
+   "case_id": "96445",
+   "locator": "s. 17",
+   "page": 17,
+   "snippet": "Digi- taliserings- og forvaltningsdepartementet gis fullmakt til å prisjustere kostnadsrammen i senere år. VI Brukerutstyrsprosjektet for nytt regjeringskvartal, byggetrinn 1 Stortinget samtykker i at Digitaliserings- og forvalt- ningsdepartementet i 2024 kan bestille og forplikte sta- ten utover budsjettåret for gjennomføring av brukerut- styrsprosjektet for prosjekt nytt regjeringskvartal, byg - getrinn 1, innenfor tidligere vedtatt kostnadsramme på 351,9 mill. kroner (prisnivå per 1. juli 2024) på kap. 1530 Byggeprosjekter utenfor husleieordningen, post 45 Større utstyrsanskaffelser og vedlikehold.",
+   "amounts": [
+    {
+     "raw": "351,9 mill. kroner",
+     "mnok": 351.9
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "84856433bca2",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-016s.pdf",
+   "doc_title": "Innst. 16 S (2023-2024)",
+   "case_id": "96445",
+   "locator": "s. 17",
+   "page": 17,
+   "snippet": "2445 post 33 536,5 mill. kroner Byggetrinn 1 av nytt regjeringskvartal kap. 2445 post 33 23 971,5 mill. kroner Energiløsningen for nytt regjeringskvartal kap. 2445 post 33 3 211,0 mill. kroner bestille og forplikte staten utover budsjettåret i disse prosjektene: budsjettkapittel og post innenfor tidligere vedtatt kostnadsramme på: Kap.",
+   "amounts": [
+    {
+     "raw": "971,5 mill. kroner",
+     "mnok": 971.5
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "735b2cd4a8f4",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-016s.pdf",
+   "doc_title": "Innst. 16 S (2023-2024)",
+   "case_id": "96445",
+   "locator": "s. 17",
+   "page": 17,
+   "snippet": "2445 post 33 23 971,5 mill. kroner Energiløsningen for nytt regjeringskvartal kap. 2445 post 33 3 211,0 mill. kroner bestille og forplikte staten utover budsjettåret i disse prosjektene: budsjettkapittel og post innenfor tidligere vedtatt kostnadsramme på: Kap. Post Betegnelse Samlet ramme 1540 Digitaliseringsdirektoratet 25 Medfinansieringsordning for digitaliseringsprosjekter 131,2 mill. kroner",
+   "amounts": [
+    {
+     "raw": "211,0 mill. kroner",
+     "mnok": 211.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "a5fb8eef46c5",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2023-2024/inns-202324-016s.pdf",
+   "doc_title": "Innst. 16 S (2023-2024)",
+   "case_id": "96445",
+   "locator": "s. 77",
+   "page": 77,
+   "snippet": "Digitaliserings- og forvaltningsdepartementet gis fullmakt til å prisjustere kostnadsrammen i senere år. VI Brukerutstyrsprosjektet for nytt regjeringskvartal, byggetrinn 1 Stortinget samtykker i at Digitaliserings- og forvalt- ningsdepartementet i 2024 kan bestille og forplikte sta- ten utover budsjettåret for gjennomføring av brukerut- styrsprosjektet for prosjekt nytt regjeringskvartal, byg - getrinn 1, innenfor tidligere vedtatt kostnadsramme på 351,9 mill. kroner (prisnivå per 1. juli 2024) på kap. 1530 Byggeprosjekter utenfor husleieordningen, post 45 Større utstyrsanskaffelser og vedlikehold.",
+   "amounts": [
+    {
+     "raw": "351,9 mill. kroner",
+     "mnok": 351.9
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "81117da1eae7",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2024-2025/inns-202425-016s.pdf",
+   "doc_title": "Innst. 16 S (2024-2025)",
+   "case_id": "100186",
+   "locator": "s. 21",
+   "page": 21,
+   "snippet": "På denne bakgrunn fremmer d e t t e m e d l e m føl- gende forslag: «Stortinget ber regjeringen lage en helhetlig plan for å ta tilbake privatiserte tjenester i egenregi i statlig sektor samt å pålegge statlige virksomheter å redusere bruken av private tilbydere på områder der virksomhe- tene kan utføre oppgaver med egne ansatte.» 3.3.8.2 Post 21 Spesielle driftsutgifter, kan over- føres, kan nyttes under post 70 Ko m i t e e n viser til omtalen i Prop. 1 S (2024– 2025) under Digitaliserings- og forvaltningsdeparte - mentet, herunder en økning på 34,5 mill. kroner til sik - ker teknisk infrastruktur i det nye regjeringskvartalet. 3.3.8.3 Post 51 Gjennomstrømmingsmidler til forskningsinstitut",
+   "amounts": [
+    {
+     "raw": "34,5 mill. kroner",
+     "mnok": 34.5
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "b8a79ead443d",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-016s.pdf",
+   "doc_title": "Innst. 16 S (2025-2026)",
+   "case_id": "104909",
+   "locator": "s. 12",
+   "page": 12,
+   "snippet": "Fullmakten gjelder også forpliktelser som inngås i senere budsjettår. VI Fullmakt til å pådra staten forpliktelser i investeringsprosjekter Stortinget samtykker i at Digitaliserings- og forvalt- ningsdepartementet i 2026 kan starte opp, bestille og for- plikte staten ut over budsjettåret for prosjektet nasjonalt minnested etter 22. juli 2011 i regjeringskvartalet innen- for en kostnadsramme på 75 mill. kroner. Fullmakten gjelder også forpliktelser som inngås i senere budsjettår.",
+   "amounts": [
+    {
+     "raw": "75 mill. kroner",
+     "mnok": 75.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "044de8e0715e",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-016s.pdf",
+   "doc_title": "Innst. 16 S (2025-2026)",
+   "case_id": "104909",
+   "locator": "s. 22",
+   "page": 22,
+   "snippet": "2 S (2025– 2026) der bevilgningen på kap. 1515 post 22 foreslås re- dusert med 40 mill. kroner som følge av lavere behov for midler til Prosjekt IKT i nytt regjeringskvartal enn an - slått. Post 45 Større utstyrsanskaffelser og vedlikehold, kan overføres Ko m i t e e n viser til omtalen i Prop.",
+   "amounts": [
+    {
+     "raw": "40 mill. kroner",
+     "mnok": 40.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  },
+  {
+   "id": "5341bc5e35b0",
+   "status": "pending",
+   "doc_url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2025-2026/inns-202526-016s.pdf",
+   "doc_title": "Innst. 16 S (2025-2026)",
+   "case_id": "104909",
+   "locator": "s. 81",
+   "page": 81,
+   "snippet": "Fullmakten gjelder også forpliktelser som inngås i senere budsjettår. VI Fullmakt til å pådra staten forpliktelser i investeringsprosjekter Stortinget samtykker i at Digitaliserings- og forvalt- ningsdepartementet i 2026 kan starte opp, bestille og forplikte staten utover budsjettåret for prosjektet nasjo- nalt minnested etter 22. juli 2011 i regjeringskvartalet innenfor en kostnadsramme på 75 mill. kroner. Full - makten gjelder også forpliktelser som inngås i senere budsjettår.",
+   "amounts": [
+    {
+     "raw": "75 mill. kroner",
+     "mnok": 75.0
+    }
+   ],
+   "price_levels": [],
+   "reason_guess": []
+  }
+ ]
+}
