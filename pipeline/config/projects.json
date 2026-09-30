@@ -15,7 +15,7 @@
       "id": "regjeringskvartalet",
       "name_nb": "Regjeringskvartalet", "name_en": "Government quarter",
       "agency": "Statsbygg", "ministry": "Kommunal- og distriktsdepartementet",
-      "keywords": ["regjeringskvartal", "regjeringsbygg", "høyblokka", "y-blokka", "statsbygg"],
+      "keywords": ["regjeringskvartal", "regjeringsbygg", "høyblokka", "y-blokka", "h-blokka"],
       "case_title_regex": "regjeringskvartal|statsbygg|22\\. juli|sikring",
       "budget_committees": ["KOMMFORV"],
       "storting_area": "regjeringskvartalet",
