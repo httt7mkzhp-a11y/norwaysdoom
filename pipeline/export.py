@@ -6,7 +6,7 @@ TABLES = {
     "sources": ["id", "name", "url", "publisher", "access", "license", "frequency", "automatic", "retrieved_at", "status"],
     "categories": ["id", "kind", "name_nb", "name_en", "description_nb", "description_en", "nature", "commitment", "commitment_note_nb", "commitment_note_en"],
     "recipients": ["id", "kind", "name_nb", "name_en", "iso_n3", "iso_a3", "region"],
-    "flows": ["year", "recipient_id", "category_id", "amount_mnok", "amount_usd_m", "fx_nok_per_usd", "basis", "price_basis", "source_id", "source_ref", "retrieved_at", "verified"],
+    "flows": ["year", "recipient_id", "category_id", "amount_mnok", "amount_usd_m", "fx_nok_per_usd", "basis", "preliminary", "price_basis", "source_id", "source_ref", "retrieved_at", "verified"],
     "budgetLines": ["year", "chapter", "post", "name", "amount_nok", "amount_mnok", "category_id", "in_scope", "nature", "commitment", "basis", "price_basis", "source_id", "source_ref", "case_ref", "vote_id", "vote_time", "retrieved_at", "verified"],
     "projects": ["id", "year", "recipient_id", "category_id", "title_nb", "title_en", "purpose_nb", "purpose_en", "grantee", "amount_mnok", "source_id", "source_ref", "verified"],
     "yearStats": ["year", "population", "taxpayers", "gdp_mnok", "cpi_index", "price_basis", "source_id", "source_ref", "retrieved_at", "verified"],

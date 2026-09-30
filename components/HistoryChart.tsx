@@ -14,7 +14,8 @@ export default function HistoryChart({ ds }: { ds: Dataset }) {
     const k = real ? realFactor(ds, y) : 1;
     if (k === null) return [];
     const v = yearTotalMnok(ds, y, ABROAD_ODA) * k;
-    return [{ year: y, bn: v / 1000, mnok: v, basis }];
+    const prelim = ds.flows.some((f) => f.year === y && f.preliminary);
+    return [{ year: y, bn: v / 1000, mnok: v, basis, prelim }];
   }), [ds, real]);
   return (
     <section aria-labelledby="hist-h" className="card mt-8 p-5">
@@ -33,9 +34,9 @@ export default function HistoryChart({ ds }: { ds: Dataset }) {
             <YAxis tick={{ fill: "rgb(var(--muted))", fontSize: 12 }} axisLine={false} tickLine={false} width={44} tickFormatter={(v) => fmtNum(v, lang, 0)} unit="" />
             <Tooltip cursor={{ fill: "rgb(var(--line) / 0.4)" }}
               contentStyle={{ background: "rgb(var(--surface))", border: "1px solid rgb(var(--line))", borderRadius: 8, color: "rgb(var(--fg))" }}
-              formatter={(_v, _n, p) => [fmtMnok(p.payload.mnok, lang), t(`basis.${p.payload.basis}`)]} labelFormatter={(l) => String(l)} />
+              formatter={(_v, _n, p) => [fmtMnok(p.payload.mnok, lang), t(`basis.${p.payload.basis}`) + (p.payload.prelim ? `, ${t("prelim")}` : "")]} labelFormatter={(l) => String(l)} />
             <Bar dataKey="bn" radius={[3, 3, 0, 0]}>
-              {rows.map((r) => <Cell key={r.year} fill={r.basis === "regnskap" ? "rgb(var(--accent))" : "rgb(var(--accent) / 0.45)"} />)}
+              {rows.map((r) => <Cell key={r.year} fill={r.basis === "regnskap" && !r.prelim ? "rgb(var(--accent))" : "rgb(var(--accent) / 0.45)"} />)}
             </Bar>
           </BarChart>
         </ResponsiveContainer>
@@ -45,7 +46,7 @@ export default function HistoryChart({ ds }: { ds: Dataset }) {
         <summary className="cursor-pointer text-muted">{t("hist.table")}</summary>
         <table className="num mt-2 w-full text-left">
           <thead><tr><th scope="col">{t("col.year")}</th><th scope="col">{t("col.amount")}</th><th scope="col">{t("col.basis")}</th></tr></thead>
-          <tbody>{rows.map((r) => <tr key={r.year} className="border-t border-line"><td>{r.year}</td><td>{fmtMnok(r.mnok, lang)}</td><td>{t(`basis.${r.basis}`)}</td></tr>)}</tbody>
+          <tbody>{rows.map((r) => <tr key={r.year} className="border-t border-line"><td>{r.year}</td><td>{fmtMnok(r.mnok, lang)}</td><td>{t(`basis.${r.basis}`)}{r.prelim ? `, ${t("prelim")}` : ""}</td></tr>)}</tbody>
         </table>
       </details>
     </section>

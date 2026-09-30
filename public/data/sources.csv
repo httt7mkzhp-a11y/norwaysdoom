@@ -1,7 +1,7 @@
 id,name,url,publisher,access,license,frequency,automatic,retrieved_at,status
-stortinget,"Stortingets åpne data (saker, voteringer, vedtatt budsjett)",https://data.stortinget.no/,Stortinget,api,NLOD 2.0,løpende (hentes ukentlig),True,2026-09-30T11:36:26+00:00,live
-ssb,"SSB StatBank (befolkning, BNP, KPI)",https://www.ssb.no/statbank,Statistisk sentralbyrå,api,CC BY 4.0,årlig/månedlig (hentes ukentlig),True,2026-09-30T11:36:07+00:00,live
-oecd_dac,OECD DAC (bistand per mottakerland og totaler),https://data-explorer.oecd.org/,OECD,api,OECD Terms and Conditions,årlig (hentes ukentlig),True,2026-09-30T11:36:07+00:00,live
+stortinget,"Stortingets åpne data (saker, voteringer, vedtatt budsjett)",https://data.stortinget.no/,Stortinget,api,NLOD 2.0,løpende (hentes ukentlig),True,2026-09-30T13:04:24+00:00,live
+ssb,"SSB StatBank (befolkning, BNP, KPI)",https://www.ssb.no/statbank,Statistisk sentralbyrå,api,CC BY 4.0,årlig/månedlig (hentes ukentlig),True,2026-09-30T13:03:54+00:00,live
+oecd_dac,OECD DAC (bistand per mottakerland og totaler),https://data-explorer.oecd.org/,OECD,api,OECD Terms and Conditions,årlig (hentes ukentlig),True,2026-09-30T13:03:54+00:00,live
 statsbudsjettet,Statsbudsjettet / Gul bok (regjeringen.no),https://www.regjeringen.no/no/statsbudsjett/id450327,Finansdepartementet,manual,NLOD 2.0,årlig (oktober),False,,manual_needed
 statsregnskapet,Statsregnskapet (DFØ),https://statsregnskapet.dfo.no/,DFØ,manual,NLOD 2.0,årlig,False,,manual_needed
 norad,Norad bistandsstatistikk / resultatportal,https://resultater.norad.no/,Norad,manual,NLOD 2.0,årlig,False,,manual_needed
