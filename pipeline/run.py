@@ -14,13 +14,14 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from pipeline import export, mock_data, validate  # noqa: E402
-from pipeline.sources import manual_import, ssb, stortinget  # noqa: E402
+from pipeline import export, mock_data, storting_build, validate  # noqa: E402
+from pipeline.sources import manual_import, ssb  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def run_live(ds: dict, now: str) -> dict:
+def run_live(ds: dict, now: str, out: Path) -> dict:
+    storting_out = out / "storting"
     log = {}
     status = {s["id"]: s for s in ds["sources"]}
 
@@ -47,14 +48,10 @@ def run_live(ds: dict, now: str) -> dict:
         mark("ssb", "failed", repr(e))
         traceback.print_exc()
 
-    # 2) Stortinget: budsjettsaker som kildereferanser (ingen beløp)
+    # 2) Stortinget: saker og voteringer -> public/data/storting (egen pipeline, urørt ved feil)
     try:
-        cases = stortinget.budget_cases(stortinget.session_id(ds["meta"]["currentYear"]))
-        if not cases:
-            raise ValueError("ingen budsjettsaker i sesjonen")
-        ds["meta"]["stortingetCases"] = cases
-        n_for = len(stortinget.foreign_budget_cases(cases))
-        mark("stortinget", "live", f"{len(cases)} budsjettsaker, {n_for} fra utenriks- og forsvarskomiteen (beløp: manuell)")
+        meta = storting_build.build(storting_out)
+        mark("stortinget", "live", f"{meta['n_cases']} saker, {meta['n_votes']} voteringer ({meta['n_personal_votes']} med stemmer per representant)")
     except Exception as e:  # noqa: BLE001
         mark("stortinget", "failed", repr(e))
 
@@ -95,7 +92,7 @@ def main() -> int:
     now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     ds = mock_data.generate(now)
     if a.mode == "live":
-        ds = run_live(ds, now)
+        ds = run_live(ds, now, Path(a.out))
     errs = validate.validate(ds)
     if errs:
         print("Validering feilet:\n  " + "\n  ".join(errs[:30]))

@@ -1,4 +1,5 @@
 import type { Lang } from "./types";
+import { stEn, stNb } from "./dict.storting";
 
 const nb: Record<string, string> = {
   "site.name": "Norges utenlandsteller",
@@ -160,4 +161,4 @@ const en: Record<string, string> = {
   "status.live": "Retrieved", "status.failed": "Failed", "status.manual_needed": "Needs manual import", "status.mock": "Sample data",
 };
 
-export const DICT: Record<Lang, Record<string, string>> = { nb, en };
+export const DICT: Record<Lang, Record<string, string>> = { nb: { ...nb, ...stNb }, en: { ...en, ...stEn } };

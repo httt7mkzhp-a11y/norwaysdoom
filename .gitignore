@@ -8,3 +8,4 @@ data/raw/*
 !data/raw/README.md
 next-env.d.ts
 tsconfig.tsbuildinfo
+data/cache/

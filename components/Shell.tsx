@@ -8,7 +8,7 @@ import { fmtDate } from "@/lib/format";
 
 const NAV = [
   ["/", "nav.home"], ["/kart/", "nav.map"], ["/kategorier/", "nav.categories"],
-  ["/hva-kunne-vi-gjort/", "nav.whatif"], ["/metode/", "nav.method"],
+  ["/stortinget/", "nav.storting"], ["/hva-kunne-vi-gjort/", "nav.whatif"], ["/metode/", "nav.method"],
 ] as const;
 
 function ThemeToggle() {

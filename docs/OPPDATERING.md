@@ -14,6 +14,13 @@ npm run build                          # statisk side i out/
 3. Kjør `--mode live`. Importerte rader erstatter mock for samme (år, kategori) og merkes `verified=true`. Når alt er verifisert blir `dataMode=live` og demobanneret forsvinner.
 4. Enhetspriser/proveny/årsstatistikk: rediger `pipeline/mock_data.py` (eller flytt til egne CSV) og sett `verified=True` med kilde-URL når tallene er kontrollert.
 
+## Stortinget (saker og voteringer)
+```bash
+python3 pipeline/storting_build.py             # bygger public/data/storting/ (første kjøring er treg, ~3 s per votering; svar caches i data/cache/)
+python3 pipeline/storting_build.py --max-drop 0.05   # feiler hvis antall saker/voteringer faller >5 % mot forrige uttrekk
+```
+Sesjoner og områder (nøkkelord) styres i `pipeline/config/storting.json`. Ved feil røres ikke eksisterende filer. Se [metode.md](metode.md) og [datahull.md](datahull.md).
+
 ## Status per kilde
 `dataset.json → meta.pipelineLog` og `sources[].status` viser `live | failed | manual_needed | mock`. Siden viser dato for siste vellykkede henting i bunnteksten.
 

@@ -6,10 +6,15 @@ permissions: { contents: write, pull-requests: write }
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
+      - uses: actions/cache@v4
+        with: { path: data/cache, key: "storting-cache-${{ github.run_id }}", restore-keys: "storting-cache-" }
+      # Feiler jobben tydelig ved feil eller >5 % nedgang; eksisterende data overskrives da ikke.
+      - run: python3 pipeline/storting_build.py --max-drop 0.05
       - run: python3 pipeline/run.py --mode live
       - run: python3 pipeline/validate.py
       - uses: peter-evans/create-pull-request@v6

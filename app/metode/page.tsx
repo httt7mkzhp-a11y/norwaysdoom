@@ -24,6 +24,11 @@ export default function Method() {
         ))}
       </div>
 
+      <section className="mt-8 max-w-3xl" id="stortinget" aria-labelledby="st-h">
+        <h2 id="st-h" className="font-serif text-xl">{t("st.method.h")}</h2>
+        <p className="mt-2 text-sm leading-relaxed">{t("st.method.p")}</p>
+      </section>
+
       <section className="mt-10" id="kilder" aria-labelledby="src-h">
         <h2 id="src-h" className="font-serif text-xl">{t("method.sources.h")}</h2>
         <p className="mt-1 text-sm text-muted">{t("method.sources.p", { date: fmtDate(ds.meta.generatedAt, lang) ?? "" })}</p>
