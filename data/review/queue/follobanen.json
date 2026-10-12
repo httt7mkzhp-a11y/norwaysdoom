@@ -1,6 +1,6 @@
 {
  "project_id": "follobanen",
- "generated_at": "2026-09-30T11:38:08+00:00",
+ "generated_at": "2026-10-12T13:35:16+00:00",
  "note": "Automatisk uttrekk. Ikke publisert. Godkjenn manuelt i data/review/approved/.",
  "cases": [
   {
@@ -484,20 +484,20 @@
    "kind": "tittel"
   },
   {
-   "id": "86457",
-   "session": "2021-2022",
-   "reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 13 S (2021-2022)",
-   "title": "Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 (kapitler fordelt til transport- og kommunikasjonsko",
-   "committee": "TRANSKOM",
-   "kind": "budsjett"
-  },
-  {
    "id": "86104",
    "session": "2021-2022",
    "reference": "Dokument 8:13 S (2021-2022), Innst. 85 S (2021-2022)",
    "title": "Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir Jørgensen og Sofie Marhaug om å oppheve vedtaket om innlemmelse av rettsaktene som inngår ",
    "committee": "TRANSKOM",
    "kind": "tittel"
+  },
+  {
+   "id": "86457",
+   "session": "2021-2022",
+   "reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 13 S (2021-2022)",
+   "title": "Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 Endring av Prop. 1 S (2021-2022) Statsbudsjettet 2022 (kapitler fordelt til transport- og kommunikasjonsko",
+   "committee": "TRANSKOM",
+   "kind": "budsjett"
   },
   {
    "id": "86053",
@@ -640,7 +640,7 @@
    "session": "2025-2026",
    "reference": "Dokument 3:19 (2025–2026)",
    "title": "Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet",
-   "committee": "",
+   "committee": "KONTROLL",
    "kind": "tittel"
   },
   {
@@ -648,7 +648,7 @@
    "session": "2025-2026",
    "reference": "Dokument 8:302 S (2025–2026)",
    "title": "Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren Representantforslag fr",
-   "committee": "TRANSKOM",
+   "committee": "SAM",
    "kind": "tittel"
   },
   {
@@ -656,7 +656,7 @@
    "session": "2025-2026",
    "reference": "Dokument 8:303 S (2025–2026)",
    "title": "Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet Representantforslag f",
-   "committee": "TRANSKOM",
+   "committee": "SAM",
    "kind": "tittel"
   },
   {
@@ -1093,21 +1093,21 @@
    "n_candidates": 0
   },
   {
-   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-013s.pdf",
-   "title": "Innst. 13 S (2021-2022)",
-   "case_id": "86457",
-   "case_reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 13 S (2021-2022)",
-   "session": "2021-2022",
-   "n_pages": 60,
-   "n_candidates": 0
-  },
-  {
    "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-085s.pdf",
    "title": "Innst. 85 S (2021-2022)",
    "case_id": "86104",
    "case_reference": "Dokument 8:13 S (2021-2022), Innst. 85 S (2021-2022)",
    "session": "2021-2022",
    "n_pages": 8,
+   "n_candidates": 0
+  },
+  {
+   "url": "https://www.stortinget.no/globalassets/pdf/innstillinger/stortinget/2021-2022/inns-202122-013s.pdf",
+   "title": "Innst. 13 S (2021-2022)",
+   "case_id": "86457",
+   "case_reference": "Prop. 1 S Tillegg 1 (2021-2022), Innst. 13 S (2021-2022)",
+   "session": "2021-2022",
+   "n_pages": 60,
    "n_candidates": 0
   },
   {
