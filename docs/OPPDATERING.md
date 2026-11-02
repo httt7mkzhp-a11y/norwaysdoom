@@ -32,7 +32,7 @@ Se [prosjekter.md](prosjekter.md).
 Rediger `areas` i `pipeline/config/storting.json` (id, navn, nøkkelord, emner). Sesjoner styres i samme fil.
 
 ## Automatisk kjøring
-`.github/workflows/update-data.yml` kjører ukentlig (mandag) og ved manuell start. Testene kjøres først; jobben feiler tydelig ved feil og åpner en PR bare ved suksess. Kjør den manuelt etter statsbudsjettet (oktober).
+`.github/workflows/update-data.yml` er **slått av for automatisk kjøring** (ingen `schedule`); den kjører bare ved manuell start under Actions. Legg tilbake linjen `schedule: [{ cron: "0 5 * * 1" }]` for ukentlig kjøring (mandag). Testene kjøres først; jobben feiler tydelig ved feil og åpner en PR bare ved suksess. Kjør den manuelt etter statsbudsjettet (oktober).
 
 ## Postgres (valgfritt)
 `db/schema.sql` beskriver samme modell relasjonelt. Appen leser statiske JSON/CSV-filer; lasting til Postgres er ikke implementert.

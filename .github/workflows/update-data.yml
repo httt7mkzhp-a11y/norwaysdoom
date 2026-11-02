@@ -1,6 +1,6 @@
 name: Oppdater data
 on:
-  schedule: [{ cron: "0 5 * * 1" }]   # ukentlig, mandag
+  # Automatisk ukentlig kjøring er slått av (fjernet schedule). Legg tilbake: schedule: [{ cron: "0 5 * * 1" }]
   workflow_dispatch:
     inputs:
       accept_drift:
