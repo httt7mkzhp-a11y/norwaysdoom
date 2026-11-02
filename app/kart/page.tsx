@@ -19,7 +19,8 @@ export default function MapPage() {
   const [q, setQ] = useState("");
   const [sel, setSel] = useState<string | null>(null);
 
-  const y = year ?? (ds ? Math.max(...ds.flows.map((f) => f.year)) : 0); // siste år med utbetalte tall (OECD)
+  const mapYears = ds ? [...new Set(ds.flows.filter((f) => !f.preliminary).map((f) => f.year))].sort((a, b) => a - b) : []; // år med fordeling på land
+  const y = year ?? mapYears[mapYears.length - 1] ?? 0;
   const minN = min === "" ? 0 : Number(min), maxN = max === "" ? Infinity : Number(max);
   const amounts = useMemo(() => (ds ? perRecipient(ds, { year: y, categories: cats, minMnok: minN, maxMnok: maxN }) : new Map<string, number>()), [ds, y, cats, minN, maxN]);
   if (!ds) return <Loading error={error} />;
@@ -42,7 +43,7 @@ export default function MapPage() {
       <form className="card mt-5 grid gap-4 p-4 md:grid-cols-4" onSubmit={(e) => { e.preventDefault(); submitSearch(); }} role="search" aria-label={t("filter.aria")}>
         <label className="text-sm">{t("filter.year")}
           <select className="field mt-1 block w-full" value={y} onChange={(e) => setYear(Number(e.target.value))}>
-            {yrs(ds).slice().reverse().map((yy) => <option key={yy} value={yy}>{yy}</option>)}
+            {mapYears.slice().reverse().map((yy) => <option key={yy} value={yy}>{yy}</option>)}
           </select>
         </label>
         <label className="text-sm">{t("filter.search")}

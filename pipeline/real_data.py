@@ -99,6 +99,20 @@ def build_flows(dac: dict, now: str) -> tuple[list[dict], dict[str, dict], list[
         tot = sum(f["amount_mnok"] for f in flows if f["year"] == y)
         if abs(tot - d1n["1010"]) > 0.002 * d1n["1010"]:
             problems.append(f"{y}: sum flows {tot:.1f} avviker fra DAC1 totalt {d1n['1010']:.1f}")
+    # Foreløpige år: OECD har totaler (DAC1) men ikke fordeling på mottakerland (DAC2A) ennå. Beløp i NOK direkte fra DAC1.
+    for y, d1n in sorted(dac["dac1_nok"].items()):
+        if y in dac["dac2a_usd"] or not all(k in d1n for k in ("1010", "1015", "2000", "1820")):
+            continue
+        d1u, rate = dac["dac1_usd"].get(y, {}), dac["rates"].get(y)
+        src = dict(basis="regnskap", source_id="oecd_dac", verified=True, retrieved_at=now, price_basis="løpende", preliminary=True)
+        for rid, cat, val, usd in [("unallocated", "oda_bilat", d1n["1015"] - d1n["1820"], (d1u.get("1015", 0) - d1u.get("1820", 0)) or None),
+                                   ("multilateral", "oda_multi", d1n["2000"], d1u.get("2000")), ("norway_refugees", "oda_refugee", d1n["1820"], d1u.get("1820"))]:
+            flows.append(dict(year=y, recipient_id=rid, category_id=cat, amount_mnok=round(val, 2), amount_usd_m=round(usd, 3) if usd else None,
+                              fx_nok_per_usd=round(rate, 4) if rate else None, source_ref=urls["dac1_nok"], **src))
+        tot = sum(f["amount_mnok"] for f in flows if f["year"] == y)
+        if abs(tot - d1n["1010"]) > 0.002 * d1n["1010"]:
+            problems.append(f"{y}: sum flows {tot:.1f} avviker fra DAC1 totalt {d1n['1010']:.1f}")
+        notes.append(f"{y}: foreløpig, kun totaler fra OECD DAC1; fordeling på mottakerland (DAC2A) er ikke publisert ennå")
     return flows, recips, problems, notes
 
 

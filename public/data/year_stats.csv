@@ -1,14 +1,14 @@
 year,population,taxpayers,gdp_mnok,cpi_index,price_basis,source_id,source_ref,retrieved_at,verified
-2014,5109056,,3250586.0,1.4071,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2015,5165802,,3231063.0,1.3772,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2016,5213985,,3219586.0,1.33,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2017,5258317,,3438310.0,1.3055,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2018,5295619,,3696944.0,1.2704,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2019,5328212,,3733355.0,1.2434,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2020,5367580,,3599226.0,1.2276,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2021,5391369,,4480477.0,1.1863,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2022,5425270,,5935035.0,1.1216,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2023,5488984,,5304881.0,1.063,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2024,5550203,,5382441.0,1.0306,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2025,5594340,,5511334.0,1.0,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
-2026,5627400,,,,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T11:36:07+00:00,True
+2014,5109056,,3250586.0,1.4071,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2015,5165802,,3231063.0,1.3772,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2016,5213985,,3219586.0,1.33,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2017,5258317,,3438310.0,1.3055,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2018,5295619,,3696944.0,1.2704,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2019,5328212,,3733355.0,1.2434,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2020,5367580,,3599226.0,1.2276,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2021,5391369,,4480477.0,1.1863,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2022,5425270,,5935035.0,1.1216,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2023,5488984,,5304881.0,1.063,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2024,5550203,,5382441.0,1.0306,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2025,5594340,,5511334.0,1.0,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True
+2026,5627400,,,,løpende,ssb,https://www.ssb.no/statbank/table/06913 ; https://www.ssb.no/statbank/table/09189 ; https://www.ssb.no/statbank/table/03013,2026-09-30T13:03:54+00:00,True

@@ -10,7 +10,7 @@ export interface Category {
 export interface Recipient { id: string; kind: "country" | "multilateral" | "unallocated"; name_nb: string; name_en: string; iso_n3: number | null; iso_a3: string | null; region: string | null }
 export interface Flow {
   year: number; recipient_id: string; category_id: string; amount_mnok: number; basis: Basis; source_id: string; source_ref: string; verified: boolean;
-  retrieved_at?: string; price_basis?: string; amount_usd_m?: number; fx_nok_per_usd?: number;
+  retrieved_at?: string; price_basis?: string; amount_usd_m?: number | null; fx_nok_per_usd?: number | null; preliminary?: boolean;
 }
 export interface BudgetLine {
   year: number; chapter: string; post: string; name: string; chapter_name: string; amount_nok: number; amount_mnok: number; category_id: string | null; in_scope: boolean;
